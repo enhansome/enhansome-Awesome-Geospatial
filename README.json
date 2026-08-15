@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T22:30:30Z",
             "owner": "orientechnologies",
             "repo": "orientdb",
-            "stars": 4977
+            "stars": 4978
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-01T11:31:28Z",
             "owner": "TileDB-Inc",
             "repo": "TileDB",
-            "stars": 2071
+            "stars": 2070
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T19:41:56Z",
+            "last_commit": "2026-08-15T17:23:12Z",
             "owner": "MobilityDB",
             "repo": "MobilityDB",
             "stars": 621
@@ -298,7 +298,7 @@
             "last_commit": "2026-08-14T08:31:44Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11344
+            "stars": 11353
           }
         },
         {
@@ -368,7 +368,7 @@
             "last_commit": "2026-05-16T22:42:50Z",
             "owner": "vasturiano",
             "repo": "globe.gl",
-            "stars": 3137
+            "stars": 3139
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2026-02-08T03:24:49Z",
             "owner": "tangrams",
             "repo": "tangram",
-            "stars": 2332
+            "stars": 2333
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2023-07-12T15:24:37Z",
             "owner": "d3",
             "repo": "d3-geo-projection",
-            "stars": 1152
+            "stars": 1153
           }
         },
         {
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:01:04Z",
+            "last_commit": "2026-08-15T00:00:58Z",
             "owner": "honua-io",
             "repo": "honua-sdk-js",
             "stars": 1
@@ -889,10 +889,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:52:32Z",
+            "last_commit": "2026-08-15T19:45:48Z",
             "owner": "geolens-io",
             "repo": "geolens",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -954,7 +954,7 @@
             "last_commit": "2026-08-11T00:58:37Z",
             "owner": "insarlab",
             "repo": "MintPy",
-            "stars": 824
+            "stars": 825
           }
         },
         {
@@ -1342,7 +1342,7 @@
             "last_commit": "2026-08-13T01:25:49Z",
             "owner": "mesa",
             "repo": "mesa",
-            "stars": 3794
+            "stars": 3796
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2026-08-11T22:12:49Z",
             "owner": "uber",
             "repo": "h3",
-            "stars": 6463
+            "stars": 6464
           }
         },
         {
@@ -1579,7 +1579,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T01:12:46Z",
+            "last_commit": "2026-08-15T19:35:06Z",
             "owner": "gee-community",
             "repo": "geemap",
             "stars": 4013
@@ -1896,7 +1896,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9915
+            "stars": 9917
           }
         },
         {
@@ -1907,10 +1907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:04:59Z",
+            "last_commit": "2026-08-15T10:57:47Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4143
+            "stars": 4146
           }
         },
         {
@@ -1924,7 +1924,7 @@
             "last_commit": "2026-08-10T20:37:42Z",
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4108
+            "stars": 4109
           }
         },
         {
@@ -1994,7 +1994,7 @@
             "last_commit": "2026-08-11T23:05:42Z",
             "owner": "weecology",
             "repo": "DeepForest",
-            "stars": 766
+            "stars": 767
           }
         },
         {
@@ -2336,7 +2336,7 @@
             "last_commit": "2026-08-13T16:46:08Z",
             "owner": "Vortx-AI",
             "repo": "emem",
-            "stars": 53
+            "stars": 52
           }
         },
         {
@@ -2384,7 +2384,7 @@
             "last_commit": "2026-08-11T22:12:49Z",
             "owner": "uber",
             "repo": "h3",
-            "stars": 6463
+            "stars": 6464
           }
         },
         {
@@ -2398,7 +2398,7 @@
             "last_commit": "2026-05-13T11:06:02Z",
             "owner": "openvenues",
             "repo": "libpostal",
-            "stars": 4869
+            "stars": 4870
           }
         },
         {
@@ -2471,7 +2471,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T19:30:39Z",
+            "last_commit": "2026-08-15T18:26:43Z",
             "owner": "halide",
             "repo": "Halide",
             "stars": 6584
@@ -2488,7 +2488,7 @@
             "last_commit": "2026-08-13T09:55:43Z",
             "owner": "OpenDroneMap",
             "repo": "ODM",
-            "stars": 6376
+            "stars": 6378
           }
         },
         {
@@ -2499,10 +2499,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T15:58:04Z",
+            "last_commit": "2026-08-15T12:19:45Z",
             "owner": "valhalla",
             "repo": "valhalla",
-            "stars": 6071
+            "stars": 6072
           }
         },
         {
@@ -2530,7 +2530,7 @@
             "last_commit": "2026-06-29T15:20:27Z",
             "owner": "mapbox",
             "repo": "tippecanoe",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -3372,7 +3372,7 @@
             "last_commit": "2026-08-10T23:14:17Z",
             "owner": "go-spatial",
             "repo": "tegola",
-            "stars": 1498
+            "stars": 1499
           }
         },
         {
@@ -3386,7 +3386,7 @@
             "last_commit": "2026-04-22T08:10:35Z",
             "owner": "llgcode",
             "repo": "draw2d",
-            "stars": 1164
+            "stars": 1165
           }
         },
         {
@@ -3400,7 +3400,7 @@
             "last_commit": "2026-03-30T15:51:22Z",
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1125
+            "stars": 1126
           }
         },
         {
@@ -3647,10 +3647,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T08:49:10Z",
+            "last_commit": "2026-08-15T16:58:43Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6632
+            "stars": 6633
           }
         },
         {
@@ -3661,10 +3661,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-07T15:52:19Z",
+            "last_commit": "2026-08-15T09:18:40Z",
             "owner": "komoot",
             "repo": "photon",
-            "stars": 2988
+            "stars": 2990
           }
         },
         {
@@ -3748,7 +3748,7 @@
             "last_commit": "2026-05-21T13:55:53Z",
             "owner": "OpenMap-java",
             "repo": "openmap",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -3807,10 +3807,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T19:40:29Z",
+            "last_commit": "2026-08-15T16:26:38Z",
             "owner": "CesiumGS",
             "repo": "cesium",
-            "stars": 15568
+            "stars": 15572
           }
         },
         {
@@ -3821,10 +3821,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:44:52Z",
+            "last_commit": "2026-08-15T00:47:36Z",
             "owner": "visgl",
             "repo": "deck.gl",
-            "stars": 14375
+            "stars": 14380
           }
         },
         {
@@ -3950,7 +3950,7 @@
             "last_commit": "2026-08-10T09:43:43Z",
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2345
+            "stars": 2346
           }
         },
         {
@@ -3964,7 +3964,7 @@
             "last_commit": "2026-08-12T11:01:46Z",
             "owner": "proj4js",
             "repo": "proj4js",
-            "stars": 2236
+            "stars": 2237
           }
         },
         {
@@ -4160,7 +4160,7 @@
             "last_commit": "2026-04-05T09:36:24Z",
             "owner": "tentone",
             "repo": "geo-three",
-            "stars": 944
+            "stars": 945
           }
         },
         {
@@ -5283,7 +5283,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-14T01:28:28Z",
+            "last_commit": "2026-08-15T00:58:35Z",
             "owner": "JuliaDataCubes",
             "repo": "EarthDataLab.jl",
             "stars": 34
@@ -5339,7 +5339,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-13T08:18:23Z",
+            "last_commit": "2026-08-15T08:14:46Z",
             "owner": "awesome-spectral-indices",
             "repo": "SpectralIndices.jl",
             "stars": 22
@@ -5818,7 +5818,7 @@
             "last_commit": "2026-08-14T07:07:12Z",
             "owner": "cupy",
             "repo": "cupy",
-            "stars": 12244
+            "stars": 12248
           }
         },
         {
@@ -5832,7 +5832,7 @@
             "last_commit": "2026-07-31T17:24:41Z",
             "owner": "gboeing",
             "repo": "osmnx",
-            "stars": 5811
+            "stars": 5812
           }
         },
         {
@@ -5860,7 +5860,7 @@
             "last_commit": "2026-07-12T19:49:44Z",
             "owner": "geopy",
             "repo": "geopy",
-            "stars": 4841
+            "stars": 4845
           }
         },
         {
@@ -5871,7 +5871,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T01:12:46Z",
+            "last_commit": "2026-08-15T19:35:06Z",
             "owner": "gee-community",
             "repo": "geemap",
             "stars": 4013
@@ -5958,7 +5958,7 @@
             "last_commit": "2026-08-11T02:12:17Z",
             "owner": "c2g-dev",
             "repo": "city2graph",
-            "stars": 1430
+            "stars": 1434
           }
         },
         {
@@ -6067,10 +6067,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:53:31Z",
+            "last_commit": "2026-08-14T20:24:10Z",
             "owner": "GenericMappingTools",
             "repo": "pygmt",
-            "stars": 872
+            "stars": 873
           }
         },
         {
@@ -6112,7 +6112,7 @@
             "last_commit": "2017-01-06T20:16:55Z",
             "owner": "thunder-project",
             "repo": "thunder",
-            "stars": 822
+            "stars": 823
           }
         },
         {
@@ -8179,7 +8179,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T02:35:00Z",
+            "last_commit": "2026-08-15T04:10:24Z",
             "owner": "tylermorganwall",
             "repo": "rayshader",
             "stars": 2174
@@ -8210,7 +8210,7 @@
             "last_commit": "2026-08-14T15:14:20Z",
             "owner": "ipea",
             "repo": "geobr",
-            "stars": 936
+            "stars": 937
           }
         },
         {
@@ -8224,7 +8224,7 @@
             "last_commit": "2026-02-01T20:02:40Z",
             "owner": "imbs-hl",
             "repo": "ranger",
-            "stars": 814
+            "stars": 813
           }
         },
         {
@@ -8263,7 +8263,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T13:00:45Z",
+            "last_commit": "2026-08-15T19:14:07Z",
             "owner": "rspatial",
             "repo": "terra",
             "stars": 615
@@ -8518,7 +8518,7 @@
             "last_commit": "2026-07-21T23:15:18Z",
             "owner": "ipeaGIT",
             "repo": "r5r",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -8887,6 +8887,20 @@
         },
         {
           "node_type": "item",
+          "title": "gtfs2gps",
+          "description": "Convert GTFS data into a data.table with GPS-like records in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-30T16:59:33Z",
+            "owner": "ipea",
+            "repo": "gtfs2gps",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
           "title": "nngeo",
           "description": "k-Nearest Neighbor Join for Spatial Data.",
           "children": [],
@@ -8897,20 +8911,6 @@
             "owner": "michaeldorman",
             "repo": "nngeo",
             "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gtfs2gps",
-          "description": "Convert GTFS data into a data.table with GPS-like records in R.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-06-30T16:59:33Z",
-            "owner": "ipea",
-            "repo": "gtfs2gps",
-            "stars": 82
           }
         },
         {
@@ -9089,7 +9089,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-01T16:25:30Z",
+            "last_commit": "2026-08-15T11:02:01Z",
             "owner": "firelab",
             "repo": "gdalraster",
             "stars": 59
@@ -9162,7 +9162,7 @@
             "last_commit": "2026-07-29T11:53:36Z",
             "owner": "ipea",
             "repo": "censobr",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -9919,10 +9919,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:04:11Z",
+            "last_commit": "2026-08-14T23:57:10Z",
             "owner": "louis-e",
             "repo": "arnis",
-            "stars": 17466
+            "stars": 17474
           }
         },
         {
@@ -9947,10 +9947,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T11:01:06Z",
+            "last_commit": "2026-08-15T11:50:06Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3828
+            "stars": 3830
           }
         },
         {
@@ -9964,7 +9964,7 @@
             "last_commit": "2026-08-13T17:55:13Z",
             "owner": "georust",
             "repo": "geo",
-            "stars": 1911
+            "stars": 1912
           }
         },
         {
@@ -9992,7 +9992,7 @@
             "last_commit": "2026-08-14T03:43:10Z",
             "owner": "maplibre",
             "repo": "maplibre-rs",
-            "stars": 1565
+            "stars": 1566
           }
         },
         {
@@ -10104,7 +10104,7 @@
             "last_commit": "2026-08-13T19:21:53Z",
             "owner": "georust",
             "repo": "rstar",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -10146,7 +10146,7 @@
             "last_commit": "2026-08-14T18:40:18Z",
             "owner": "apache",
             "repo": "sedona-db",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -10325,7 +10325,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T11:51:51Z",
+            "last_commit": "2026-08-15T10:12:29Z",
             "owner": "zarrs",
             "repo": "zarrs",
             "stars": 266
@@ -10367,7 +10367,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T04:03:00Z",
+            "last_commit": "2026-08-15T01:53:36Z",
             "owner": "jbuckmccready",
             "repo": "cavalier_contours",
             "stars": 225
@@ -10398,7 +10398,7 @@
             "last_commit": "2026-04-17T15:50:53Z",
             "owner": "georust",
             "repo": "geo-index",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -10426,7 +10426,7 @@
             "last_commit": "2026-06-17T20:22:17Z",
             "owner": "georust",
             "repo": "proj",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -10437,7 +10437,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-01T03:23:43Z",
+            "last_commit": "2026-08-15T01:29:51Z",
             "owner": "rgeometry",
             "repo": "rgeometry",
             "stars": 180
@@ -10507,10 +10507,24 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T09:20:30Z",
+            "last_commit": "2026-08-15T13:58:00Z",
             "owner": "iShape-Rust",
             "repo": "iTriangle",
             "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geos",
+          "description": "Rust bindings for GEOS C API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-03T10:59:29Z",
+            "owner": "georust",
+            "repo": "geos",
+            "stars": 147
           }
         },
         {
@@ -10525,20 +10539,6 @@
             "owner": "ellenhp",
             "repo": "solari",
             "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "geos",
-          "description": "Rust bindings for GEOS C API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-03T10:59:29Z",
-            "owner": "georust",
-            "repo": "geos",
-            "stars": 146
           }
         },
         {
@@ -10647,7 +10647,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T08:42:28Z",
+            "last_commit": "2026-08-15T13:02:51Z",
             "owner": "stadiamaps",
             "repo": "pmtiles-rs",
             "stars": 107
@@ -10664,7 +10664,7 @@
             "last_commit": "2025-05-10T02:49:40Z",
             "owner": "georust",
             "repo": "robust",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -12034,7 +12034,7 @@
             "last_commit": "2026-08-11T09:43:55Z",
             "owner": "locationtech",
             "repo": "geotrellis",
-            "stars": 1371
+            "stars": 1372
           }
         },
         {
@@ -12197,10 +12197,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T19:51:01Z",
+            "last_commit": "2026-08-15T19:07:35Z",
             "owner": "organicmaps",
             "repo": "organicmaps",
-            "stars": 15091
+            "stars": 15101
           }
         },
         {
@@ -12228,7 +12228,7 @@
             "last_commit": "2026-08-03T16:03:07Z",
             "owner": "fleaflet",
             "repo": "flutter_map",
-            "stars": 3009
+            "stars": 3010
           }
         },
         {
@@ -12239,10 +12239,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T18:21:52Z",
+            "last_commit": "2026-08-15T12:29:00Z",
             "owner": "maplibre",
             "repo": "maplibre-native",
-            "stars": 2141
+            "stars": 2142
           }
         },
         {
@@ -12267,10 +12267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T19:14:11Z",
+            "last_commit": "2026-08-15T00:51:50Z",
             "owner": "maplibre",
             "repo": "maplibre-compose",
-            "stars": 535
+            "stars": 536
           }
         },
         {
@@ -12332,7 +12332,7 @@
             "last_commit": "2026-08-11T09:43:55Z",
             "owner": "locationtech",
             "repo": "geotrellis",
-            "stars": 1371
+            "stars": 1372
           }
         },
         {
@@ -12380,7 +12380,7 @@
             "last_commit": "2025-12-20T18:19:10Z",
             "owner": "domlysz",
             "repo": "BlenderGIS",
-            "stars": 9287
+            "stars": 9293
           }
         },
         {
@@ -12391,7 +12391,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:20:16Z",
+            "last_commit": "2026-08-15T13:37:41Z",
             "owner": "python-visualization",
             "repo": "folium",
             "stars": 7396
@@ -12408,7 +12408,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6113
+            "stars": 6116
           }
         },
         {
@@ -12422,7 +12422,7 @@
             "last_commit": "2026-06-29T15:20:27Z",
             "owner": "mapbox",
             "repo": "tippecanoe",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -12492,7 +12492,7 @@
             "last_commit": "2025-03-13T15:53:26Z",
             "owner": "kosmtik",
             "repo": "kosmtik",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -12722,7 +12722,7 @@
             "last_commit": "2026-08-13T19:50:40Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2136
+            "stars": 2137
           }
         },
         {
@@ -12736,7 +12736,7 @@
             "last_commit": "2026-07-24T16:09:16Z",
             "owner": "osm2pgsql-dev",
             "repo": "osm2pgsql",
-            "stars": 1677
+            "stars": 1678
           }
         },
         {
@@ -12761,10 +12761,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T11:00:41Z",
+            "last_commit": "2026-08-15T06:24:31Z",
             "owner": "CS-SI",
             "repo": "eodag",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -12803,10 +12803,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T14:50:58Z",
+            "last_commit": "2026-08-15T16:41:38Z",
             "owner": "DroneDB",
             "repo": "DroneDB",
-            "stars": 278
+            "stars": 279
           }
         },
         {
@@ -12816,11 +12816,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T13:54:51Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T18:23:56Z",
             "owner": "nextgis",
             "repo": "nextgisweb",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -13220,7 +13220,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313975
+            "stars": 314134
           }
         },
         {
@@ -13234,7 +13234,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23498
+            "stars": 23497
           }
         },
         {
@@ -13276,7 +13276,7 @@
             "last_commit": "2026-08-02T12:18:31Z",
             "owner": "satellite-image-deep-learning",
             "repo": "techniques",
-            "stars": 10232
+            "stars": 10230
           }
         },
         {
@@ -13304,7 +13304,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5473
+            "stars": 5475
           }
         },
         {
@@ -13346,7 +13346,7 @@
             "last_commit": "2026-07-23T13:51:40Z",
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2525
+            "stars": 2526
           }
         },
         {
@@ -13385,7 +13385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T02:14:36Z",
+            "last_commit": "2026-08-15T18:29:44Z",
             "owner": "awesome-spectral-indices",
             "repo": "awesome-spectral-indices",
             "stars": 1162
@@ -13564,7 +13564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:03:57.431Z",
+    "last_updated": "2026-08-15T19:46:11.362Z",
     "original_repository": "sacridini/Awesome-Geospatial",
     "original_repository_sha": "29d6fc5c5c063c8885363250804cd085bd755f2b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Geospatial",
