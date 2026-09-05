@@ -75,17 +75,17 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Database
 
-* [Tile38](https://github.com/tidwall/tile38) ⭐ 9,724 | 🐛 163 | 🌐 Go | 📅 2026-09-02 - Tile38 is a geospatial database, spatial index, and realtime geofence.
+* [Tile38](https://github.com/tidwall/tile38) ⭐ 9,723 | 🐛 163 | 🌐 Go | 📅 2026-09-02 - Tile38 is a geospatial database, spatial index, and realtime geofence.
 * [OrientDB](https://github.com/orientechnologies/orientdb) ⭐ 4,984 | 🐛 353 | 🌐 Java | 📅 2026-09-02 - OrientDB is an Open Source Multi-Model NoSQL DBMS with the support of Native Graphs, Documents Full-Text, Reactivity, Geo-Spatial and Object Oriented concepts.
-* [TileDB](https://github.com/TileDB-Inc/TileDB) ⭐ 2,076 | 🐛 117 | 🌐 C++ | 📅 2026-09-01 - TileDB is a powerful engine for storing and accessing dense and sparse multi-dimensional arrays, which can help you model any complex data efficiently.
+* [TileDB](https://github.com/TileDB-Inc/TileDB) ⭐ 2,076 | 🐛 118 | 🌐 C++ | 📅 2026-09-01 - TileDB is a powerful engine for storing and accessing dense and sparse multi-dimensional arrays, which can help you model any complex data efficiently.
 * [Neo4j Spatial](https://github.com/neo4j-contrib/spatial) ⭐ 825 | 🐛 80 | 🌐 Java | 📅 2026-02-28 - Library of spatial utilities for Neo4j.
-* [MobilityDB](https://github.com/ULB-CoDE-WIT/MobilityDB) ⭐ 624 | 🐛 9 | 🌐 C | 📅 2026-09-04 - An extension to the Postgres database which adds support for temporal and spatio-temporal objects
+* [MobilityDB](https://github.com/ULB-CoDE-WIT/MobilityDB) ⭐ 624 | 🐛 6 | 🌐 C | 📅 2026-09-05 - An extension to the Postgres database which adds support for temporal and spatio-temporal objects
 * [GeoCouch](https://github.com/couchbase/geocouch) ⭐ 515 | 🐛 3 | 🌐 Erlang | 📅 2021-11-10 - GeoCouch is a spatial extension for Couchbase and Apache CouchDB.
 * [PointCloud](https://github.com/pgpointcloud/pointcloud) ⭐ 426 | 🐛 48 | 🌐 PLpgSQL | 📅 2026-08-08 - A PostgreSQL extension for storing point cloud (LIDAR) data.
 * [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) ⭐ 282 | 🐛 4 | 🌐 PLpgSQL | 📅 2026-06-29 - A set of PostgreSQL functions that are useful when creating vector tile sources.
 * [H2GIS](https://github.com/orbisgis/h2gis) ⭐ 222 | 🐛 33 | 🌐 PLpgSQL | 📅 2026-06-24 - A spatial extension of the H2 database.
 * [GeoDesk](https://github.com/clarisma/geodesk) ⭐ 201 | 🐛 47 | 🌐 Java | 📅 2026-07-17 - Fast and storage-efficient spatial database engine for OpenStreetMap data
-* [duckdb-raster](https://github.com/ahuarte47/duckdb-raster) ⭐ 54 | 🐛 0 | 🌐 C | 📅 2026-09-04 - DuckDB Extension for reading and writing raster files using SQL.
+* [duckdb-raster](https://github.com/ahuarte47/duckdb-raster) ⭐ 54 | 🐛 0 | 🌐 C | 📅 2026-09-05 - DuckDB Extension for reading and writing raster files using SQL.
 * [Hastings](https://github.com/cloudant-labs/hastings) ⭐ 29 | 🐛 3 | 🌐 Erlang | 📅 2026-08-06 - GeoSpatial Search for CouchDB 2
 * [yogrt](https://github.com/Anagraph/yogrt) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2022-11-16 - A simple templating tool for importing GIS data to PostGIS
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) ⭐ 16 | 🐛 9 | 🌐 HTML | 📅 2026-05-15 - Open-source 4D spatiotemporal platform with PostGIS, TimescaleDB, pgvector, and H3 hexagonal indexing.
@@ -163,21 +163,21 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Web Map Development
 
-* [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) ⭐ 11,535 | 🐛 387 | 🌐 TypeScript | 📅 2026-09-04 - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license.
-* [MapTalks.js](https://github.com/maptalks/maptalks.js) ⭐ 4,534 | 🐛 119 | 🌐 HTML | 📅 2026-08-25 - An open-source JavaScript library for integrated 2D/3D maps.
-* [L7](https://github.com/antvis/L7) ⭐ 4,061 | 🐛 214 | 🌐 TypeScript | 📅 2026-07-30 - Large-scale WebGL-powered Geospatial Data Visualization By Ant Financial
+* [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) ⭐ 11,543 | 🐛 290 | 🌐 TypeScript | 📅 2026-09-05 - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license.
+* [MapTalks.js](https://github.com/maptalks/maptalks.js) ⭐ 4,535 | 🐛 119 | 🌐 HTML | 📅 2026-08-25 - An open-source JavaScript library for integrated 2D/3D maps.
+* [L7](https://github.com/antvis/L7) ⭐ 4,060 | 🐛 215 | 🌐 TypeScript | 📅 2026-07-30 - Large-scale WebGL-powered Geospatial Data Visualization By Ant Financial
 * [datamaps](https://github.com/markmarkoh/datamaps) ⭐ 3,798 | 🐛 229 | 🌐 JavaScript | 📅 2026-02-10 - Customizable map visualizations in one file.
-* [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) ⭐ 3,309 | 🐛 190 | 🌐 JavaScript | 📅 2024-08-08 - An SVG mapping component library for React, built on top of d3-geo.
-* [globe.gl](https://github.com/vasturiano/globe.gl) ⭐ 3,159 | 🐛 131 | 🌐 HTML | 📅 2026-08-22 - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering.
+* [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) ⭐ 3,308 | 🐛 190 | 🌐 JavaScript | 📅 2026-09-05 - An SVG mapping component library for React, built on top of d3-geo.
+* [globe.gl](https://github.com/vasturiano/globe.gl) ⭐ 3,160 | 🐛 133 | 🌐 HTML | 📅 2026-08-22 - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering.
 * [Mapzen Tangram](https://github.com/tangrams/tangram) ⭐ 2,334 | 🐛 66 | 🌐 JavaScript | 📅 2026-02-08 - JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL, supports MVT, GeoJSON, TopoJSON.
-* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,045 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03 - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
+* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,044 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-05 - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
 * [TerriaJS](https://github.com/TerriaJS/terriajs) ⭐ 1,361 | 🐛 887 | 🌐 TypeScript | 📅 2026-09-04 - A library for building rich, web-based geospatial data explorers.
-* [titiler](https://github.com/developmentseed/titiler) ⭐ 1,157 | 🐛 24 | 🌐 Python | 📅 2026-09-04 - A dynamic Web Map tile server.
+* [titiler](https://github.com/developmentseed/titiler) ⭐ 1,168 | 🐛 24 | 🌐 Python | 📅 2026-09-04 - A dynamic Web Map tile server.
 * [d3-geo-projection](https://github.com/d3/d3-geo-projection) ⭐ 1,152 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-12 - Extended geographic projections for d3-geo.
-* [d3-geo](https://github.com/d3/d3-geo) ⭐ 1,097 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 - A library for creating maps based on D3.js.
+* [d3-geo](https://github.com/d3/d3-geo) ⭐ 1,098 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 - A library for creating maps based on D3.js.
 * [Map Forecast API](https://github.com/windycom/API) ⭐ 909 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-27 - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps.
 * [Wrld.js](https://github.com/wrld3d/wrld.js/) ⭐ 435 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-18 - Animated 3D city maps based on Leaflet.
-* [ArcGIS REST JS](https://github.com/Esri/arcgis-rest-js) ⭐ 390 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-27 - Compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers.
+* [ArcGIS REST JS](https://github.com/Esri/arcgis-rest-js) ⭐ 390 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-05 - Compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers.
 * [CMV - The Configurable Map Viewer](https://github.com/cmv/cmv-app) ⭐ 331 | 🐛 60 | 🌐 JavaScript | 📅 2026-02-13 - CMV is a community-supported open source mapping framework. CMV works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more.
 * [Bertin.js](https://github.com/neocarto/bertin) ⭐ 316 | 🐛 9 | 🌐 JavaScript | 📅 2023-10-23 - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
 * [Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile) ⭐ 302 | 🐛 43 | 🌐 JavaScript | 📅 2021-10-24 - A Leaflet Plugin that renders Mapbox Vector Tiles on HTML5 Canvas.
@@ -199,7 +199,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [azure-maps-swipe-map](https://github.com/Azure-Samples/azure-maps-swipe-map) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2024-08-21 - A module for the Azure Maps Web SDK that allows swiping between two overlapping maps, ideal for comparing two overlapping data sets.
 * [MapLineDraw](https://github.com/patrsc/MapLineDraw) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2025-11-19 - An open source web application for drawing smooth curves (splines) on a map, suitable for sketching or measuring railway lines or roads.
 * [azure-maps-sync-maps](https://github.com/Azure-Samples/azure-maps-sync-maps) ⚠️ Archived - An Azure Maps Web SDK module that synchronizes the cameras of two or more maps.
-* [Honua SDK JS](https://github.com/honua-io/honua-sdk-js) ⭐ 1 | 🐛 108 | 🌐 TypeScript | 📅 2026-09-04 - TypeScript geospatial client for ArcGIS/Esri GeoServices, OGC API, WFS, WMS/WMTS, STAC, OData, and GeoParquet with a MapLibre runtime and an ArcGIS migration codemod. [Example](https://honua-io.github.io/honua-sdk-js/guides/quickstart.html)
+* [Honua SDK JS](https://github.com/honua-io/honua-sdk-js) ⭐ 1 | 🐛 116 | 🌐 TypeScript | 📅 2026-09-05 - TypeScript geospatial client for ArcGIS/Esri GeoServices, OGC API, WFS, WMS/WMTS, STAC, OData, and GeoParquet with a MapLibre runtime and an ArcGIS migration codemod. [Example](https://honua-io.github.io/honua-sdk-js/guides/quickstart.html)
 * [azure-maps-selection-control](https://github.com/Azure-Samples/azure-maps-selection-control) ⚠️ Archived - An Azure Maps Web SDK module that provides controls for selecting data in a data source using drawing tools or by requesting a route range polygon.
 * [BuoyBoy](https://www.buoyboy.info/) - Web app for visualizing real-time NOAA and CDIP buoy data, including wave height and swell period.
 * [CesiumJS](https://cesium.com/platform/cesiumjs/) - An open-source JavaScript library for world-class 3D globes and maps.
@@ -223,7 +223,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Nanocubes](https://github.com/laurolins/nanocube) ⭐ 733 | 🐛 42 | 🌐 C | 📅 2023-05-04 - An in-memory data structure for spatiotemporal data cubes.
 * [PGRestAPI](https://github.com/spatialdev/PGRestAPI) ⭐ 433 | 🐛 88 | 🌐 JavaScript | 📅 2018-04-28 - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer.
 * [THREDDS](https://github.com/Unidata/thredds) ⚠️ Archived - The THREDDS Data Server (TDS) is a web server that provides metadata and data access for scientific data sets, using OPeNDAP, OGC WCS, HTTP, and other data access protocols.
-* [GeoLens](https://github.com/geolens-io/geolens) ⭐ 228 | 🐛 26 | 🌐 Python | 📅 2026-09-04 - Self-hosted geospatial catalog and map builder on PostGIS; upload data, get vector tiles, style and share maps. Implements OGC API - Features/Records, STAC and DCAT.
+* [GeoLens](https://github.com/geolens-io/geolens) ⭐ 231 | 🐛 44 | 🌐 Python | 📅 2026-09-05 - Self-hosted geospatial catalog and map builder on PostGIS; upload data, get vector tiles, style and share maps. Implements OGC API - Features/Records, STAC and DCAT.
 * [GeoTrellis Server](https://github.com/geotrellis/geotrellis-server) ⭐ 80 | 🐛 31 | 🌐 Scala | 📅 2026-02-09 - Tools for building raster processing and display services. It supports WMS, WCS, WMTS and can use individual rasters, STAC Catalogs (through the STAC API service) and GeoTrellis Layers as input raster sources.
 * [utilery](https://github.com/tilery/utilery) ⭐ 44 | 🐛 6 | 🌐 Python | 📅 2017-11-01 - Micro vector tile manufacturing from PostGIS.
 * [Planisfy](https://github.com/giseity/planisfy) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-10 - Open-source geospatial API platform for MapLibre styles, vector tiles, routing, geocoding, API keys, usage tracking, jobs, and map operations.
@@ -255,7 +255,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Lidar
 
-* [potree](https://github.com/potree/potree/) ⭐ 5,593 | 🐛 822 | 🌐 JavaScript | 📅 2026-01-08 - Potree is a free open-source WebGL based point cloud renderer for large point clouds. PotreeConverter provides all files to view your point cloud with only a basic webserver running.
+* [potree](https://github.com/potree/potree/) ⭐ 5,594 | 🐛 822 | 🌐 JavaScript | 📅 2026-01-08 - Potree is a free open-source WebGL based point cloud renderer for large point clouds. PotreeConverter provides all files to view your point cloud with only a basic webserver running.
 * [lidR](https://github.com/Jean-Romain/lidR) ⭐ 709 | 🐛 16 | 🌐 R | 📅 2026-09-04 - R package for airborne LiDAR data manipulation and visualisation for forestry application.
 * [plas.io](https://github.com/verma/plasio) ⭐ 539 | 🐛 36 | 🌐 JavaScript | 📅 2020-03-26 - WebGL point cloud rendering.
 * [Entwine](https://github.com/connormanning/entwine) ⭐ 527 | 🐛 3 | 🌐 C++ | 📅 2026-06-02 - Point cloud indexing for massive datasets.
@@ -325,7 +325,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Agent-based Modeling
 
-* [Mesa](https://github.com/projectmesa/mesa) ⭐ 3,826 | 🐛 88 | 🌐 Python | 📅 2026-09-01 - Mesa is an Apache2 licensed agent-based modeling (or ABM) framework in Python.
+* [Mesa](https://github.com/projectmesa/mesa) ⭐ 3,826 | 🐛 93 | 🌐 Python | 📅 2026-09-01 - Mesa is an Apache2 licensed agent-based modeling (or ABM) framework in Python.
 * [nlrx](https://github.com/ropensci/nlrx) ⭐ 80 | 🐛 21 | 🌐 R | 📅 2026-09-03 - Provides tools to setup and execute NetLogo simulations from R.
 * [DMASON](https://github.com/isislab-unisa/dmason) ⭐ 19 | 🐛 7 | 🌐 Java | 📅 2022-05-16 - DMASON is a parallel version of the MASON library for writing and running simulations of Agent based simulation models.
 * [MASON](https://cs.gmu.edu/~eclab/projects/mason/) - MASON is a fast discrete-event multiagent simulation library core in Java, designed to be the foundation for large custom-purpose Java simulations, and also to provide more than enough functionality for many lightweight simulation needs. MASON contains both a model library and an optional suite of visualization tools in 2D and 3D.
@@ -350,14 +350,14 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Spatial Optimization
 
-* [prioritizr](https://github.com/prioritizr/prioritizr) ⭐ 137 | 🐛 18 | 🌐 R | 📅 2026-06-17 - R package that uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
+* [prioritizr](https://github.com/prioritizr/prioritizr) ⭐ 137 | 🐛 19 | 🌐 R | 📅 2026-09-05 - R package that uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
 * [prioriactions](https://github.com/prioriactions/prioriactions) ⭐ 11 | 🐛 1 | 🌐 R | 📅 2025-11-18 - The prioriactions R package uses a mixed integer mathematical programming (MIP) approach for building and solving multi-action conservation planning problems, where the goal is to find an optimal combination of management actions that abate threats, in an efficient way while accounting for connectivity.
 * [MARXAN](https://marxansolutions.org/) - Marxan is a freely available conservation planning software. It provides decision support to a range of conservation planning problems, including the design of new reserve systems, reporting on the performance of existing reserve systems, and developing multiple-use zoning plans for natural resource management.
 * [Zonation](http://conservationcorridor.org/corridor-toolbox/programs-and-tools/zonation/) - Zonation produces a hierarchical prioritization of the landscape based on the occurrence levels of biodiversity features in sites (cells) by iteratively removing the least valuable remaining cell while accounting for connectivity and generalized complementarity.
 
 ## Libraries
 
-* [H3](https://github.com/uber/h3) ⭐ 6,524 | 🐛 164 | 🌐 C | 📅 2026-09-03 - Hexagonal hierarchical geospatial indexing system, written in C with bindings/ports in Python, JavaScript, Java, R, Rust, Go, Swift, and C#.
+* [H3](https://github.com/uber/h3) ⭐ 6,528 | 🐛 164 | 🌐 C | 📅 2026-09-03 - Hexagonal hierarchical geospatial indexing system, written in C with bindings/ports in Python, JavaScript, Java, R, Rust, Go, Swift, and C#.
 * [MDAL](https://github.com/lutraconsulting/MDAL) ⭐ 190 | 🐛 81 | 🌐 Roff | 📅 2026-07-31 - Mesh Data Abstraction Library.
 * [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
 * [GEOS](https://trac.osgeo.org/geos/) - Geometry Engine - Open Source, a C++ port of the Java Topology Suite (JTS) that provides spatial predicates and functions, serving as the core engine for libraries like Shapely (Python), sf (R), and spatial databases like PostGIS.
@@ -380,7 +380,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## SaaS - Software as a Service
 
-* [OpenSky API](https://github.com/openskynetwork/opensky-api) ⭐ 466 | 🐛 14 | 🌐 Python | 📅 2026-07-20 - Retrieve live airspace information.
+* [OpenSky API](https://github.com/openskynetwork/opensky-api) ⭐ 466 | 🐛 14 | 🌐 Python | 📅 2026-09-05 - Retrieve live airspace information.
 * [movebank-api](https://github.com/movebank/movebank-api-doc) ⭐ 192 | 🐛 14 | 🌐 Python | 📅 2026-01-02 - Platform for animal tracking data.
 * [Phantom Tide](https://github.com/tg12/phantomtide) ⭐ 122 | 🐛 4 | 📅 2026-08-18 - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 * [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-European address data with geocoding and reverse-geocoding.
@@ -490,13 +490,13 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Deep Learning
 
-* [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) ⭐ 9,939 | 🐛 869 | 🌐 Python | 📅 2024-08-13 - MMSegmentation is an open source semantic segmentation toolbox based on PyTorch. It is a part of the OpenMMLab project.
-* [TorchGeo](https://github.com/microsoft/torchgeo) ⭐ 4,171 | 🐛 213 | 🌐 Python | 📅 2026-09-03 - TorchGeo is a PyTorch domain library, similar to torchvision, that provides datasets, transforms, samplers, and pre-trained models specific to geospatial data.
-* [segment-geospatial](https://github.com/opengeos/segment-geospatial) ⭐ 4,134 | 🐛 6 | 🌐 Python | 📅 2026-08-31 - Meta AI' Segment Anything Model (SAM) for Geospatial Data
+* [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) ⭐ 9,941 | 🐛 869 | 🌐 Python | 📅 2024-08-13 - MMSegmentation is an open source semantic segmentation toolbox based on PyTorch. It is a part of the OpenMMLab project.
+* [TorchGeo](https://github.com/microsoft/torchgeo) ⭐ 4,172 | 🐛 214 | 🌐 Python | 📅 2026-09-05 - TorchGeo is a PyTorch domain library, similar to torchvision, that provides datasets, transforms, samplers, and pre-trained models specific to geospatial data.
+* [segment-geospatial](https://github.com/opengeos/segment-geospatial) ⭐ 4,135 | 🐛 6 | 🌐 Python | 📅 2026-08-31 - Meta AI' Segment Anything Model (SAM) for Geospatial Data
 * [SNIPER](https://github.com/mahyarnajibi/SNIPER) ⭐ 2,690 | 🐛 115 | 🌐 Python | 📅 2021-08-22 - SNIPER is an efficient multi-scale object detection algorithm.
 * [Raster Vision](https://github.com/azavea/raster-vision) ⭐ 2,242 | 🐛 45 | 🌐 Python | 📅 2026-06-04 - An open source framework for deep learning on satellite and aerial imagery.
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) ⭐ 1,248 | 🐛 7 | 🌐 Python | 📅 2026-01-15 - Earth observation processing framework for machine learning in Python.
-* [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) ⭐ 1,072 | 🐛 99 | 🌐 Python | 📅 2023-10-06 - Pixellib is a library for performing segmentation of images. It suports both Semantic Segmentation as Instance Segmentation.
+* [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) ⭐ 1,071 | 🐛 99 | 🌐 Python | 📅 2023-10-06 - Pixellib is a library for performing segmentation of images. It suports both Semantic Segmentation as Instance Segmentation.
 * [DeepForest](https://github.com/weecology/DeepForest) ⭐ 771 | 🐛 102 | 🌐 Python | 📅 2026-08-30 - Python Package for Tree Crown Detection in Airborne RGB imagery.
 * [LightNet](https://github.com/ansleliu/LightNet) ⭐ 725 | 🐛 14 | 🌐 Python | 📅 2020-02-23 - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
 * [Deep Learning ArcGIS](https://github.com/Esri/deep-learning-frameworks) ⭐ 650 | 🐛 9 | 📅 2026-07-21 - Deep Learning Libraries Installers for ArcGIS.
@@ -525,7 +525,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## MCP Servers
 
-* [emem](https://github.com/Vortx-AI/emem) ⭐ 56 | 🐛 0 | 🌐 Rust | 📅 2026-09-04 - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
+* [emem](https://github.com/Vortx-AI/emem) ⭐ 56 | 🐛 0 | 🌐 Rust | 📅 2026-09-05 - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
 * [bhoonidhi-mcp](https://github.com/geovicco-dev/bhoonidhi-mcp) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - Model Context Protocol server for ISRO's Bhoonidhi Earth-observation portal, over the bhoonidhi-downloader SDK. Lets an AI agent search the archive in natural language, resolve place names and satellite tokens, report each scene's availability, and (with a login) save queries, download open-access scenes, and stage scenes to the cart.
 * [NetLoc8 MCP](https://github.com/netloc8/netloc8-mcp) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-06-24 - Model Context Protocol server giving AI assistants geolocation tools to lookup country, city, region, timezone, coordinates, and ASN.
 * [CARTO for Agents](https://docs.carto.com/carto-for-agents?utm_source=awesome-geospatial\&utm_medium=listing\&utm_campaign=mcp-marketplace-listings) - Official remote MCP server for CARTO, the Agentic GIS platform. Query governed warehouse data, run spatial analysis, create or edit maps and workflows, and render interactive maps in the conversation; every tool call runs inside your own data warehouse (BigQuery, Snowflake, Databricks, Redshift, or PostgreSQL).
@@ -534,23 +534,23 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## C
 
-* [libvips](https://github.com/libvips/libvips) ⭐ 11,628 | 🐛 84 | 🌐 C | 📅 2026-09-04 - A fast image processing library with low memory needs.
-* [H3](https://github.com/uber/h3) ⭐ 6,524 | 🐛 164 | 🌐 C | 📅 2026-09-03 - Hexagonal hierarchical geospatial indexing system.
-* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,880 | 🐛 299 | 🌐 C | 📅 2026-05-13 - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
+* [libvips](https://github.com/libvips/libvips) ⭐ 11,629 | 🐛 81 | 🌐 C | 📅 2026-09-05 - A fast image processing library with low memory needs.
+* [H3](https://github.com/uber/h3) ⭐ 6,528 | 🐛 164 | 🌐 C | 📅 2026-09-03 - Hexagonal hierarchical geospatial indexing system.
+* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,882 | 🐛 299 | 🌐 C | 📅 2026-05-13 - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 * [YOLT](https://github.com/CosmiQ/yolt) ⭐ 674 | 🐛 0 | 🌐 C | 📅 2018-10-25 - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.
 * [Datamaps](https://github.com/ericfischer/datamaps) ⭐ 350 | 🐛 4 | 🌐 C | 📅 2014-08-19 - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
-* [FORCE](https://github.com/davidfrantz/force) ⭐ 199 | 🐛 17 | 🌐 C | 📅 2026-09-02 - Framework for Operational Radiometric Correction for Environmental monitoring.
+* [FORCE](https://github.com/davidfrantz/force) ⭐ 200 | 🐛 17 | 🌐 C | 📅 2026-09-02 - Framework for Operational Radiometric Correction for Environmental monitoring.
 * [udunits2](https://github.com/Unidata/UDUNITS-2) ⭐ 70 | 🐛 55 | 🌐 C | 📅 2026-08-31 - API and utility for arithmetic manipulation of units of physical quantities.
 * [Shapefile C Library](http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
 
 ## C++
 
-* [Halide](https://github.com/halide/Halide) ⭐ 6,596 | 🐛 777 | 🌐 C++ | 📅 2026-09-04 - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
-* [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) ⭐ 6,450 | 🐛 113 | 🌐 Python | 📅 2026-09-01 - OpenDroneMap is a tool to postprocess drone, balloon, kite, and street view data to geographic data including orthophotos, point clouds, & textured mesh.
-* [valhalla](https://github.com/valhalla/valhalla) ⭐ 6,162 | 🐛 943 | 🌐 C++ | 📅 2026-09-02 - Open Source Routing Engine for OpenStreetMap.
+* [Halide](https://github.com/halide/Halide) ⭐ 6,597 | 🐛 778 | 🌐 C++ | 📅 2026-09-05 - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
+* [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) ⭐ 6,451 | 🐛 113 | 🌐 Python | 📅 2026-09-01 - OpenDroneMap is a tool to postprocess drone, balloon, kite, and street view data to geographic data including orthophotos, point clouds, & textured mesh.
+* [valhalla](https://github.com/valhalla/valhalla) ⭐ 6,165 | 🐛 943 | 🌐 C++ | 📅 2026-09-02 - Open Source Routing Engine for OpenStreetMap.
 * [Mapbox GL Native](https://github.com/mapbox/mapbox-gl-native) ⚠️ Archived - Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL.
 * [tippecanoe](https://github.com/mapbox/tippecanoe) ⭐ 3,114 | 🐛 217 | 🌐 C++ | 📅 2026-06-29 - Build vector tilesets from large collections of GeoJSON features.
-* [S2 Geometry](https://github.com/google/s2geometry) ⭐ 2,723 | 🐛 79 | 🌐 C++ | 📅 2026-08-25 - Computational geometry and spatial indexing on the sphere.
+* [S2 Geometry](https://github.com/google/s2geometry) ⭐ 2,722 | 🐛 79 | 🌐 C++ | 📅 2026-08-25 - Computational geometry and spatial indexing on the sphere.
 * [VROOM](https://github.com/VROOM-Project/vroom) ⭐ 1,852 | 🐛 52 | 🌐 C++ | 📅 2026-05-11 - VROOM is an open-source optimization engine written in C++17 that aim at providing good solutions to various real-life vehicle routing problems (VRP) within a small computing time.
 * [osgearth](https://github.com/gwaldron/osgearth) ⭐ 1,798 | 🐛 60 | 🌐 C | 📅 2026-09-04 - A free open source C++ geospatial toolkit.
 * [Mapzen Tangram-ES](https://github.com/tangrams/tangram-es) ⭐ 873 | 🐛 177 | 🌐 C++ | 📅 2024-01-08 - C++ library for rendering 2D and 3D maps using OpenGL ES 2 with custom styling and interactions
@@ -560,7 +560,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [TIN Terrain](https://github.com/heremaps/tin-terrain) ⚠️ Archived - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
 * [Mapnik Vector Tile](https://github.com/mapbox/mapnik-vector-tile) ⚠️ Archived - Mapnik C++ implemention of Mapbox Vector Tile specification.
 * [entwine](https://github.com/connormanning/entwine) ⭐ 527 | 🐛 3 | 🌐 C++ | 📅 2026-06-02 - Entwine is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
-* [OpenOrienteering Mapper](https://github.com/OpenOrienteering/mapper) ⭐ 494 | 🐛 557 | 🌐 C++ | 📅 2026-07-21 - OpenOrienteering Mapper is a software for creating maps for the orienteering sport.
+* [OpenOrienteering Mapper](https://github.com/OpenOrienteering/mapper) ⭐ 495 | 🐛 557 | 🌐 C++ | 📅 2026-07-21 - OpenOrienteering Mapper is a software for creating maps for the orienteering sport.
 * [cpd](https://github.com/gadomski/cpd) ⭐ 442 | 🐛 17 | 🌐 C++ | 📅 2026-06-22 - Coherent Point Drift (CPD) is a point-set registration algorithm.
 * [RoutingKit](https://github.com/RoutingKit/RoutingKit) ⭐ 439 | 🐛 43 | 🌐 C++ | 📅 2026-04-13 - RoutingKit is a C++ library that provides advanced route planning functionality.
 * [gSLICr](https://github.com/carlren/gSLICr) ⭐ 349 | 🐛 14 | 🌐 C++ | 📅 2024-01-03 - Real-time super-pixel segmentation.
@@ -574,7 +574,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [gdalcubes](https://github.com/appelmar/gdalcubes) ⭐ 132 | 🐛 37 | 🌐 C++ | 📅 2026-05-29 - gdalcubes is a library to represent collections of Earth Observation (EO) images as on demand data cubes (or multidimensional arrays).
 * [prepair](https://github.com/tudelft3d/prepair) ⭐ 114 | 🐛 12 | 🌐 C++ | 📅 2026-08-14 - Automatic repair of single polygons (according to the OGC Simple Features / ISO19107 rules) using a constrained triangulation.
 * [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) ⚠️ Archived - Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly.
-* [laz-perf](https://github.com/hobu/laz-perf) ⭐ 103 | 🐛 9 | 🌐 C++ | 📅 2026-03-25 - Alternative LAZ implementation for C++ and JavaScript.
+* [laz-perf](https://github.com/hobu/laz-perf) ⭐ 103 | 🐛 9 | 🌐 C++ | 📅 2026-09-05 - Alternative LAZ implementation for C++ and JavaScript.
 * [pprepair](https://github.com/tudelft3d/pprepair) ⭐ 63 | 🐛 17 | 🌐 C++ | 📅 2026-04-29 - Validation and Automatic Repair of Planar Partitions.
 * [copc-lib](https://github.com/RockRobotic/copc-lib) ⭐ 62 | 🐛 10 | 🌐 C++ | 📅 2026-05-25 - copc-lib provides an easy-to-use interface for reading and creating Cloud Optimized Point Clouds.
 * [geo-utils-cpp](https://github.com/gistrec/geo-utils-cpp) ⭐ 60 | 🐛 2 | 🌐 C++ | 📅 2026-08-21 - Header-only C++17 library for spherical (lat/lng) geometry: distance, bearing, area, point-in-polygon.
@@ -664,8 +664,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Go
 
-* [BuntDB](https://github.com/tidwall/buntdb) ⭐ 4,866 | 🐛 32 | 🌐 Go | 📅 2026-05-19 - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
-* [S2](https://github.com/golang/geo) ⭐ 1,852 | 🐛 37 | 🌐 Go | 📅 2026-08-31 - S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the best planar geometry libraries.
+* [BuntDB](https://github.com/tidwall/buntdb) ⭐ 4,865 | 🐛 32 | 🌐 Go | 📅 2026-05-19 - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
+* [S2](https://github.com/golang/geo) ⭐ 1,853 | 🐛 37 | 🌐 Go | 📅 2026-08-31 - S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the best planar geometry libraries.
 * [Tegola](https://github.com/go-spatial/tegola) ⭐ 1,503 | 🐛 181 | 🌐 Go | 📅 2026-09-02 - Tegola is a vector tile server delivering Mapbox Vector Tiles with support for PostGIS and GeoPackage data providers.
 * [Draw2D](https://github.com/llgcode/draw2d) ⭐ 1,163 | 🐛 45 | 🌐 Go | 📅 2026-04-22 - 2D rendering for different output (raster, pdf).
 * [orb](https://github.com/paulmach/orb) ⭐ 1,130 | 🐛 19 | 🌐 Go | 📅 2026-03-30 - A set of types for working with 2d geo and planar/projected geometric data in Golang
@@ -702,8 +702,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Java
 
 * [GraphHopper Routing Engine](https://github.com/graphhopper/graphhopper) ⭐ 6,659 | 🐛 241 | 🌐 Java | 📅 2026-09-03 - GraphHopper is a fast and memory efficient Java routing engine, released under Apache License 2.0. By default it uses OpenStreetMap and GTFS data, but it can import other data sources.
-* [Photon](https://github.com/komoot/photon) ⭐ 3,026 | 🐛 43 | 🌐 Java | 📅 2026-09-04 - Photon is an open source geocoder built for OpenStreetMap data. It is based on elasticsearch.
-* [JTS Topology Suite](https://github.com/locationtech/jts) ⭐ 2,230 | 🐛 225 | 🌐 Java | 📅 2026-09-03 - JTS Topology Suite is an API of 2D spatial predicates and functions.
+* [Photon](https://github.com/komoot/photon) ⭐ 3,030 | 🐛 43 | 🌐 Java | 📅 2026-09-04 - Photon is an open source geocoder built for OpenStreetMap data. It is based on elasticsearch.
+* [JTS Topology Suite](https://github.com/locationtech/jts) ⭐ 2,230 | 🐛 224 | 🌐 Java | 📅 2026-09-05 - JTS Topology Suite is an API of 2D spatial predicates and functions.
 * [Spatial4j](https://github.com/locationtech/spatial4j) ⭐ 961 | 🐛 76 | 🌐 Java | 📅 2026-08-17 - Spatial4j is a general purpose geospatial ASL licensed open-source Java library.
 * [Proj4j](https://github.com/locationtech/proj4j) ⭐ 231 | 🐛 31 | 🌐 Java | 📅 2026-08-03 - Java port of the Proj.4 library for coordinate reprojection.
 * [Geo Assist](https://github.com/thegeekyasian/geo-assist) ⭐ 215 | 🐛 4 | 🌐 Java | 📅 2023-05-02 - Geo Assist is an open source API for indexing and querying spatial data in the most efficient manner. It allows you to store 2D spatial data in-memory and support features such as find nearest neighbors, find in bounding box, etc.
@@ -728,16 +728,16 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## JavaScript
 
-* [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) ⭐ 15,664 | 🐛 1,661 | 🌐 JavaScript | 📅 2026-09-04 - An open-source JavaScript library for world-class 3D globes and maps.
-* [deck.gl](https://github.com/uber/deck.gl) ⭐ 14,556 | 🐛 486 | 🌐 TypeScript | 📅 2026-09-04 - WebGL2 powered geospatial visualization layers.
-* [react-map-gl](https://github.com/uber/react-map-gl) ⭐ 8,495 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-03 - React friendly API wrapper around MapboxGL JS.
+* [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) ⭐ 15,666 | 🐛 1,661 | 🌐 JavaScript | 📅 2026-09-04 - An open-source JavaScript library for world-class 3D globes and maps.
+* [deck.gl](https://github.com/uber/deck.gl) ⭐ 14,559 | 🐛 485 | 🌐 TypeScript | 📅 2026-09-05 - WebGL2 powered geospatial visualization layers.
+* [react-map-gl](https://github.com/uber/react-map-gl) ⭐ 8,496 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-03 - React friendly API wrapper around MapboxGL JS.
 * [gmaps.js](https://github.com/hpneo/gmaps) ⚠️ Archived - gmaps.js allows you to use the potential of Google Maps in a simple way.
-* [pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,938 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-07 - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
+* [pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,939 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-07 - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
 * [SQLite3](https://github.com/mapbox/node-sqlite3) ⚠️ Archived - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 * [react-leaflet](https://github.com/PaulLeCam/react-leaflet) ⭐ 5,599 | 🐛 48 | 🌐 TypeScript | 📅 2025-12-31 - React components for Leaflet maps.
 * [geolib](https://github.com/manuelbieh/geolib) ⭐ 4,278 | 🐛 70 | 🌐 JavaScript | 📅 2026-04-03 - Library to provide basic geospatial operations like distance calculation and rotation.
 * [rbush](https://github.com/mourner/rbush) ⭐ 2,773 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03 - A high-performance JavaScript library for 2D spatial indexing.
-* [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) ⭐ 2,379 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-03 - An extension to Leaflet that contains configurations for various free tile providers.
+* [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) ⭐ 2,378 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-03 - An extension to Leaflet that contains configurations for various free tile providers.
 * [Supercluster](https://github.com/mapbox/supercluster) ⭐ 2,356 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-03 - A crazy fast geospatial point clustering library for browsers and Node.
 * [proj4js](https://github.com/proj4js/proj4js) ⭐ 2,239 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-31 - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.
 * [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet) ⭐ 1,955 | 🐛 42 | 🌐 JavaScript | 📅 2024-10-29 - Vue 2 components for Leaflet maps.
@@ -745,7 +745,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [JSTS](https://github.com/bjornharrtell/jsts) ⭐ 1,562 | 🐛 9 | 🌐 JavaScript | 📅 2025-01-02 - Port of the Java JTS library.
 * [TerriaJS](https://github.com/TerriaJS/terriajs) ⭐ 1,361 | 🐛 887 | 🌐 TypeScript | 📅 2026-09-04 - A library for building rich, web-based geospatial data explorers.
 * [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) ⭐ 1,343 | 🐛 22 | 🌐 JavaScript | 📅 2021-05-11 - Procedural GL JS is a library for creating 3D map experiences on the web, written in JavaScript and WebGL. It is built on top THREE.js.
-* [overpass-turbo](https://github.com/tyrasd/overpass-turbo) ⭐ 1,235 | 🐛 256 | 🌐 TypeScript | 📅 2026-07-19 - A web based data mining tool for OpenStreetMap using Overpass API.
+* [overpass-turbo](https://github.com/tyrasd/overpass-turbo) ⭐ 1,237 | 🐛 256 | 🌐 TypeScript | 📅 2026-07-19 - A web based data mining tool for OpenStreetMap using Overpass API.
 * [Geodesy](https://github.com/chrisveness/geodesy) ⭐ 1,227 | 🐛 19 | 🌐 JavaScript | 📅 2024-07-10 - Libraries of geodesy functions implemented in JavaScript.
 * [Geometric.js](https://github.com/HarryStevens/geometric) ⭐ 1,104 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-19 - A JavaScript library for doing geometry.
 * [Terra Draw](https://github.com/JamesLMilner/terra-draw) ⭐ 1,095 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-01 - A cross provider JavaScript library for drawing on maps
@@ -753,7 +753,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geotiff.js](https://github.com/geotiffjs/geotiff.js) ⭐ 1,045 | 🐛 94 | 🌐 JavaScript | 📅 2026-05-26 - geotiff.js is a small library to parse TIFF files for visualization or analysis.
 * [geobuf](https://github.com/mapbox/geobuf) ⭐ 1,032 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-29 - A compact binary encoding for geographic data.
 * [NASA WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) ⭐ 999 | 🐛 271 | 🌐 JavaScript | 📅 2025-09-20 - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
-* [Geo-Three](https://github.com/tentone/geo-three) ⭐ 950 | 🐛 41 | 🌐 TypeScript | 📅 2026-04-05 - Tile based geographic world map visualization library for threejs.
+* [Geo-Three](https://github.com/tentone/geo-three) ⭐ 949 | 🐛 41 | 🌐 TypeScript | 📅 2026-04-05 - Tile based geographic world map visualization library for threejs.
 * [FlatGeoBuf](https://github.com/flatgeobuf/flatgeobuf) ⭐ 819 | 🐛 35 | 🌐 Rust | 📅 2026-08-21 - A performant binary encoding for geographic data based on flatbuffers.
 * [flatten-js](https://github.com/alexbol99/flatten-js) ⭐ 651 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-18 - For manipulating geometrical shapes, finding intersections, checking inclusion, calculating distance, transformations, and more.
 * [leaflet TimeDimension](https://github.com/socib/Leaflet.TimeDimension) ⭐ 451 | 🐛 88 | 🌐 JavaScript | 📅 2026-06-01 - Add time dimension capabilities on a Leaflet map.
@@ -762,11 +762,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [TileStrata](https://github.com/naturalatlas/tilestrata) ⭐ 426 | 🐛 8 | 🌐 JavaScript | 📅 2021-07-21 - A pluggable Node.js map tile server.
 * [math.gl](https://github.com/uber-web/math.gl) ⭐ 422 | 🐛 8 | 🌐 TypeScript | 📅 2024-05-02 - JavaScript math library focused on Geospatial and 3D use cases.
 * [Heatcanvas.js](https://github.com/sunng87/heatcanvas) ⭐ 403 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-14 - Yet another heatmap implementation for Javascript.
-* [arc.js](https://github.com/springmeyer/arc.js) ⭐ 385 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-28 - Calculate great circles routes as lines in GeoJSON or WKT format.
+* [arc.js](https://github.com/springmeyer/arc.js) ⭐ 384 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-28 - Calculate great circles routes as lines in GeoJSON or WKT format.
 * [GeoPackage.js](https://github.com/ngageoint/geopackage-js) ⭐ 333 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-20 - GeoPackage JS is an implementation of the OGC GeoPackage spec. This library works in both the browser and Node 4+.
 * [Bertin.js](https://github.com/neocarto/bertin) ⭐ 316 | 🐛 9 | 🌐 JavaScript | 📅 2023-10-23 - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
 * [ui-leaflet](https://github.com/angular-ui/ui-leaflet) ⚠️ Archived - AngularJS directive to embed an interact with maps managed by Leaflet library.
-* [leaflet-elevation](https://github.com/Raruto/leaflet-elevation) ⭐ 284 | 🐛 18 | 🌐 JavaScript | 📅 2026-07-26 - Leaflet plugin that allows to add elevation profiles using d3js
+* [leaflet-elevation](https://github.com/Raruto/leaflet-elevation) ⭐ 283 | 🐛 18 | 🌐 JavaScript | 📅 2026-07-26 - Leaflet plugin that allows to add elevation profiles using d3js
 * [Galton](https://github.com/urbica/galton) ⭐ 279 | 🐛 28 | 🌐 JavaScript | 📅 2021-09-16 - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 * [openrouteservice-js](https://github.com/GIScience/openrouteservice-js) ⭐ 249 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-08 - The JavaScript API to consume openrouteservice(s) painlessly!
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 244 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25 - Merge multiple GeoJSON files into one FeatureCollection.
@@ -783,7 +783,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [tilegarden](https://github.com/azavea/tilegarden) ⭐ 101 | 🐛 46 | 🌐 JavaScript | 📅 2023-01-03 - Serverless raster and vector map tile generation using Mapnik and AWS Lambda.
 * [geopouch](https://github.com/pouchdb/geopouch) ⭐ 88 | 🐛 17 | 🌐 JavaScript | 📅 2020-05-23 - Spatial plugin from PouchDB extracted and supporting N dimensional coordinates.
 * [geotoolbox](https://github.com/neocarto/geotoolbox) ⭐ 75 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - is javascript tool for geographers. It allows to simply deal with geojson properties (attribute data) and provides several GIS operations useful for thematic cartography.
-* [PureJsImage](https://github.com/a-r-d/PureJsImage) ⭐ 59 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-04 - Zero-dependency TypeScript library for GeoTIFF, COG, GeoZarr, ENVI, and range-backed raster access in browsers and Node.js.
+* [PureJsImage](https://github.com/a-r-d/PureJsImage) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-05 - Zero-dependency TypeScript library for GeoTIFF, COG, GeoZarr, ENVI, and range-backed raster access in browsers and Node.js.
 * [landspeed.js](https://github.com/springmeyer/landspeed.js) ⭐ 54 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-07 - WMS server using node-mapnik.
 * [tilelive-postgis](https://github.com/stepankuzmin/tilelive-postgis) ⭐ 52 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03 - Implements the tilelive API for generating mapnik vector tiles from PostGIS.
 * [landsat8.earth](https://github.com/kylebarron/landsat8.earth) ⭐ 41 | 🐛 16 | 🌐 JavaScript | 📅 2023-06-10 - 2D/3D WebGL-powered Landsat 8 satellite imagery analysis.
@@ -825,18 +825,18 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Julia
 
-* [ViziCities](https://github.com/UDST/vizicities#getting-started) ⭐ 2,713 | 🐛 105 | 🌐 JavaScript | 📅 2019-02-02 - A framework for 3D geospatial visualization in the browser.
-* [DataFrames.jl](https://github.com/JuliaStats/DataFrames.jl) ⭐ 1,831 | 🐛 161 | 🌐 Julia | 📅 2026-08-30 - Tools for working with tabular data in Julia.
+* [ViziCities](https://github.com/UDST/vizicities#getting-started) ⭐ 2,712 | 🐛 105 | 🌐 JavaScript | 📅 2019-02-02 - A framework for 3D geospatial visualization in the browser.
+* [DataFrames.jl](https://github.com/JuliaStats/DataFrames.jl) ⭐ 1,831 | 🐛 162 | 🌐 Julia | 📅 2026-09-05 - Tools for working with tabular data in Julia.
 * [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) ⭐ 591 | 🐛 5 | 🌐 Julia | 📅 2026-08-27 - An extensible framework for high-performance geostatistics in Julia.
 * [Images.jl](https://github.com/JuliaImages/Images.jl) ⭐ 550 | 🐛 44 | 🌐 Julia | 📅 2026-05-01 - An image processing library for Julia.
 * [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl) ⭐ 467 | 🐛 31 | 🌐 Julia | 📅 2026-07-13 - High performance nearest neighbor data structures and algorithms for Julia.
 * [GeoData.jl](https://github.com/rafaqz/Rasters.jl) ⭐ 264 | 🐛 170 | 🌐 Julia | 📅 2026-08-26 - Standardising geospatial raster data in the Julia language.
 * [DynamicGrids.jl](https://github.com/cesaraustralia/DynamicGrids.jl) ⭐ 227 | 🐛 36 | 🌐 Julia | 📅 2026-06-30 - Generalised framework for building high-performance grid-based spatial simulations, including cellular automata, but also allowing a wider range of behaviours like random jumps and interactions between multiple grids. It is extended by Dispersal.jl for modelling organism dispersal processes.
 * [GMT.jl](https://github.com/GenericMappingTools/GMT.jl) ⭐ 221 | 🐛 27 | 🌐 Julia | 📅 2026-09-03 - Generic Mapping Tools Library Wrapper for Julia.
-* [GeoMakie.jl](https://github.com/JuliaPlots/GeoMakie.jl) ⭐ 218 | 🐛 103 | 🌐 Julia | 📅 2026-08-30 - Geographical plotting utilities for Makie.jl
+* [GeoMakie.jl](https://github.com/JuliaPlots/GeoMakie.jl) ⭐ 219 | 🐛 103 | 🌐 Julia | 📅 2026-09-05 - Geographical plotting utilities for Makie.jl
 * [CoordinateTransformations.jl](https://github.com/JuliaGeometry/CoordinateTransformations.jl) ⭐ 185 | 🐛 17 | 🌐 Julia | 📅 2025-02-04 - Julia package to manage simple or complex networks of coordinate system transformations.
-* [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 95 | 🌐 Julia | 📅 2026-08-28 - Vector and Raster interfaces.
-* [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) ⭐ 140 | 🐛 33 | 🌐 Julia | 📅 2026-08-01 - A Julia Protocol for Geospatial Data.
+* [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 95 | 🌐 Julia | 📅 2026-09-05 - Vector and Raster interfaces.
+* [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) ⭐ 140 | 🐛 32 | 🌐 Julia | 📅 2026-08-01 - A Julia Protocol for Geospatial Data.
 * [OpenStreetMapX.jl](https://github.com/pszufe/OpenStreetMapX.jl) ⭐ 127 | 🐛 25 | 🌐 Julia | 📅 2025-12-23 - Provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
 * [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) ⭐ 125 | 🐛 14 | 🌐 Julia | 📅 2023-06-28 - Fast, robust construction of 2D Delaunay and Voronoi tessellations on generic point types.
 * [ClimateTools.jl](https://github.com/Balinus/ClimateTools.jl) ⭐ 122 | 🐛 2 | 🌐 Julia | 📅 2026-07-23 - Collection of commonly-used tools in Climate Science.
@@ -844,8 +844,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) ⭐ 114 | 🐛 28 | 🌐 Julia | 📅 2026-06-24 - Work with points defined in various coordinate systems.
 * [RegionTrees.jl](https://github.com/rdeits/RegionTrees.jl) ⭐ 114 | 🐛 6 | 🌐 Julia | 📅 2026-07-16 - Quadtrees, Octrees, and more in Julia.
 * [ImageFiltering.jl](https://github.com/JuliaImages/ImageFiltering.jl) ⭐ 104 | 🐛 61 | 🌐 Julia | 📅 2025-12-15 - ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.
-* [Shapefile.jl](https://github.com/JuliaGeo/Shapefile.jl) ⭐ 86 | 🐛 27 | 🌐 Julia | 📅 2026-06-26 - Parsing .shp files in Julia.
-* [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Simple geographical vector interaction built on top of ArchGDAL.
+* [Shapefile.jl](https://github.com/JuliaGeo/Shapefile.jl) ⭐ 86 | 🐛 23 | 🌐 Julia | 📅 2026-09-05 - Parsing .shp files in Julia.
+* [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 24 | 🌐 Julia | 📅 2026-08-13 - Simple geographical vector interaction built on top of ArchGDAL.
 * [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) ⭐ 70 | 🐛 26 | 🌐 Julia | 📅 2026-06-29 - This library is developed independently of, but is heavily influenced in design by the python-geojson package.
 * [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) ⚠️ Archived - This julia package provides a common interface to analyze all types of data on ecological networks.
 * [OpenStreetMaps.jl](https://github.com/tedsteiner/OpenStreetMap.jl) ⭐ 52 | 🐛 19 | 🌐 Julia | 📅 2016-07-14 - This package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
@@ -857,7 +857,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ImageSegmentation.jl](https://github.com/JuliaImages/ImageSegmentation.jl) ⭐ 45 | 🐛 12 | 🌐 Julia | 📅 2026-06-30 - Julia package for multiple Image Segmentation Algorithms.
 * [OpenStreetMapXPlot.jl](https://github.com/pszufe/OpenStreetMapXPlot.jl) ⭐ 35 | 🐛 4 | 🌐 Julia | 📅 2024-03-08 - Plotting functionality for the OpenStreetMapX.jl (Supports PyPlot.jl and Plots.jl with GR backend).
 * [SpatialIndexing.jl](https://github.com/alyst/SpatialIndexing.jl) ⭐ 35 | 🐛 4 | 🌐 Julia | 📅 2024-05-06 - Spatial data indexing in pure Julia (R\*-trees etc).
-* [EarthDataLab.jl](https://github.com/JuliaDataCubes/EarthDataLab.jl) ⭐ 34 | 🐛 51 | 🌐 Julia | 📅 2026-09-04 - Interface for Reading from the Earth System Datacube.
+* [EarthDataLab.jl](https://github.com/JuliaDataCubes/EarthDataLab.jl) ⭐ 34 | 🐛 51 | 🌐 Julia | 📅 2026-09-05 - Interface for Reading from the Earth System Datacube.
 * [STAC.jl](https://github.com/JuliaClimate/STAC.jl) ⭐ 33 | 🐛 7 | 🌐 Julia | 📅 2026-08-31 - SpatioTemporal Asset Catalog (STAC) julia client.
 * [ImageMorphology.jl](https://github.com/JuliaImages/ImageMorphology.jl) ⭐ 28 | 🐛 28 | 🌐 Julia | 📅 2026-06-30 - This package provides morphology-related functionality to the Images.jl project.
 * [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) ⭐ 25 | 🐛 21 | 🌐 Julia | 📅 2026-08-08 - Downloads raster data for local use or for integration into other spatial data packages, like GeoData.jl.
@@ -917,41 +917,41 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Python
 
-* [CuPy](https://github.com/cupy/cupy) ⭐ 12,302 | 🐛 702 | 🌐 Python | 📅 2026-09-04 - NumPy-like API accelerated with CUDA.
+* [CuPy](https://github.com/cupy/cupy) ⭐ 12,303 | 🐛 704 | 🌐 Python | 📅 2026-09-05 - NumPy-like API accelerated with CUDA.
 * [osmnx](https://github.com/gboeing/osmnx) ⭐ 5,837 | 🐛 2 | 🌐 Python | 📅 2026-07-31 - A tool for downloading, analyzing, and visualizing street networks based on OpenStreetMap data and networkx.
-* [GeoPandas](https://github.com/geopandas/geopandas) ⭐ 5,241 | 🐛 422 | 🌐 Python | 📅 2026-09-03 - Python tools for geographic data.
-* [geopy](https://github.com/geopy/geopy) ⭐ 4,856 | 🐛 54 | 🌐 Python | 📅 2026-07-12 - geopy is a Python 2 and 3 client for several popular geocoding web services.
+* [GeoPandas](https://github.com/geopandas/geopandas) ⭐ 5,241 | 🐛 418 | 🌐 Python | 📅 2026-09-05 - Python tools for geographic data.
+* [geopy](https://github.com/geopy/geopy) ⭐ 4,857 | 🐛 54 | 🌐 Python | 📅 2026-07-12 - geopy is a Python 2 and 3 client for several popular geocoding web services.
 * [geemap](https://github.com/giswqs/geemap) ⭐ 4,022 | 🐛 50 | 🌐 Python | 📅 2026-09-04 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 * [som-tsp](https://github.com/DiegoVicen/som-tsp) ⭐ 3,933 | 🐛 0 | 🌐 Python | 📅 2023-12-24 - Solving the Traveling Salesman Problem using Self-Organizing Maps.
-* [leafmap](https://github.com/giswqs/leafmap) ⭐ 3,770 | 🐛 3 | 🌐 Python | 📅 2026-08-31 - A Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment.
-* [GeoAI](https://github.com/opengeos/geoai) ⭐ 3,349 | 🐛 2 | 🌐 Python | 📅 2026-09-04 - GeoAI: Artificial Intelligence for Geospatial Data
+* [leafmap](https://github.com/giswqs/leafmap) ⭐ 3,771 | 🐛 3 | 🌐 Python | 📅 2026-08-31 - A Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment.
+* [GeoAI](https://github.com/opengeos/geoai) ⭐ 3,349 | 🐛 3 | 🌐 Python | 📅 2026-09-04 - GeoAI: Artificial Intelligence for Geospatial Data
 * [Rasterio](https://github.com/mapbox/rasterio) ⭐ 2,568 | 🐛 157 | 🌐 Python | 📅 2026-09-03 - Rasterio employs GDAL under the hood for file I/O and raster formatting.
-* [city2graph](https://github.com/c2g-dev/city2graph) ⭐ 1,905 | 🐛 4 | 🌐 Python | 📅 2026-09-01 - Geospatial dataset → graphs (networks) for spatial network analysis and GeoAI with GNNs (Graph Neural Networks)
+* [city2graph](https://github.com/c2g-dev/city2graph) ⭐ 1,906 | 🐛 4 | 🌐 Python | 📅 2026-09-01 - Geospatial dataset → graphs (networks) for spatial network analysis and GeoAI with GNNs (Graph Neural Networks)
 * [Python Geocoder](https://github.com/DenisCarriere/geocoder) ⭐ 1,657 | 🐛 123 | 🌐 Python | 📅 2024-04-20 - Simple and consistent geocoding library written in Python.
 * [MovingPandas](https://github.com/anitagraser/movingpandas) ⭐ 1,411 | 🐛 35 | 🌐 Python | 📅 2026-08-28 - Implementation of Trajectory classes and functions built on top of GeoPandas.
-* [PyProj](https://github.com/jswhit/pyproj) ⭐ 1,223 | 🐛 54 | 🌐 Python | 📅 2026-09-04 - For conversions between projections.
+* [PyProj](https://github.com/jswhit/pyproj) ⭐ 1,223 | 🐛 50 | 🌐 Python | 📅 2026-09-05 - For conversions between projections.
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) ⚠️ Archived - Search and download Copernicus Sentinel satellite images.
 * [xarray-spatial](https://github.com/makepath/xarray-spatial) ⭐ 970 | 🐛 89 | 🌐 Python | 📅 2026-09-04 - xarray-spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 * [CoastSat](https://github.com/kvos/CoastSat) ⭐ 889 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-06-05 - CoastSat is an open-source software toolkit written in Python that enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years (and growing) of publicly available satellite imagery.
 * [Mahotas](https://github.com/luispedro/mahotas) ⭐ 889 | 🐛 24 | 🌐 Python | 📅 2026-06-12 - Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays.
 * [PyPostal](https://github.com/openvenues/pypostal) ⭐ 880 | 🐛 44 | 🌐 C | 📅 2025-11-01 - Python bindings to libpostal for fast international address parsing/normalization.
 * [networkit](https://github.com/networkit/networkit) ⭐ 873 | 🐛 39 | 🌐 C++ | 📅 2026-09-02 - NetworKit is a growing open-source toolkit for large-scale network analysis.
-* [pyGMT](https://github.com/GenericMappingTools/pygmt) ⭐ 873 | 🐛 186 | 🌐 Python | 📅 2026-09-04 - Pythonic interface for the Generic Mapping Tools (GMT).
+* [pyGMT](https://github.com/GenericMappingTools/pygmt) ⭐ 873 | 🐛 186 | 🌐 Python | 📅 2026-09-05 - Pythonic interface for the Generic Mapping Tools (GMT).
 * [PyKrige](https://github.com/GeoStat-Framework/PyKrige) ⭐ 860 | 🐛 41 | 🌐 Python | 📅 2025-10-16 - Kriging Toolkit for Python.
 * [thunder](https://github.com/thunder-project/thunder) ⭐ 822 | 🐛 89 | 🌐 Python | 📅 2017-01-06 - Thunder is an ecosystem of tools for the analysis of image and time series data in Python.
 * [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) ⭐ 806 | 🐛 67 | 🌐 Python | 📅 2024-05-25 - Mobility analysis in Python.
 * [Open-Elevation](https://github.com/Jorl17/open-elevation) ⭐ 800 | 🐛 48 | 🌐 Python | 📅 2024-04-17 - A free and open-source alternative to Google Elevation API.
 * [cuSpatial](https://github.com/rapidsai/cuspatial) ⚠️ Archived - GPU-Accelerated Spatial and Trajectory Data Management and Analytics Library.
 * [Landsat-util](https://github.com/developmentseed/landsat-util) ⭐ 698 | 🐛 36 | 🌐 Python | 📅 2022-04-14 - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
-* [Spectral Python](https://github.com/spectralpython/spectral) ⭐ 680 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Python module for hyperspectral image processing.
-* [mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) ⭐ 679 | 🐛 43 | 🌐 Python | 📅 2025-02-06 - Use Mapbox GL JS to visualize data in a Python Jupyter notebook.
+* [Spectral Python](https://github.com/spectralpython/spectral) ⭐ 681 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Python module for hyperspectral image processing.
+* [mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) ⭐ 680 | 🐛 43 | 🌐 Python | 📅 2025-02-06 - Use Mapbox GL JS to visualize data in a Python Jupyter notebook.
 * [Verde](https://github.com/fatiando/verde) ⭐ 666 | 🐛 46 | 🌐 Python | 📅 2026-08-04 - Verde is a Python library for processing spatial data (bathymetry, geophysics surveys, etc) and interpolating it on regular grids (i.e., gridding).
 * [GSTools](https://github.com/GeoStat-Framework/GSTools) ⭐ 651 | 🐛 36 | 🌐 Python | 📅 2026-08-24 - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more.
 * [rioxarray](https://github.com/corteva/rioxarray) ⭐ 623 | 🐛 79 | 🌐 Python | 📅 2026-07-27 - rasterio xarray extension.
-* [GeoSQL](https://github.com/dekart-xyz/geosql) ⭐ 620 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Claude/Codex skill (Python package) for cost-safe geospatial SQL on BigQuery and Snowflake. Validates results, prunes partitions, renders interactive maps.
+* [GeoSQL](https://github.com/dekart-xyz/geosql) ⭐ 622 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Claude/Codex skill (Python package) for cost-safe geospatial SQL on BigQuery and Snowflake. Validates results, prunes partitions, renders interactive maps.
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) ⭐ 614 | 🐛 46 | 🌐 Python | 📅 2026-09-03 - A Python Framework for Large-Scale SAR Satellite Data Processing.
+* [rio-tiler](https://github.com/mapbox/rio-tiler) ⭐ 593 | 🐛 19 | 🌐 Python | 📅 2026-09-01 - Get mercator tile from landsat, sentinel or other AWS hosted raster.
 * [dask-geopandas](https://github.com/geopandas/dask-geopandas) ⭐ 592 | 🐛 77 | 🌐 Python | 📅 2026-07-21 - Parallelized GeoPandas with Dask.
-* [rio-tiler](https://github.com/mapbox/rio-tiler) ⭐ 592 | 🐛 19 | 🌐 Python | 📅 2026-09-01 - Get mercator tile from landsat, sentinel or other AWS hosted raster.
 * [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) ⭐ 579 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2025-09-30 - GSLIB reimplimented in Python
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats/) ⭐ 563 | 🐛 34 | 🌐 Python | 📅 2026-05-23 - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [urbansim](https://github.com/UDST/urbansim) ⭐ 545 | 🐛 28 | 🌐 Python | 📅 2026-09-03 - New version of UrbanSim, a platform for modeling metropolitan real estate markets.
@@ -961,7 +961,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [pymap3d](https://github.com/scivision/pymap3d) ⭐ 442 | 🐛 6 | 🌐 Python | 📅 2026-06-22 - Python 3D coordinate conversions for geospace ecef enu eci.
 * [pyrosm](https://github.com/HTenkanen/pyrosm) ⭐ 437 | 🐛 19 | 🌐 Python | 📅 2026-08-01 - Read OpenStreetMap data from Protobuf files into GeoDataFrame with Python, faster.
 * [geospatial](https://github.com/giswqs/geospatial) ⭐ 434 | 🐛 14 | 🌐 Dockerfile | 📅 2026-09-02 - A collection of Python packages for geospatial analysis and data visualization.
-* [pandana](https://github.com/UDST/pandana) ⭐ 425 | 🐛 43 | 🌐 C++ | 📅 2026-09-02 - Pandas Network Analysis - dataframes of network queries, quickly.
+* [pandana](https://github.com/UDST/pandana) ⭐ 428 | 🐛 43 | 🌐 C++ | 📅 2026-09-02 - Pandas Network Analysis - dataframes of network queries, quickly.
 * [whitebox](https://github.com/giswqs/whitebox) ⭐ 422 | 🐛 1 | 🌐 Python | 📅 2026-01-31 - Python frontend for [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,199 | 🐛 175 | 🌐 Rust | 📅 2026-05-26.
 * [Open Topo Data](https://github.com/ajnisbet/opentopodata) ⭐ 416 | 🐛 2 | 🌐 Python | 📅 2026-02-16 - Open Topo Data is a REST API server for your elevation data.
 * [rio-cogeo](https://github.com/mapbox/rio-cogeo) ⭐ 394 | 🐛 18 | 🌐 Python | 📅 2026-06-23 - CloudOptimized GeoTIFF creation plugin for rasterio.
@@ -982,7 +982,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Alpha Shape Toolbox](https://github.com/bellockk/alphashape) ⭐ 314 | 🐛 30 | 🌐 Python | 📅 2026-07-23 - Toolbox for constructing alpha shapes.
 * [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) ⭐ 311 | 🐛 3 | 🌐 Python | 📅 2025-08-12 - ArcGIS Python Toolbox for [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,199 | 🐛 175 | 🌐 Rust | 📅 2026-05-26.
 * [GeoLambda](https://github.com/developmentseed/geolambda) ⭐ 306 | 🐛 21 | 🌐 Dockerfile | 📅 2026-07-02 - Create and deploy Geospatial AWS Lambda functions Python.
-* [lidar](https://github.com/giswqs/lidar) ⭐ 302 | 🐛 9 | 🌐 Python | 📅 2026-05-25 - Terrain and hydrological analysis using digital elevation models (DEMs).
+* [lidar](https://github.com/giswqs/lidar) ⭐ 301 | 🐛 9 | 🌐 Python | 📅 2026-05-25 - Terrain and hydrological analysis using digital elevation models (DEMs).
 * [GemGIS](https://github.com/cgre-aachen/gemgis) ⭐ 298 | 🐛 24 | 🌐 Python | 📅 2026-02-26 - Python-based, open-source geographic information processing library.
 * [HyperCoast](https://github.com/opengeos/HyperCoast) ⭐ 287 | 🐛 3 | 🌐 Python | 📅 2026-08-31 - A Python package for visualizing and analyzing hyperspectral data in coastal regions.
 * [Detectree](https://github.com/martibosch/detectree) ⭐ 279 | 🐛 6 | 🌐 Python | 📅 2026-08-31 - DetecTree is a Pythonic library to classify tree/non-tree pixels from aerial imagery.
@@ -990,8 +990,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [stackstac](https://github.com/gjoseph92/stackstac) ⭐ 272 | 🐛 60 | 🌐 Python | 📅 2024-08-10 - Turn a STAC catalog into a dask-based xarray.
 * [autoRIFT](https://github.com/leiyangleon/autoRIFT) ⭐ 271 | 🐛 21 | 🌐 Python | 📅 2026-06-22 - Python module of a fast and intelligent algorithm for finding the pixel displacement between two images.
 * [trackintel](https://github.com/mie-lab/trackintel) ⭐ 267 | 🐛 25 | 🌐 Python | 📅 2026-05-25 - A GeoPandas extension for tracking data
+* [urbanaccess](https://github.com/UDST/urbanaccess) ⭐ 266 | 🐛 23 | 🌐 Python | 📅 2026-09-03 - A tool for computing GTFS transit and OSM pedestrian networks for accessibility analysis.
 * [S2P - Satellite Stereo Pipeline](https://github.com/cmla/s2p) ⭐ 265 | 🐛 32 | 🌐 Python | 📅 2025-10-17 - S2P is a Python library and command line tool that implements a stereo pipeline which produces elevation models from images taken by high resolution satellites.
-* [urbanaccess](https://github.com/UDST/urbanaccess) ⭐ 265 | 🐛 23 | 🌐 Python | 📅 2026-09-03 - A tool for computing GTFS transit and OSM pedestrian networks for accessibility analysis.
 * [fastkml](https://github.com/cleder/fastkml) ⭐ 257 | 🐛 19 | 🌐 Python | 📅 2026-08-31 - Fastkml is a library to read, write and manipulate KML files. It aims to keep it simple and fast (using lxml if available).
 * [RasterFrames](https://github.com/locationtech/rasterframes) ⭐ 256 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2025-12-30 - RasterFrames brings together Earth-observation (EO) data access, cloud computing, and DataFrame-based data science.
 * [spyndex](https://github.com/awesome-spectral-indices/spyndex) ⭐ 251 | 🐛 2 | 🌐 Python | 📅 2026-08-05 - Awesome Spectral Indices in Python.
@@ -1012,7 +1012,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapclassify](https://github.com/pysal/mapclassify) ⭐ 151 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-08-11 - Classification schemes for choropleth mapping.
 * [starfm4py](https://github.com/nmileva/starfm4py) ⭐ 150 | 🐛 1 | 🌐 Python | 📅 2023-02-08 - The STARFM fusion model for Python (image fusion).
 * [sentle](https://github.com/cmosig/sentle) ⭐ 149 | 🐛 4 | 🌐 Python | 📅 2026-08-14 - Sentinel-1 & Sentinel-2 data cubes at large scale (bigger-than-memory) on any machine with integrated cloud detection, snow masking, harmonization, merging, and temporal composites. CDSE or PlanetaryComputer.
-* [rio-color](https://github.com/mapbox/rio-color) ⭐ 147 | 🐛 4 | 🌐 Python | 📅 2026-06-29 - Color correction plugin for rasterio.
+* [rio-color](https://github.com/mapbox/rio-color) ⭐ 148 | 🐛 4 | 🌐 Python | 📅 2026-06-29 - Color correction plugin for rasterio.
 * [Ogcserver](https://github.com/mapnik/OGCServer) ⭐ 141 | 🐛 8 | 🌐 Python | 📅 2020-04-26 - Python WMS implementation using Mapnik.
 * [geeup](https://github.com/samapriya/geeup) ⭐ 140 | 🐛 0 | 🌐 Python | 📅 2025-12-31 - Simple CLI for Earth Engine Uploads.
 * [LARD](https://github.com/deel-ai/LARD) ⭐ 138 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-03 - A runway dataset and a generator of synthetic aerial images with automatic labeling.
@@ -1030,12 +1030,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [stactools](https://github.com/stac-utils/stactools) ⭐ 113 | 🐛 43 | 🌐 Python | 📅 2024-12-23 - Command line utility and Python library for STAC.
 * [geoalchemy](https://github.com/geoalchemy/geoalchemy) ⚠️ Archived - Using SQLAlchemy with spatial databases.
 * [pymartini](https://github.com/kylebarron/pymartini) ⭐ 102 | 🐛 8 | 🌐 Python | 📅 2025-06-24 - A Cython port of Martini for fast RTIN terrain mesh generation
-* [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) ⭐ 98 | 🐛 2 | 🌐 Python | 📅 2020-11-28 - Read and write rasters in parallel using Rasterio and Dask.
+* [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2020-11-28 - Read and write rasters in parallel using Rasterio and Dask.
 * [geojson-area](https://github.com/scisco/area) ⭐ 97 | 🐛 5 | 🌐 Python | 📅 2018-10-31 - Calculate the area inside of any GeoJSON geometry.
 * [geojson-area](https://github.com/scisco/area) ⭐ 97 | 🐛 5 | 🌐 Python | 📅 2018-10-31 - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
-* [rio-hist](https://github.com/mapbox/rio-hist) ⭐ 96 | 🐛 7 | 🌐 Python | 📅 2026-06-29 - Histogram matching plugin for rasterio.
+* [rio-hist](https://github.com/mapbox/rio-hist) ⭐ 97 | 🐛 7 | 🌐 Python | 📅 2026-06-29 - Histogram matching plugin for rasterio.
+* [pyle38](https://github.com/iwpnd/pyle38) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2026-09-01 - Asynchronous Client for the worlds fastest in-memory geo-database Tile38
 * [Climata](https://github.com/heigeo/climata) ⭐ 89 | 🐛 7 | 🌐 Python | 📅 2018-09-25 - Python library for loading and iterating over climate and flow time series data (from ACIS/NOAA RCCs, CoCoRaHS, Hydromet/USBR, CNRFC ESP/NWS, SNOTEL/AWDB/NRCS, and NWIS/USGS).
-* [pyle38](https://github.com/iwpnd/pyle38) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2026-09-01 - Asynchronous Client for the worlds fastest in-memory geo-database Tile38
 * [python-opencage-geocoder](https://github.com/OpenCageData/python-opencage-geocoder) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2026-06-08 - A Python module that uses the OpenCage Geocoding API.
 * [telluric](https://github.com/satellogic/telluric) ⭐ 86 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2025-02-12 - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way.
 * [pydelatin](https://github.com/kylebarron/pydelatin) ⭐ 85 | 🐛 6 | 🌐 C | 📅 2025-06-25 - Python bindings to `hmm` for fast terrain mesh generation
@@ -1055,7 +1055,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [sen2nbar](https://github.com/ESDS-Leipzig/sen2nbar) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2024-06-23 - Nadir BRDF Adjusted Reflectance (NBAR) for Sentinel-2 in Python.
 * [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2023-07-01 - Software for Advanced Spatial Econometrics.
 * [geopatra](https://github.com/Sangarshanan/geopatra) ⭐ 55 | 🐛 15 | 🌐 Python | 📅 2026-03-11 - Interactive Maps with Geopandas.
-* [gpdvega](https://github.com/iliatimofeev/gpdvega) ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2020-06-24 - gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.
+* [gpdvega](https://github.com/iliatimofeev/gpdvega) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2020-06-24 - gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.
 * [chupaESRI](https://github.com/johnjreiser/chupaESRI) ⭐ 43 | 🐛 3 | 🌐 Python | 📅 2024-01-11 - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
 * [AnaFlow](https://github.com/GeoStat-Framework/AnaFlow) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2025-10-17 - A python-package containing analytical solutions for the groundwater flow equation.
 * [untiler](https://github.com/mapbox/untiler) ⚠️ Archived - Stitch image tiles into larger composite TIFs.
@@ -1124,12 +1124,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## R
 
 * [rayshader](https://github.com/tylermorganwall/rayshader) ⭐ 2,175 | 🐛 48 | 🌐 R | 📅 2026-08-26 - rayshader is an open source R package for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, and ambient occlusion.
-* [sf](https://github.com/r-spatial/sf) ⭐ 1,443 | 🐛 68 | 🌐 R | 📅 2026-09-04 - Simple Features for R.
+* [sf](https://github.com/r-spatial/sf) ⭐ 1,443 | 🐛 69 | 🌐 R | 📅 2026-09-04 - Simple Features for R.
 * [geobr](https://github.com/ipeaGIT/geobr) ⭐ 945 | 🐛 21 | 🌐 R | 📅 2026-09-04 - Package to download official spatial data sets of Brazil.
 * [ranger](https://github.com/imbs-hl/ranger) ⭐ 813 | 🐛 108 | 🌐 C++ | 📅 2026-02-01 - A Fast Implementation of Random Forests.
 * [rgee](https://github.com/r-spatial/rgee) ⭐ 777 | 🐛 63 | 🌐 R | 📅 2026-08-31 - Google Earth Engine for R.
 * [lidR](https://github.com/Jean-Romain/lidR) ⭐ 709 | 🐛 16 | 🌐 R | 📅 2026-09-04 - R package for airborne LiDAR data manipulation and visualisation for forestry application.
-* [terra](https://github.com/rspatial/terra) ⭐ 617 | 🐛 15 | 🌐 C++ | 📅 2026-09-04 - terra is an R package that replaces raster. It has a very similar, but simpler, interface, and it is much faster.
+* [terra](https://github.com/rspatial/terra) ⭐ 617 | 🐛 13 | 🌐 C++ | 📅 2026-09-05 - terra is an R package that replaces raster. It has a very similar, but simpler, interface, and it is much faster.
 * [stars](https://github.com/r-spatial/stars) ⭐ 611 | 🐛 26 | 🌐 R | 📅 2026-08-20 - Spatiotemporal tidy arrays for R.
 * [sits](https://github.com/e-sensing/sits) ⭐ 547 | 🐛 18 | 🌐 R | 📅 2026-08-31 - Satellite image time series package for R.
 * [stplanr](https://github.com/ropensci/stplanr) ⭐ 443 | 🐛 26 | 🌐 R | 📅 2025-04-28 - Sustainable transport planning with R.
@@ -1150,20 +1150,20 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [r5r](https://github.com/ipeaGIT/r5r) ⭐ 240 | 🐛 33 | 🌐 R | 📅 2026-09-01 - Package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car).
 * [climateR](https://github.com/mikejohnson51/climateR) ⭐ 202 | 🐛 21 | 🌐 R | 📅 2026-04-09 - An R package for getting point and gridded climate data by AOI.
 * [osmextract](https://github.com/ropensci/osmextract) ⭐ 195 | 🐛 31 | 🌐 R | 📅 2026-09-03 - Download and import OpenStreetMap data from Geofabrik and other providers.
+* [whiteboxR](https://github.com/giswqs/whiteboxR) ⭐ 188 | 🐛 5 | 🌐 R | 📅 2025-10-21 - R frontend of [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,199 | 🐛 175 | 🌐 Rust | 📅 2026-05-26.
 * [fasterize](https://github.com/ecohealthalliance/fasterize) ⭐ 187 | 🐛 28 | 🌐 C++ | 📅 2025-03-08 - High performance raster conversion for modern spatial data.
-* [whiteboxR](https://github.com/giswqs/whiteboxR) ⭐ 187 | 🐛 5 | 🌐 R | 📅 2025-10-21 - R frontend of [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,199 | 🐛 175 | 🌐 Rust | 📅 2026-05-26.
 * [tidytransit](https://github.com/r-transit/tidytransit) ⭐ 172 | 🐛 4 | 🌐 R | 📅 2026-06-23 - 'sf'-compatible package to analyze transit schedules, routes, and stops.
 * [osmplotr](https://github.com/ropensci/osmplotr) ⭐ 142 | 🐛 14 | 🌐 R | 📅 2026-09-03 - Data visualisation using OpenStreetMap objects.
 * [moveVis](https://github.com/16EAGLE/moveVis) ⭐ 140 | 🐛 64 | 🌐 R | 📅 2025-08-22 - An R package providing tools to visualize movement data (e.g. from GPS tracking) and temporal changes of environmental data (e.g. from remote sensing) by creating video animations.
 * [edgebundle](https://github.com/schochastics/edgebundle) ⭐ 138 | 🐛 0 | 🌐 C++ | 📅 2026-07-24 - R package implementing edge bundling algorithms.
-* [Prioritizr](https://github.com/prioritizr/prioritizr) ⭐ 137 | 🐛 18 | 🌐 R | 📅 2026-06-17 - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
+* [Prioritizr](https://github.com/prioritizr/prioritizr) ⭐ 137 | 🐛 19 | 🌐 R | 📅 2026-09-05 - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
 * [gdalcubes\_R](https://github.com/appelmar/gdalcubes_R) ⭐ 132 | 🐛 37 | 🌐 C++ | 📅 2026-05-29 - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
-* [biomod2](https://github.com/biomodhub/biomod2) ⭐ 125 | 🐛 22 | 🌐 R | 📅 2026-09-01 - Computer platform for ensemble forecasting of species distributions, enabling the treatment of a range of methodological uncertainties in models and the examination of species-environment relationships.
+* [biomod2](https://github.com/biomodhub/biomod2) ⭐ 126 | 🐛 22 | 🌐 R | 📅 2026-09-01 - Computer platform for ensemble forecasting of species distributions, enabling the treatment of a range of methodological uncertainties in models and the examination of species-environment relationships.
 * [spatialRF](https://github.com/BlasBenito/spatialRF) ⭐ 125 | 🐛 1 | 🌐 R | 📅 2026-07-15 - R package to fit spatial models with Random Forest.
 * [mapboxapi](https://github.com/walkerke/mapboxapi) ⭐ 124 | 🐛 16 | 🌐 HTML | 📅 2026-01-23 - R interface to Mapbox web services.
 * [rayvista](https://github.com/h-a-graham/rayvista) ⭐ 114 | 🐛 6 | 🌐 R | 📅 2023-03-20 - A package to view a 3D scene anywhere on earth.
 * [openrouteservice-r](https://github.com/GIScience/openrouteservice-r) ⭐ 110 | 🐛 23 | 🌐 R | 📅 2025-02-08 - R package to query openrouteservice.org.
-* [soilDB](https://github.com/ncss-tech/soilDB) ⭐ 100 | 🐛 30 | 🌐 R | 📅 2026-08-27 - Simplified Access to NCSS Soil Databases.
+* [soilDB](https://github.com/ncss-tech/soilDB) ⭐ 100 | 🐛 30 | 🌐 R | 📅 2026-09-05 - Simplified Access to NCSS Soil Databases.
 * [geotargets](https://github.com/njtierney/geotargets) ⭐ 97 | 🐛 28 | 🌐 R | 📅 2026-06-11 - Targets extensions for geospatial data.
 * [geodist](https://github.com/hypertidy/geodist) ⭐ 96 | 🐛 9 | 🌐 C | 📅 2026-09-02 - Ultra lightweight, ultra fast calculation of geo distances.
 * [bfastSpatial](https://github.com/loicdtx/bfastSpatial) ⭐ 95 | 🐛 40 | 🌐 R | 📅 2018-05-10 - Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.
@@ -1390,12 +1390,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Rust
 
-* [Arnis](https://github.com/louis-e/arnis) ⭐ 17,728 | 🐛 121 | 🌐 Rust | 📅 2026-09-04 - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
-* [A/B Street](https://github.com/dabreegster/abstreet) ⭐ 8,164 | 🐛 234 | 🌐 Rust | 📅 2025-09-10 - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-* [Martin](https://github.com/urbica/martin) ⭐ 3,889 | 🐛 63 | 🌐 Rust | 📅 2026-09-04 - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
-* [geo](https://github.com/georust/rust-geo) ⭐ 1,924 | 🐛 130 | 🌐 Rust | 📅 2026-09-01 - Geospatial primitives and algorithms for Rust.
+* [Arnis](https://github.com/louis-e/arnis) ⭐ 17,735 | 🐛 121 | 🌐 Rust | 📅 2026-09-04 - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+* [A/B Street](https://github.com/dabreegster/abstreet) ⭐ 8,165 | 🐛 234 | 🌐 Rust | 📅 2025-09-10 - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+* [Martin](https://github.com/urbica/martin) ⭐ 3,891 | 🐛 49 | 🌐 Rust | 📅 2026-09-05 - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
+* [geo](https://github.com/georust/rust-geo) ⭐ 1,924 | 🐛 131 | 🌐 Rust | 📅 2026-09-01 - Geospatial primitives and algorithms for Rust.
 * [rustworkx](https://github.com/Qiskit/rustworkx) ⭐ 1,752 | 🐛 139 | 🌐 Rust | 📅 2026-09-01 - A high-performance, general-purpose graph library for Python, written in Rust.
-* [maplibre-rs](https://github.com/maplibre/maplibre-rs) ⭐ 1,572 | 🐛 70 | 🌐 Rust | 📅 2026-09-04 - About Native Maps for Web, Mobile and Desktop.
+* [maplibre-rs](https://github.com/maplibre/maplibre-rs) ⭐ 1,573 | 🐛 70 | 🌐 Rust | 📅 2026-09-04 - About Native Maps for Web, Mobile and Desktop.
 * [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,199 | 🐛 175 | 🌐 Rust | 📅 2026-05-26 - An advanced geospatial data analysis platform.
 * [GeoPolars](https://github.com/geopolars/geopolars) ⭐ 913 | 🐛 27 | 🌐 Python | 📅 2025-12-10 - Geospatial extensions for Polars.
 * [FlatGeobuf](https://github.com/flatgeobuf/flatgeobuf) ⭐ 819 | 🐛 35 | 🌐 Rust | 📅 2026-08-21 - A performant binary encoding for geographic data based on flatbuffers.
@@ -1406,11 +1406,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rstar](https://github.com/georust/rstar) ⭐ 556 | 🐛 47 | 🌐 Rust | 📅 2026-09-03 - R\*-tree library for the rust ecosystem.
 * [h3o](https://github.com/HydroniumLabs/h3o) ⭐ 542 | 🐛 1 | 🌐 Rust | 📅 2026-08-29 - Rust implementation of the H3 geospatial indexing system.
 * [sguaba](https://github.com/helsing-ai/sguaba) ⭐ 511 | 🐛 4 | 🌐 Rust | 📅 2026-09-02 - Types for points and vectors in coordinate spaces and transformations based on rigid body transforms.
-* [SedonaDB](https://github.com/apache/sedona-db) ⭐ 500 | 🐛 122 | 🌐 Rust | 📅 2026-09-04 - Single-node analytical database engine with geospatial as the first-class citizen.
+* [SedonaDB](https://github.com/apache/sedona-db) ⭐ 500 | 🐛 120 | 🌐 Rust | 📅 2026-09-04 - Single-node analytical database engine with geospatial as the first-class citizen.
 * [geozero](https://github.com/georust/geozero) ⭐ 470 | 🐛 45 | 🌐 Rust | 📅 2026-09-04 - Zero-Copy reading and writing of geospatial data.
 * [gdal](https://github.com/georust/rust-gdal) ⭐ 448 | 🐛 62 | 🌐 Rust | 📅 2026-07-06 - Rust bindings for GDAL.
 * [geoarrow-rs](https://github.com/kylebarron/geoarrow-rs) ⭐ 424 | 🐛 85 | 🌐 Rust | 📅 2026-09-01 - GeoArrow in Rust and WebAssembly with vectorized geometry operations.
-* [Ferrostar](https://github.com/stadiamaps/ferrostar) ⭐ 416 | 🐛 157 | 🌐 Kotlin | 📅 2026-09-03 - A FOSS navigation SDK built from the ground up for the future.
+* [Ferrostar](https://github.com/stadiamaps/ferrostar) ⭐ 417 | 🐛 157 | 🌐 Kotlin | 📅 2026-09-03 - A FOSS navigation SDK built from the ground up for the future.
 * [Airmail](https://github.com/ellenhp/airmail) ⭐ 382 | 🐛 17 | 🌐 Rust | 📅 2025-08-08 - Lightweight geocoder in pure Rust.
 * [hdf5-rust](https://github.com/aldanor/hdf5-rust) ⭐ 346 | 🐛 57 | 🌐 Rust | 📅 2024-08-08 - Thread-safe Rust bindings and high-level wrappers for the HDF5 library API.
 * [geojson](https://github.com/georust/rust-geojson) ⭐ 345 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Library for serializing the GeoJSON vector GIS file format.
@@ -1435,7 +1435,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [iTriangle](https://github.com/iShape-Rust/iTriangle) ⭐ 159 | 🐛 3 | 🌐 Rust | 📅 2026-08-24 - A fast, stable, and robust 2d triangulation library.
 * [Solari](https://github.com/ellenhp/solari) ⭐ 149 | 🐛 0 | 🌐 Rust | 📅 2025-06-24 - Multimodal routing in Rust.
 * [geos](https://github.com/georust/geos) ⭐ 147 | 🐛 16 | 🌐 Rust | 📅 2026-03-03 - Rust bindings for GEOS C API.
-* [stac-rs](https://github.com/gadomski/stac-rs) ⭐ 144 | 🐛 28 | 🌐 Rust | 📅 2026-09-04 - Rust implementation of the SpatioTemporal Asset Catalog (STAC) specification.
+* [stac-rs](https://github.com/gadomski/stac-rs) ⭐ 144 | 🐛 29 | 🌐 Rust | 📅 2026-09-04 - Rust implementation of the SpatioTemporal Asset Catalog (STAC) specification.
 * [osmpbfreader-rs](https://github.com/TeXitoi/osmpbfreader-rs) ⭐ 134 | 🐛 7 | 🌐 Rust | 📅 2026-04-07 - Read OpenStreetMap PBF files.
 * [GeoTIFF](https://github.com/georust/geotiff) ⭐ 132 | 🐛 10 | 🌐 Rust | 📅 2026-07-31 - Work with GeoTIFF raster files.
 * [RINEX](https://github.com/georust/rinex) ⭐ 126 | 🐛 29 | 🌐 Rust | 📅 2026-09-02 - RINEX analysis & and processing.
@@ -1445,11 +1445,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PMTiles (for Rust)](https://github.com/stadiamaps/pmtiles-rs) ⭐ 107 | 🐛 10 | 🌐 Rust | 📅 2026-08-15 - Rust implementation of PMTiles
 * [Robust](https://github.com/georust/robust) ⭐ 107 | 🐛 8 | 🌐 Rust | 📅 2025-05-10 - Robust primitives for computational geometry.
 * [las-rs](https://github.com/gadomski/las-rs) ⭐ 105 | 🐛 8 | 🌐 Rust | 📅 2026-08-25 - Read and write ASPRS las files.
-* [netcdf](https://github.com/georust/netcdf) ⭐ 105 | 🐛 4 | 🌐 Rust | 📅 2026-08-12 - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
+* [netcdf](https://github.com/georust/netcdf) ⭐ 105 | 🐛 5 | 🌐 Rust | 📅 2026-09-05 - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
 * [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) ⭐ 105 | 🐛 14 | 🌐 Rust | 📅 2023-10-16 - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
-* [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) ⭐ 103 | 🐛 53 | 🌐 Rust | 📅 2026-09-04 - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
+* [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) ⭐ 103 | 🐛 52 | 🌐 Rust | 📅 2026-09-05 - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [pasture](https://github.com/Mortano/pasture) ⭐ 95 | 🐛 4 | 🌐 Rust | 📅 2026-09-01 - A Rust library for working with point cloud data.
-* [Karttapullautin](https://github.com/karttapullautin/karttapullautin) ⭐ 88 | 🐛 8 | 🌐 Rust | 📅 2026-09-03 - A fast and accurate map generator from classified LiDAR data.
+* [Karttapullautin](https://github.com/karttapullautin/karttapullautin) ⭐ 88 | 🐛 10 | 🌐 Rust | 📅 2026-09-03 - A fast and accurate map generator from classified LiDAR data.
 * [density mesh](https://github.com/PsichiX/density-mesh) ⭐ 84 | 🐛 6 | 🌐 Rust | 📅 2023-09-15 - Image density/height map to mesh generator.
 * [geocoding](https://github.com/georust/rust-geocoding) ⭐ 82 | 🐛 8 | 🌐 Rust | 📅 2026-05-16 - Geocoding library for Rust.
 * [gtfs-structures](https://github.com/rust-transit/gtfs-structure) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-09-01 - Read GTFS files into structs, with smart references.
@@ -1458,7 +1458,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [shapefile](https://github.com/tmontaigu/shapefile-rs) ⭐ 76 | 🐛 4 | 🌐 Rust | 📅 2026-07-24 - Rust read/write support for shapefiles.
 * [shapefile-rs](https://github.com/tmontaigu/shapefile-rs) ⭐ 76 | 🐛 4 | 🌐 Rust | 📅 2026-07-24 - Rust library to read & write shapefiles.
 * [transit\_model](https://github.com/hove-io/transit_model) ⭐ 74 | 🐛 13 | 🌐 Rust | 📅 2026-09-01 - Manage, convert and enrich transit data.
-* [Bevy Point Cloud](https://github.com/rlamarche/bevy_pointcloud) ⭐ 67 | 🐛 0 | 🌐 Rust | 📅 2026-08-31 - A Bevy plugin to render point clouds.
+* [Bevy Point Cloud](https://github.com/rlamarche/bevy_pointcloud) ⭐ 67 | 🐛 1 | 🌐 Rust | 📅 2026-08-31 - A Bevy plugin to render point clouds.
 * [Polylabel-rs](https://github.com/urschrei/polylabel-rs) ⭐ 63 | 🐛 2 | 🌐 Rust | 📅 2026-08-21 - A Rust implementation of the Polylabel algorithm, with FFI.
 * [earcut-rs](https://github.com/ciscorn/earcut-rs) ⭐ 58 | 🐛 3 | 🌐 Rust | 📅 2026-07-26 - Port of the Earcut polygon triangulation library with performance in mind.
 * [wkt](https://github.com/georust/rust-wkt) ⭐ 56 | 🐛 19 | 🌐 Rust | 📅 2026-08-19 - Rust read/write support for well-known text (WKT).
@@ -1537,7 +1537,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [sst](https://github.com/hugoledoux/sst) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2025-01-06 - streaming startin.
 * [Pbfextractor](https://github.com/Lesstat/pbfextractor) ⭐ 2 | 🐛 1 | 🌐 Rust | 📅 2026-04-22 - Create graph files out of OSM and SRTM data
 * [rout3serv](https://github.com/nmandery/rout3serv) ⭐ 2 | 🐛 2 | 🌐 Rust | 📅 2024-02-23 - H3-grid based Routing server with GRPC-API and dataframe integration.
-* [Routers](https://github.com/routers-org/routers) ⭐ 2 | 🐛 16 | 🌐 Rust | 📅 2026-09-04 - Set of routing tools designed for system-agnostic maps.
+* [Routers](https://github.com/routers-org/routers) ⭐ 2 | 🐛 17 | 🌐 Rust | 📅 2026-09-05 - Set of routing tools designed for system-agnostic maps.
 * [S2](https://github.com/danhhz/s2) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2017-08-10 - S2 spherical geometry library in Rust.
 * [geocart](https://github.com/HectorMRC/geocart) ⭐ 0 | 🐛 1 | 🌐 Rust | 📅 2025-11-24 - A bridge between geographic and cartesian coordinates.
 * [A5](https://a5geo.org/docs/quickstart/rust) - Rust library for the A5 geospatial indexing system, a new alternative to S2 and H3 using irregular, equilateral pentagons.
@@ -1552,17 +1552,17 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Scala
 
 * [GeoTrellis](https://github.com/locationtech/geotrellis) ⭐ 1,373 | 🐛 250 | 🌐 Scala | 📅 2026-08-11 - GeoTrellis is a Scala library and framework that uses Spark to work with raster data.
-* [RTree2D](https://github.com/plokhotnyuk/rtree2d) ⭐ 145 | 🐛 11 | 🌐 Scala | 📅 2026-08-21 - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries.
+* [RTree2D](https://github.com/plokhotnyuk/rtree2d) ⭐ 145 | 🐛 13 | 🌐 Scala | 📅 2026-08-21 - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries.
 * [Franklin](https://github.com/azavea/franklin) ⭐ 87 | 🐛 110 | 🌐 Scala | 📅 2025-10-31 - A STAC/OGC API Features Web Service.
 * [mapnik2geotools](https://github.com/dwins/mapnik2geotools) ⭐ 64 | 🐛 16 | 🌐 Scala | 📅 2016-09-01 - Using the Scala XML API to translate from Mapnik XML to GeoTools' SLD dialect.
 * [geoscript.scala](https://github.com/dwins/geoscript.scala) ⭐ 47 | 🐛 17 | 🌐 Scala | 📅 2016-04-13 - Scala implementation of the GeoScript API.
 * [fulgurite](https://github.com/SatelliteApplicationsCatapult/fulgurite) ⭐ 19 | 🐛 13 | 🌐 Scala | 📅 2019-08-14 - Fulgurite is a way to use Apache Spark to process GeoTIFF images in a distributed way.
-* [Stac4s](https://github.com/azavea/stac4s) ⭐ 17 | 🐛 30 | 🌐 Scala | 📅 2026-08-31 - a scala library with primitives to build applications using the SpatioTemporal Asset Catalogs specification.
+* [Stac4s](https://github.com/azavea/stac4s) ⭐ 17 | 🐛 31 | 🌐 Scala | 📅 2026-08-31 - a scala library with primitives to build applications using the SpatioTemporal Asset Catalogs specification.
 * [osm4scala](https://simplexspatial.github.io/osm4scala/) - High perfromance Scala library and Spark Polyglot (Scala, Python, SQL, etc.) connector for OpenStreetMap Pbf files.
 
 ## Swift
 
-* [GEOSwift](https://github.com/GEOSwift/GEOSwift) ⭐ 1,503 | 🐛 8 | 🌐 Swift | 📅 2025-11-09 - The Swift Geographic Engine.
+* [GEOSwift](https://github.com/GEOSwift/GEOSwift) ⭐ 1,503 | 🐛 8 | 🌐 Swift | 📅 2026-09-05 - The Swift Geographic Engine.
 * [Mapbox Navigation SDK for iOS](https://github.com/mapbox/mapbox-navigation-ios) ⭐ 918 | 🐛 215 | 🌐 Swift | 📅 2026-09-04 - Turn-by-turn navigation logic and UI in Swift or Objective-C on iOS.
 * [turf-swift](https://github.com/mapbox/turf-swift) ⭐ 271 | 🐛 29 | 🌐 Swift | 📅 2026-06-29 - A Swift language port of Turf.js.
 * [MapboxDirections.swift](https://github.com/mapbox/MapboxDirections.swift) ⭐ 207 | 🐛 32 | 🌐 Swift | 📅 2026-08-25 - Traffic-aware directions in Swift or Objective-C on iOS, macOS, tvOS, and watchOS.
@@ -1570,12 +1570,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Mobile Development
 
-* [Organic Maps](https://github.com/organicmaps/organicmaps) ⭐ 15,310 | 🐛 3,487 | 🌐 C++ | 📅 2026-09-04 - Organic Maps is a better fork of MAPS.ME, an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders. No ads, no tracking, no data collection, no crapware.
+* [Organic Maps](https://github.com/organicmaps/organicmaps) ⭐ 15,322 | 🐛 3,498 | 🌐 C++ | 📅 2026-09-05 - Organic Maps is a better fork of MAPS.ME, an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders. No ads, no tracking, no data collection, no crapware.
 * [MAPS.ME](https://github.com/mapsme/omim) ⭐ 4,601 | 🐛 997 | 🌐 C++ | 📅 2022-10-05 - MAPS.ME — Offline OpenStreetMap maps for iOS and Android.
 * [flutter\_map](https://github.com/fleaflet/flutter_map) ⭐ 3,014 | 🐛 46 | 🌐 Dart | 📅 2026-09-04 - A Dart implementation of Leaflet for Flutter apps.
-* [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) ⭐ 2,189 | 🐛 586 | 🌐 C++ | 📅 2026-09-04 - The open-source alternative to Mapbox GL Native. SDKs for iOS, Android and other platforms
+* [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) ⭐ 2,190 | 🐛 593 | 🌐 C++ | 📅 2026-09-05 - The open-source alternative to Mapbox GL Native. SDKs for iOS, Android and other platforms
 * [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android) ⭐ 651 | 🐛 518 | 🌐 Kotlin | 📅 2026-09-04 - Mapbox Navigation SDK for Android.
-* [MapLibre Compose](https://github.com/maplibre/maplibre-compose) ⭐ 563 | 🐛 38 | 🌐 Kotlin | 📅 2026-09-04 - Add interactive vector tile maps to your Compose app
+* [MapLibre Compose](https://github.com/maplibre/maplibre-compose) ⭐ 565 | 🐛 30 | 🌐 Kotlin | 📅 2026-09-05 - Add interactive vector tile maps to your Compose app
 * [XaMaps](https://github.com/AlexPshul/XaMaps) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2018-10-19 - Xamarin + Azure Maps.
 * [XFAzureMapTrials](https://github.com/Druffl3/XFAzureMapTrials) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2022-12-08 - Use Azure Maps REST APIs with Xamarin.Forms.
 * [Apple MapKit](https://developer.apple.com/documentation/mapkit) - Display map or satellite imagery directly from your app's interface, call out points of interest, and determine placemark information for map coordinates.
@@ -1597,9 +1597,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Visualization
 
-* [Blender GIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,345 | 🐛 321 | 🌐 Python | 📅 2025-12-20 - Blender addons to make the bridge between Blender and geographic data.
-* [Folium](https://github.com/python-visualization/folium) ⭐ 7,396 | 🐛 68 | 🌐 Python | 📅 2026-09-04 - Python Data. Leaflet.js Maps.
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,147 | 🐛 162 | 🌐 C++ | 📅 2026-08-10 - PlotJuggler is a tool to visualize time series that is fast, powerful and intuitive.
+* [Blender GIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,347 | 🐛 321 | 🌐 Python | 📅 2025-12-20 - Blender addons to make the bridge between Blender and geographic data.
+* [Folium](https://github.com/python-visualization/folium) ⭐ 7,396 | 🐛 68 | 🌐 Python | 📅 2026-09-05 - Python Data. Leaflet.js Maps.
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,153 | 🐛 162 | 🌐 C++ | 📅 2026-08-10 - PlotJuggler is a tool to visualize time series that is fast, powerful and intuitive.
 * [tippecanoe](https://github.com/mapbox/tippecanoe) ⭐ 3,114 | 🐛 217 | 🌐 C++ | 📅 2026-06-29 - Build vector tilesets from large collections of GeoJSON features.
 * [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) ⭐ 1,343 | 🐛 22 | 🌐 JavaScript | 📅 2021-05-11 - Procedural GL JS is a library for creating 3D map experiences on the web, written in JavaScript and WebGL. It is built on top THREE.js.
 * [geoplot](https://github.com/ResidentMario/geoplot) ⭐ 1,214 | 🐛 33 | 🌐 Python | 📅 2024-06-08 -  High-level Python geospatial plotting library. It's an extension to cartopy and matplotlib which makes mapping easy.
@@ -1635,12 +1635,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Mapus](https://github.com/alyssaxuu/mapus) ⭐ 3,535 | 🐛 9 | 🌐 JavaScript | 📅 2022-07-02 - Mapus is a tool to explore and annotate collaboratively on a map.
 * [Planetiler](https://github.com/onthegomap/planetiler) ⭐ 2,165 | 🐛 114 | 🌐 Java | 📅 2026-08-18 - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) ⭐ 1,682 | 🐛 36 | 🌐 C++ | 📅 2026-07-24 - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
-* [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) ⭐ 976 | 🐛 223 | 🌐 C | 📅 2026-09-04 - GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
-* [eodag](https://github.com/CS-SI/eodag) ⭐ 428 | 🐛 180 | 🌐 Python | 📅 2026-09-04 - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
+* [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) ⭐ 976 | 🐛 222 | 🌐 C | 📅 2026-09-05 - GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
+* [eodag](https://github.com/CS-SI/eodag) ⭐ 428 | 🐛 180 | 🌐 Python | 📅 2026-09-05 - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 * [veins](https://github.com/sommer/veins) ⭐ 327 | 🐛 8 | 🌐 C++ | 📅 2026-06-16 - Open source vehicular network simulation framework.
 * [exactextract](https://github.com/isciences/exactextract) ⭐ 322 | 🐛 29 | 🌐 C++ | 📅 2026-02-24 - Provides a fast and accurate algorithm for summarizing values in the portion of a raster dataset that is covered by a polygon, often referred to as zonal statistics.
 * [DroneDB](https://github.com/DroneDB/DroneDB) ⭐ 282 | 🐛 23 | 🌐 C++ | 📅 2026-09-01 - Effortless aerial data management and sharing.
-* [nextgisweb](https://github.com/nextgis/nextgisweb) ⭐ 280 | 🐛 0 | 🌐 Python | 📅 2026-09-04 - Server based application/server-side framework for geodata storage, management and visualization.
+* [nextgisweb](https://github.com/nextgis/nextgisweb) ⭐ 280 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Server based application/server-side framework for geodata storage, management and visualization.
 * [fresco](https://github.com/go-spatial/fresco) ⚠️ Archived - Fresco is an open source Mapbox Vector Tile Style editor that allows cartographers to craft stylesheets for use with Mapbox GL maps.
 * [sat-search](https://github.com/sat-utils/sat-search) ⭐ 196 | 🐛 23 | 🌐 Python | 📅 2021-06-22 - Sat-search is a Python 3 library and a command line tool for discovering and downloading publicly available satellite imagery using STAC compliant API.
 * [Magrit](https://github.com/riatelab/magrit) ⭐ 161 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-17 - Magrit is an online application for thematic mapping.
@@ -1753,7 +1753,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ### Color Advice
 
-* [Textures.js](https://github.com/riccardoscalco/textures) ⭐ 6,092 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-01 - JavaScript library for creating SVG patterns, designed for data visualization.
+* [Textures.js](https://github.com/riccardoscalco/textures) ⭐ 6,093 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-01 - JavaScript library for creating SVG patterns, designed for data visualization.
 * [CartoColor](https://github.com/CartoDB/CartoColor) ⭐ 236 | 🐛 10 | 🌐 TypeScript | 📅 2025-02-11 - A set of custom color palettes built on top of standards for color use on maps.
 * [Chroma.js Color Palette Helper](https://gka.github.io/palettes/) - Chroma.js-powered tool for mastering multi-hued, multi-stop color scales.
 * [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on Dr. Cynthia Brewer's research.
@@ -1816,10 +1816,10 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## References and other awesome lists
 
-* [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md) ⭐ 318,273 | 🐛 17 | 🌐 Python | 📅 2026-09-01
+* [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md) ⭐ 318,504 | 🐛 16 | 🌐 Python | 📅 2026-09-01
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,538 | 🐛 92 | 📅 2024-05-17
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 47 | 📅 2023-08-15
-* [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,845 | 🐛 17 | 📅 2021-05-08
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15
+* [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,844 | 🐛 17 | 📅 2021-05-08
 * [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,245 | 🐛 0 | 📅 2026-09-04
 * [Awesome Object Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,506 | 🐛 7 | 📅 2022-12-17
 * [Awesome GIS - sshuair](https://github.com/sshuair/awesome-gis) ⭐ 5,513 | 🐛 68 | 📅 2026-07-21
@@ -1834,7 +1834,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Digital Earth Australia notebooks and tools repository](https://github.com/GeoscienceAustralia/dea-notebooks) ⭐ 536 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2026-09-04
 * [Awesome DEM](https://github.com/DahnJ/Awesome-DEM) ⭐ 455 | 🐛 6 | 📅 2024-05-25 - Overview of Digital Elevation Model (DEM) datasets.
 * [Awesome Geo Rust](https://github.com/pka/awesome-georust) ⭐ 415 | 🐛 2 | 📅 2026-03-01
-* [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) ⭐ 403 | 🐛 7 | 📅 2026-08-22
+* [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) ⭐ 403 | 🐛 8 | 📅 2026-08-22
 * [Awesome Forests](https://github.com/blutjens/awesome-forests) ⭐ 382 | 🐛 8 | 📅 2025-08-01 - A curated list of ground-truth forest datasets for the machine learning and forestry community.
 * [Awesome Spatial](https://github.com/RoboDonut/awesome-spatial/blob/master/README.md) ⭐ 222 | 🐛 101 | 📅 2018-01-04
 * [Awesome Earth Engine Apps](https://github.com/philippgaertner/awesome-earth-engine-apps) ⭐ 189 | 🐛 2 | 📅 2024-01-03
@@ -1848,4 +1848,4 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
