@@ -48,7 +48,7 @@
             "open_issues": 375,
             "owner": "orientechnologies",
             "repo": "orientdb",
-            "stars": 4991,
+            "stars": 4990,
             "topics": [
               "database",
               "dbms",
@@ -147,7 +147,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:03:25Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "MobilityDB",
             "repo": "MobilityDB",
             "stars": 628,
@@ -469,11 +469,11 @@
             "id": 1251648409,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:57:22Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-03T03:07:46Z",
+            "open_issues": 26,
             "owner": "opengeos",
             "repo": "GeoLibre",
-            "stars": 7782,
+            "stars": 7784,
             "topics": [
               "cesium",
               "data-science",
@@ -829,7 +829,7 @@
             "id": 17163720,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:02:54Z",
+            "last_commit": "2026-10-03T03:26:13Z",
             "open_issues": 878,
             "owner": "TerriaJS",
             "repo": "terriajs",
@@ -1298,7 +1298,7 @@
             "id": 1181844101,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T20:38:53Z",
+            "last_commit": "2026-10-03T00:10:15Z",
             "open_issues": 1,
             "owner": "GeiserX",
             "repo": "Pumperly",
@@ -1577,7 +1577,7 @@
             "id": 1171771524,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:30:14Z",
+            "last_commit": "2026-10-03T03:16:52Z",
             "open_issues": 79,
             "owner": "honua-io",
             "repo": "honua-sdk-js",
@@ -1790,8 +1790,8 @@
             "id": 1188344746,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:13:02Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-03T02:30:39Z",
+            "open_issues": 41,
             "owner": "geolens-io",
             "repo": "geolens",
             "stars": 266,
@@ -2101,7 +2101,7 @@
             "open_issues": 1,
             "owner": "jldz9",
             "repo": "InSARHub",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "compass",
               "dolphin",
@@ -2169,7 +2169,7 @@
             "open_issues": 822,
             "owner": "potree",
             "repo": "potree",
-            "stars": 5627,
+            "stars": 5628,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -2533,7 +2533,7 @@
             "id": 1339820630,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:07:03Z",
+            "last_commit": "2026-10-03T04:19:10Z",
             "open_issues": 4,
             "owner": "yz4git",
             "repo": "next-gen",
@@ -3824,7 +3824,7 @@
             "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4192,
+            "stars": 4193,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4228,7 +4228,7 @@
             "open_issues": 22,
             "owner": "TorchSpatiotemporal",
             "repo": "tsl",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "deep-learning",
               "gnn",
@@ -5214,7 +5214,7 @@
             "open_issues": 217,
             "owner": "mapbox",
             "repo": "tippecanoe",
-            "stars": 3132,
+            "stars": 3131,
             "topics": [
               "c-plus-plus",
               "geojson",
@@ -5265,7 +5265,7 @@
             "open_issues": 47,
             "owner": "VROOM-Project",
             "repo": "vroom",
-            "stars": 1873,
+            "stars": 1874,
             "topics": [
               "cvrp",
               "delivery",
@@ -7512,7 +7512,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-08-17T05:26:26Z",
-            "open_issues": 77,
+            "open_issues": 76,
             "owner": "locationtech",
             "repo": "spatial4j",
             "stars": 962,
@@ -7727,7 +7727,7 @@
             "id": 3606738,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:26:35Z",
+            "last_commit": "2026-10-03T00:28:01Z",
             "open_issues": 1696,
             "owner": "CesiumGS",
             "repo": "cesium",
@@ -7759,7 +7759,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T19:10:20Z",
-            "open_issues": 557,
+            "open_issues": 559,
             "owner": "visgl",
             "repo": "deck.gl",
             "stars": 14618,
@@ -7820,7 +7820,7 @@
             "open_issues": 14,
             "owner": "mapbox",
             "repo": "pixelmatch",
-            "stars": 6974,
+            "stars": 6975,
             "topics": [
               "diff",
               "image-comparison",
@@ -8121,7 +8121,7 @@
             "id": 17163720,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:02:54Z",
+            "last_commit": "2026-10-03T03:26:13Z",
             "open_issues": 878,
             "owner": "TerriaJS",
             "repo": "terriajs",
@@ -10631,7 +10631,7 @@
             "id": 47345261,
             "language": "Julia",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T03:42:28Z",
+            "last_commit": "2026-10-03T03:26:30Z",
             "open_issues": 51,
             "owner": "JuliaDataCubes",
             "repo": "EarthDataLab.jl",
@@ -12111,8 +12111,8 @@
             "id": 85352251,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T13:00:10Z",
-            "open_issues": 189,
+            "last_commit": "2026-10-03T02:14:58Z",
+            "open_issues": 188,
             "owner": "GenericMappingTools",
             "repo": "pygmt",
             "stars": 875,
@@ -13178,7 +13178,7 @@
             "id": 54157717,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:48:08Z",
+            "last_commit": "2026-10-03T00:47:43Z",
             "open_issues": 28,
             "owner": "bopen",
             "repo": "elevation",
@@ -17250,7 +17250,7 @@
             "id": 92909518,
             "language": "R",
             "license": null,
-            "last_commit": "2026-07-31T19:34:50Z",
+            "last_commit": "2026-10-03T02:16:16Z",
             "open_issues": 21,
             "owner": "ropensci",
             "repo": "tidync",
@@ -19256,7 +19256,7 @@
             "open_issues": 32,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3963,
+            "stars": 3964,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -19948,7 +19948,7 @@
             "id": 695021547,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T03:07:18Z",
+            "last_commit": "2026-10-03T03:46:24Z",
             "open_issues": 21,
             "owner": "zarrs",
             "repo": "zarrs",
@@ -22717,7 +22717,7 @@
             "id": 732583000,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:57:54Z",
+            "last_commit": "2026-10-03T02:43:22Z",
             "open_issues": 1,
             "owner": "p4ken",
             "repo": "geoserde",
@@ -23202,11 +23202,11 @@
             "id": 324829379,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T21:27:25Z",
-            "open_issues": 3541,
+            "last_commit": "2026-10-03T04:10:11Z",
+            "open_issues": 3542,
             "owner": "organicmaps",
             "repo": "organicmaps",
-            "stars": 15549,
+            "stars": 15550,
             "topics": [
               "android",
               "app",
@@ -23340,7 +23340,7 @@
             "id": 880137684,
             "language": "Kotlin",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T10:56:04Z",
+            "last_commit": "2026-10-03T04:23:30Z",
             "open_issues": 21,
             "owner": "maplibre",
             "repo": "maplibre-compose",
@@ -23530,7 +23530,7 @@
             "open_issues": 332,
             "owner": "domlysz",
             "repo": "BlenderGIS",
-            "stars": 9437,
+            "stars": 9438,
             "topics": [
               "3d",
               "3d-map",
@@ -23598,7 +23598,7 @@
             "open_issues": 69,
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6224,
+            "stars": 6225,
             "topics": [
               "chart",
               "csv",
@@ -23633,7 +23633,7 @@
             "open_issues": 217,
             "owner": "mapbox",
             "repo": "tippecanoe",
-            "stars": 3132,
+            "stars": 3131,
             "topics": [
               "c-plus-plus",
               "geojson",
@@ -24210,7 +24210,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T11:18:01Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "onthegomap",
             "repo": "planetiler",
             "stars": 2193,
@@ -25182,7 +25182,7 @@
         {
           "node_type": "item",
           "title": "Awesome Python",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25192,10 +25192,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324741,
+            "stars": 324779,
             "topics": [
               "awesome",
               "awesome-list",
@@ -25210,7 +25210,7 @@
         {
           "node_type": "item",
           "title": "Awesome Computer Vision",
-          "description": null,
+          "description": "jbhuang0604/awesome-computer-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25231,7 +25231,7 @@
         {
           "node_type": "item",
           "title": "Awesome Deep Vision",
-          "description": null,
+          "description": "kjw0612/awesome-deep-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25252,7 +25252,7 @@
         {
           "node_type": "item",
           "title": "Awesome Semantic Segmentation",
-          "description": null,
+          "description": "mrgloom/awesome-semantic-segmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25278,7 +25278,7 @@
         {
           "node_type": "item",
           "title": "satellite-image-deep-learning",
-          "description": null,
+          "description": "satellite-image-deep-learning/techniques",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25316,7 +25316,7 @@
         {
           "node_type": "item",
           "title": "Awesome Object Detection",
-          "description": null,
+          "description": "amusi/awesome-object-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25343,7 +25343,7 @@
         {
           "node_type": "item",
           "title": "Awesome GIS - sshuair",
-          "description": null,
+          "description": "sshuair/awesome-gis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25373,7 +25373,7 @@
         {
           "node_type": "item",
           "title": "Awesome Satellite Imagery Datasets",
-          "description": null,
+          "description": "chrieke/awesome-satellite-imagery-datasets",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -25403,7 +25403,7 @@
         {
           "node_type": "item",
           "title": "Vector Tiles",
-          "description": null,
+          "description": "mapbox/awesome-vector-tiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25424,7 +25424,7 @@
         {
           "node_type": "item",
           "title": "GeoJSON",
-          "description": null,
+          "description": "tmcw/awesome-geojson",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25450,7 +25450,7 @@
         {
           "node_type": "item",
           "title": "Awesome-EarthObservation-Code",
-          "description": null,
+          "description": "acgeospatial/awesome-earthobservation-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25480,7 +25480,7 @@
         {
           "node_type": "item",
           "title": "Awesome SAR",
-          "description": null,
+          "description": "RadarCODE/awesome-sar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25501,7 +25501,7 @@
         {
           "node_type": "item",
           "title": "Awesome Spectral Indices",
-          "description": null,
+          "description": "awesome-spectral-indices/awesome-spectral-indices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25585,7 +25585,7 @@
         {
           "node_type": "item",
           "title": "Awesome Sentinel",
-          "description": null,
+          "description": "kr-stn/awesome-sentinel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25614,7 +25614,7 @@
         {
           "node_type": "item",
           "title": "Digital Earth Australia notebooks and tools repository",
-          "description": null,
+          "description": "GeoscienceAustralia/dea-notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25678,7 +25678,7 @@
         {
           "node_type": "item",
           "title": "Awesome Geo Rust",
-          "description": null,
+          "description": "pka/awesome-georust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25699,7 +25699,7 @@
         {
           "node_type": "item",
           "title": "Awesome SQLite",
-          "description": null,
+          "description": "planetopendata/awesome-sqlite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25754,7 +25754,7 @@
         {
           "node_type": "item",
           "title": "Awesome Spatial",
-          "description": null,
+          "description": "RoboDonut/awesome-spatial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25775,7 +25775,7 @@
         {
           "node_type": "item",
           "title": "Awesome Earth Engine Apps",
-          "description": null,
+          "description": "philippgaertner/awesome-earth-engine-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25800,7 +25800,7 @@
         {
           "node_type": "item",
           "title": "Cartography / Mapping / Web design resources",
-          "description": null,
+          "description": "tolomaps/resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -25893,7 +25893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:10:27.251Z",
+    "last_updated": "2026-10-03T04:25:44.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Long list of geospatial tools and resources",
