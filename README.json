@@ -19,7 +19,7 @@
             "open_issues": 165,
             "owner": "tidwall",
             "repo": "tile38",
-            "stars": 9761,
+            "stars": 9760,
             "topics": [
               "database",
               "geo",
@@ -48,7 +48,7 @@
             "open_issues": 406,
             "owner": "orientechnologies",
             "repo": "orientdb",
-            "stars": 5001,
+            "stars": 5002,
             "topics": [
               "database",
               "dbms",
@@ -146,8 +146,8 @@
             "id": 167944401,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T23:12:48Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-19T22:52:44Z",
+            "open_issues": 26,
             "owner": "MobilityDB",
             "repo": "MobilityDB",
             "stars": 635,
@@ -197,7 +197,7 @@
             "open_issues": 52,
             "owner": "pgpointcloud",
             "repo": "pointcloud",
-            "stars": 430,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -235,8 +235,8 @@
             "id": 9074548,
             "language": "PLpgSQL",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-13T16:46:02Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-19T17:11:01Z",
+            "open_issues": 19,
             "owner": "orbisgis",
             "repo": "h2gis",
             "stars": 226,
@@ -448,11 +448,11 @@
             "id": 1251648409,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T01:08:17Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-20T01:13:18Z",
+            "open_issues": 30,
             "owner": "opengeos",
             "repo": "GeoLibre",
-            "stars": 8729,
+            "stars": 8745,
             "topics": [
               "cesium",
               "data-science",
@@ -531,7 +531,7 @@
             "open_issues": 0,
             "owner": "AysanZ",
             "repo": "alidade",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "3d-maps",
               "cartography",
@@ -604,11 +604,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T08:28:43Z",
-            "open_issues": 302,
+            "last_commit": "2026-11-19T18:48:47Z",
+            "open_issues": 303,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 12129,
+            "stars": 12135,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -636,7 +636,7 @@
             "open_issues": 123,
             "owner": "maptalks",
             "repo": "maptalks.js",
-            "stars": 4540,
+            "stars": 4539,
             "topics": [
               "gis",
               "javascript",
@@ -699,7 +699,7 @@
             "open_issues": 229,
             "owner": "markmarkoh",
             "repo": "datamaps",
-            "stars": 3800,
+            "stars": 3799,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -720,7 +720,7 @@
             "open_issues": 170,
             "owner": "zcreativelabs",
             "repo": "react-simple-maps",
-            "stars": 3394,
+            "stars": 3393,
             "topics": [
               "choropleth",
               "choropleth-map",
@@ -762,7 +762,7 @@
             "open_issues": 133,
             "owner": "vasturiano",
             "repo": "globe.gl",
-            "stars": 3238,
+            "stars": 3237,
             "topics": [
               "data-visualization",
               "globe",
@@ -821,7 +821,7 @@
             "open_issues": 12,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2083,
+            "stars": 2082,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -838,11 +838,11 @@
             "id": 17163720,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T23:10:40Z",
+            "last_commit": "2026-11-19T19:12:15Z",
             "open_issues": 878,
             "owner": "TerriaJS",
             "repo": "terriajs",
-            "stars": 1384,
+            "stars": 1383,
             "topics": [
               "3d-globe",
               "catalog",
@@ -878,7 +878,7 @@
             "open_issues": 24,
             "owner": "developmentseed",
             "repo": "titiler",
-            "stars": 1210,
+            "stars": 1209,
             "topics": [
               "cog",
               "cogeotiff",
@@ -979,7 +979,7 @@
             "open_issues": 27,
             "owner": "wrld3d",
             "repo": "wrld.js",
-            "stars": 436,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 54,
             "owner": "Esri",
             "repo": "arcgis-rest-js",
-            "stars": 395,
+            "stars": 394,
             "topics": [
               "arcgis",
               "data-management",
@@ -1030,7 +1030,7 @@
             "open_issues": 60,
             "owner": "cmv",
             "repo": "cmv-app",
-            "stars": 332,
+            "stars": 331,
             "topics": [
               "arcgis-api",
               "arcgis-js",
@@ -1063,7 +1063,7 @@
             "open_issues": 9,
             "owner": "riatelab",
             "repo": "bertin",
-            "stars": 319,
+            "stars": 318,
             "topics": [
               "cartography",
               "d3js",
@@ -1140,7 +1140,7 @@
             "open_issues": 8,
             "owner": "eurostat",
             "repo": "gridviz",
-            "stars": 249,
+            "stars": 250,
             "topics": [
               "cartography",
               "census",
@@ -1465,7 +1465,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T22:33:56Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "honua-io",
             "repo": "honua-sdk-js",
             "stars": 6,
@@ -1719,7 +1719,7 @@
             "open_issues": 37,
             "owner": "DHI",
             "repo": "terracotta",
-            "stars": 757,
+            "stars": 756,
             "topics": [
               "cloud-optimized-geotiff",
               "python",
@@ -1785,11 +1785,11 @@
             "id": 1188344746,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T01:13:15Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-19T04:59:44Z",
+            "open_issues": 48,
             "owner": "geolens-io",
             "repo": "geolens",
-            "stars": 303,
+            "stars": 305,
             "topics": [
               "cloud-optimized-geotiff",
               "data-catalog",
@@ -1827,7 +1827,7 @@
             "id": 194304228,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T22:23:52Z",
+            "last_commit": "2026-11-20T00:53:40Z",
             "open_issues": 29,
             "owner": "Unidata",
             "repo": "tds",
@@ -1994,7 +1994,7 @@
             "open_issues": 47,
             "owner": "johntruckenbrodt",
             "repo": "pyroSAR",
-            "stars": 617,
+            "stars": 616,
             "topics": [
               "earth-observation",
               "gdal",
@@ -2158,7 +2158,7 @@
             "open_issues": 828,
             "owner": "potree",
             "repo": "potree",
-            "stars": 5670,
+            "stars": 5671,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -2179,7 +2179,7 @@
             "open_issues": 14,
             "owner": "r-lidar",
             "repo": "lidR",
-            "stars": 715,
+            "stars": 716,
             "topics": [
               "als",
               "forestry",
@@ -2209,7 +2209,7 @@
             "open_issues": 36,
             "owner": "verma",
             "repo": "plasio",
-            "stars": 540,
+            "stars": 539,
             "topics": [
               "las",
               "laz",
@@ -2237,7 +2237,7 @@
             "open_issues": 3,
             "owner": "connormanning",
             "repo": "entwine",
-            "stars": 535,
+            "stars": 534,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -2279,7 +2279,7 @@
             "id": 236179198,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-26T02:05:27Z",
+            "last_commit": "2026-11-19T16:29:53Z",
             "open_issues": 1,
             "owner": "carlos-alberto-silva",
             "repo": "rGEDI",
@@ -2412,7 +2412,7 @@
             "open_issues": 155,
             "owner": "NASAWorldWind",
             "repo": "WorldWindJava",
-            "stars": 793,
+            "stars": 792,
             "topics": [
               "3d",
               "earth",
@@ -2447,7 +2447,7 @@
             "open_issues": 30,
             "owner": "tudelft3d",
             "repo": "3dfier",
-            "stars": 644,
+            "stars": 643,
             "topics": [
               "3d",
               "3dgis",
@@ -2494,8 +2494,8 @@
             "id": 1359807351,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T22:18:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-19T20:38:43Z",
+            "open_issues": 1,
             "owner": "Sara-Managed-Projects",
             "repo": "space-radar",
             "stars": 18,
@@ -2828,8 +2828,8 @@
             "id": 24245737,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T07:56:06Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-19T12:46:00Z",
+            "open_issues": 153,
             "owner": "mesa",
             "repo": "mesa",
             "stars": 3961,
@@ -2921,7 +2921,7 @@
             "open_issues": 13,
             "owner": "r-spatialecology",
             "repo": "landscapemetrics",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "landscape-ecology",
               "landscape-metrics",
@@ -3118,11 +3118,11 @@
             "id": 114948816,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T22:27:26Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-20T00:28:39Z",
+            "open_issues": 152,
             "owner": "uber",
             "repo": "h3",
-            "stars": 6748,
+            "stars": 6751,
             "topics": [
               "geospatial",
               "h3",
@@ -3179,7 +3179,7 @@
             "open_issues": 16,
             "owner": "openskynetwork",
             "repo": "opensky-api",
-            "stars": 478,
+            "stars": 476,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -3259,7 +3259,7 @@
             "open_issues": 57,
             "owner": "gee-community",
             "repo": "geemap",
-            "stars": 4072,
+            "stars": 4071,
             "topics": [
               "colab",
               "data-science",
@@ -3301,7 +3301,7 @@
             "open_issues": 64,
             "owner": "r-spatial",
             "repo": "rgee",
-            "stars": 778,
+            "stars": 777,
             "topics": [
               "earth-engine",
               "earthengine",
@@ -3330,7 +3330,7 @@
             "open_issues": 9,
             "owner": "davemlz",
             "repo": "eemont",
-            "stars": 456,
+            "stars": 455,
             "topics": [
               "earth-engine",
               "geographic-information-systems",
@@ -3782,7 +3782,7 @@
             "id": 891016739,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:24:36Z",
+            "last_commit": "2026-11-19T09:53:09Z",
             "open_issues": 1,
             "owner": "leonsnill",
             "repo": "geeo",
@@ -3834,7 +3834,7 @@
             "open_issues": 871,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9992,
+            "stars": 9990,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -3867,7 +3867,7 @@
             "open_issues": 220,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4244,
+            "stars": 4243,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3900,7 +3900,7 @@
             "open_issues": 11,
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4211,
+            "stars": 4209,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -3950,7 +3950,7 @@
             "open_issues": 45,
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2247,
+            "stars": 2246,
             "topics": [
               "classification",
               "computer-vision",
@@ -3981,7 +3981,7 @@
             "open_issues": 8,
             "owner": "sentinel-hub",
             "repo": "eo-learn",
-            "stars": 1259,
+            "stars": 1257,
             "topics": [
               "eo-data",
               "eo-research",
@@ -4007,7 +4007,7 @@
             "open_issues": 99,
             "owner": "ayoolaolafenwa",
             "repo": "PixelLib",
-            "stars": 1070,
+            "stars": 1069,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -4042,11 +4042,11 @@
             "id": 124290023,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T17:15:48Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-19T21:48:37Z",
+            "open_issues": 104,
             "owner": "weecology",
             "repo": "DeepForest",
-            "stars": 790,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -4129,7 +4129,7 @@
             "open_issues": 14,
             "owner": "ternaus",
             "repo": "TernausNetV2",
-            "stars": 545,
+            "stars": 544,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -4157,7 +4157,7 @@
             "open_issues": 39,
             "owner": "developmentseed",
             "repo": "label-maker",
-            "stars": 472,
+            "stars": 471,
             "topics": [
               "computer-vision",
               "data-preparation",
@@ -4185,7 +4185,7 @@
             "open_issues": 38,
             "owner": "walktree",
             "repo": "libtorch-yolov3",
-            "stars": 453,
+            "stars": 452,
             "topics": [
               "cpp",
               "libtorch",
@@ -4211,7 +4211,7 @@
             "open_issues": 94,
             "owner": "CosmiQ",
             "repo": "solaris",
-            "stars": 443,
+            "stars": 442,
             "topics": [
               "computervision",
               "deeplearning",
@@ -4240,7 +4240,7 @@
             "open_issues": 6,
             "owner": "sshuair",
             "repo": "torchsat",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "classification",
               "data-augmentation",
@@ -4271,7 +4271,7 @@
             "open_issues": 22,
             "owner": "TorchSpatiotemporal",
             "repo": "tsl",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "deep-learning",
               "gnn",
@@ -4763,7 +4763,7 @@
             "id": 1357664663,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-17T19:46:43Z",
+            "last_commit": "2026-11-19T17:41:11Z",
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Agent",
@@ -4835,8 +4835,8 @@
             "id": 1439296752,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T17:10:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T07:18:36Z",
+            "open_issues": 0,
             "owner": "ngo-binh0108",
             "repo": "geochips",
             "stars": 0,
@@ -4875,7 +4875,7 @@
             "id": 1267515952,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T08:21:50Z",
+            "last_commit": "2026-11-19T13:53:33Z",
             "open_issues": 22,
             "owner": "AndrewCTF",
             "repo": "velocity",
@@ -4996,8 +4996,8 @@
             "id": 1201835882,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-19T01:05:23Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-20T00:45:21Z",
+            "open_issues": 71,
             "owner": "philliphoff",
             "repo": "EncDotNet.S100",
             "stars": 20,
@@ -5029,11 +5029,11 @@
             "id": 1291410,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-18T16:28:45Z",
+            "last_commit": "2026-11-19T16:28:57Z",
             "open_issues": 78,
             "owner": "libvips",
             "repo": "libvips",
-            "stars": 11821,
+            "stars": 11827,
             "topics": [
               "c",
               "cpp",
@@ -5070,11 +5070,11 @@
             "id": 114948816,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T22:27:26Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-20T00:28:39Z",
+            "open_issues": 152,
             "owner": "uber",
             "repo": "h3",
-            "stars": 6748,
+            "stars": 6751,
             "topics": [
               "geospatial",
               "h3",
@@ -5101,7 +5101,7 @@
             "open_issues": 301,
             "owner": "openvenues",
             "repo": "libpostal",
-            "stars": 4926,
+            "stars": 4925,
             "topics": [
               "address",
               "address-parser",
@@ -5219,11 +5219,11 @@
             "id": 5241312,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T23:20:21Z",
-            "open_issues": 824,
+            "last_commit": "2026-11-19T22:10:04Z",
+            "open_issues": 814,
             "owner": "halide",
             "repo": "Halide",
-            "stars": 6642,
+            "stars": 6641,
             "topics": [
               "compiler",
               "dsl",
@@ -5252,7 +5252,7 @@
             "open_issues": 126,
             "owner": "OpenDroneMap",
             "repo": "ODM",
-            "stars": 6606,
+            "stars": 6607,
             "topics": [
               "aerial-imagery",
               "drone",
@@ -5276,11 +5276,11 @@
             "id": 49978193,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T20:46:09Z",
-            "open_issues": 940,
+            "last_commit": "2026-11-19T17:59:26Z",
+            "open_issues": 941,
             "owner": "valhalla",
             "repo": "valhalla",
-            "stars": 6469,
+            "stars": 6471,
             "topics": [
               "astar",
               "dijkstra",
@@ -5312,7 +5312,7 @@
             "open_issues": 217,
             "owner": "mapbox",
             "repo": "tippecanoe",
-            "stars": 3147,
+            "stars": 3146,
             "topics": [
               "c-plus-plus",
               "geojson",
@@ -5334,10 +5334,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T00:06:20Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "google",
             "repo": "s2geometry",
-            "stars": 2753,
+            "stars": 2752,
             "topics": [
               "geometry",
               "s2",
@@ -5363,7 +5363,7 @@
             "open_issues": 47,
             "owner": "VROOM-Project",
             "repo": "vroom",
-            "stars": 1923,
+            "stars": 1922,
             "topics": [
               "cvrp",
               "delivery",
@@ -5426,10 +5426,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-16T17:13:59Z",
-            "open_issues": 61,
+            "open_issues": 63,
             "owner": "networkit",
             "repo": "networkit",
-            "stars": 886,
+            "stars": 885,
             "topics": [
               "complex-networks",
               "cpp",
@@ -5522,7 +5522,7 @@
             "open_issues": 13,
             "owner": "fogleman",
             "repo": "hmm",
-            "stars": 626,
+            "stars": 625,
             "topics": [
               "3d",
               "computational-geometry",
@@ -5600,7 +5600,7 @@
             "open_issues": 3,
             "owner": "connormanning",
             "repo": "entwine",
-            "stars": 535,
+            "stars": 534,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -5744,7 +5744,7 @@
             "open_issues": 1,
             "owner": "kmhofmann",
             "repo": "selene",
-            "stars": 314,
+            "stars": 313,
             "topics": [
               "cplusplus",
               "cpp",
@@ -5913,7 +5913,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-09T22:08:02Z",
-            "open_issues": 37,
+            "open_issues": 35,
             "owner": "appelmar",
             "repo": "gdalcubes",
             "stars": 133,
@@ -6161,7 +6161,7 @@
             "open_issues": 57,
             "owner": "NetTopologySuite",
             "repo": "NetTopologySuite",
-            "stars": 1731,
+            "stars": 1729,
             "topics": [
               "c-sharp",
               "jts",
@@ -6283,7 +6283,7 @@
             "id": 78475145,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T17:05:00Z",
+            "last_commit": "2026-11-19T20:25:08Z",
             "open_issues": 19,
             "owner": "dem-net",
             "repo": "DEM.Net",
@@ -6464,8 +6464,8 @@
             "id": 1201835882,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-19T01:05:23Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-20T00:45:21Z",
+            "open_issues": 71,
             "owner": "philliphoff",
             "repo": "EncDotNet.S100",
             "stars": 20,
@@ -6619,7 +6619,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "carto",
-            "stars": 659,
+            "stars": 658,
             "topics": [
               "cartocss",
               "javascript",
@@ -6972,7 +6972,7 @@
             "open_issues": 30,
             "owner": "tidwall",
             "repo": "buntdb",
-            "stars": 4873,
+            "stars": 4872,
             "topics": [
               "database",
               "geospatial",
@@ -7025,7 +7025,7 @@
             "open_issues": 191,
             "owner": "go-spatial",
             "repo": "tegola",
-            "stars": 1508,
+            "stars": 1507,
             "topics": [
               "gis",
               "golang",
@@ -7083,7 +7083,7 @@
             "open_issues": 19,
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1144,
+            "stars": 1143,
             "topics": [
               "2d",
               "geo",
@@ -7134,7 +7134,7 @@
             "open_issues": 7,
             "owner": "twpayne",
             "repo": "go-geom",
-            "stars": 988,
+            "stars": 987,
             "topics": [
               "2d",
               "3d",
@@ -7214,7 +7214,7 @@
             "open_issues": 32,
             "owner": "lukeroth",
             "repo": "gdal",
-            "stars": 320,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -7531,7 +7531,7 @@
             "open_issues": 41,
             "owner": "komoot",
             "repo": "photon",
-            "stars": 3201,
+            "stars": 3200,
             "topics": [
               "elasticsearch",
               "geocoder",
@@ -7557,11 +7557,11 @@
             "id": 50370190,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T23:33:57Z",
-            "open_issues": 234,
+            "last_commit": "2026-11-19T23:54:57Z",
+            "open_issues": 231,
             "owner": "locationtech",
             "repo": "jts",
-            "stars": 2247,
+            "stars": 2246,
             "topics": [
               "computational-geometry",
               "geometric-algorithms",
@@ -7597,7 +7597,7 @@
             "open_issues": 76,
             "owner": "locationtech",
             "repo": "spatial4j",
-            "stars": 964,
+            "stars": 963,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -7618,7 +7618,7 @@
             "open_issues": 155,
             "owner": "NASAWorldWind",
             "repo": "WorldWindJava",
-            "stars": 793,
+            "stars": 792,
             "topics": [
               "3d",
               "earth",
@@ -7649,7 +7649,7 @@
             "id": 107167013,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:59:26Z",
+            "last_commit": "2026-11-19T14:48:09Z",
             "open_issues": 31,
             "owner": "locationtech",
             "repo": "proj4j",
@@ -7823,11 +7823,11 @@
             "id": 3606738,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T23:46:46Z",
-            "open_issues": 1673,
+            "last_commit": "2026-11-19T21:49:24Z",
+            "open_issues": 1677,
             "owner": "CesiumGS",
             "repo": "cesium",
-            "stars": 15967,
+            "stars": 15969,
             "topics": [
               "3d",
               "3d-globe",
@@ -7854,11 +7854,11 @@
             "id": 48030204,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:47:59Z",
-            "open_issues": 632,
+            "last_commit": "2026-11-20T01:22:53Z",
+            "open_issues": 630,
             "owner": "visgl",
             "repo": "deck.gl",
-            "stars": 14774,
+            "stars": 14777,
             "topics": [
               "data-visualization",
               "geospatial-analysis",
@@ -7887,7 +7887,7 @@
             "open_issues": 109,
             "owner": "visgl",
             "repo": "react-map-gl",
-            "stars": 8515,
+            "stars": 8513,
             "topics": [
               "data-visualization",
               "map",
@@ -7916,7 +7916,7 @@
             "open_issues": 6,
             "owner": "mapbox",
             "repo": "pixelmatch",
-            "stars": 7027,
+            "stars": 7025,
             "topics": [
               "diff",
               "image-comparison",
@@ -7962,7 +7962,7 @@
             "open_issues": 174,
             "owner": "TryGhost",
             "repo": "node-sqlite3",
-            "stars": 6409,
+            "stars": 6408,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -7983,7 +7983,7 @@
             "open_issues": 48,
             "owner": "PaulLeCam",
             "repo": "react-leaflet",
-            "stars": 5609,
+            "stars": 5608,
             "topics": [
               "javascript",
               "leaflet",
@@ -8012,7 +8012,7 @@
             "open_issues": 4,
             "owner": "manuelbieh",
             "repo": "geolib",
-            "stars": 4282,
+            "stars": 4280,
             "topics": [
               "distance",
               "geography",
@@ -8042,7 +8042,7 @@
             "open_issues": 13,
             "owner": "mourner",
             "repo": "rbush",
-            "stars": 2790,
+            "stars": 2789,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -8069,7 +8069,7 @@
             "open_issues": 20,
             "owner": "leaflet-extras",
             "repo": "leaflet-providers",
-            "stars": 2394,
+            "stars": 2392,
             "topics": [
               "leaflet"
             ]
@@ -8092,7 +8092,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2389,
+            "stars": 2388,
             "topics": [
               "algorithm",
               "clustering",
@@ -8119,7 +8119,7 @@
             "open_issues": 96,
             "owner": "proj4js",
             "repo": "proj4js",
-            "stars": 2246,
+            "stars": 2245,
             "topics": [
               "datum-transformations",
               "epsg",
@@ -8172,7 +8172,7 @@
             "open_issues": 5,
             "owner": "mourner",
             "repo": "flatbush",
-            "stars": 1614,
+            "stars": 1613,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -8200,7 +8200,7 @@
             "open_issues": 11,
             "owner": "bjornharrtell",
             "repo": "jsts",
-            "stars": 1566,
+            "stars": 1565,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -8217,11 +8217,11 @@
             "id": 17163720,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T23:10:40Z",
+            "last_commit": "2026-11-19T19:12:15Z",
             "open_issues": 878,
             "owner": "TerriaJS",
             "repo": "terriajs",
-            "stars": 1384,
+            "stars": 1383,
             "topics": [
               "3d-globe",
               "catalog",
@@ -8257,7 +8257,7 @@
             "open_issues": 22,
             "owner": "felixpalmer",
             "repo": "procedural-gl-js",
-            "stars": 1348,
+            "stars": 1347,
             "topics": [
               "3d-maps",
               "javascript",
@@ -8284,7 +8284,7 @@
             "open_issues": 257,
             "owner": "tyrasd",
             "repo": "overpass-turbo",
-            "stars": 1271,
+            "stars": 1270,
             "topics": [
               "openstreetmap",
               "openstreetmap-data",
@@ -8311,7 +8311,7 @@
             "open_issues": 18,
             "owner": "chrisveness",
             "repo": "geodesy",
-            "stars": 1227,
+            "stars": 1225,
             "topics": [
               "bearing",
               "datum",
@@ -8386,7 +8386,7 @@
             "open_issues": 0,
             "owner": "HarryStevens",
             "repo": "geometric",
-            "stars": 1106,
+            "stars": 1105,
             "topics": [
               "geometry"
             ]
@@ -8405,11 +8405,11 @@
             "id": 29943859,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-16T11:51:46Z",
-            "open_issues": 249,
+            "last_commit": "2026-11-19T10:21:51Z",
+            "open_issues": 247,
             "owner": "mapbox",
             "repo": "mapbox-gl-draw",
-            "stars": 1094,
+            "stars": 1093,
             "topics": [
               "drawing",
               "javascript",
@@ -8432,7 +8432,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-13T09:55:55Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "geotiffjs",
             "repo": "geotiff.js",
             "stars": 1059,
@@ -8481,7 +8481,7 @@
             "open_issues": 272,
             "owner": "NASAWorldWind",
             "repo": "WebWorldWind",
-            "stars": 1009,
+            "stars": 1008,
             "topics": [
               "3d",
               "browser",
@@ -8516,7 +8516,7 @@
             "open_issues": 41,
             "owner": "tentone",
             "repo": "geo-three",
-            "stars": 964,
+            "stars": 963,
             "topics": [
               "3d-tiles",
               "geolocation",
@@ -8566,7 +8566,7 @@
             "open_issues": 15,
             "owner": "alexbol99",
             "repo": "flatten-js",
-            "stars": 656,
+            "stars": 655,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -8587,7 +8587,7 @@
             "open_issues": 22,
             "owner": "socib",
             "repo": "Leaflet.TimeDimension",
-            "stars": 456,
+            "stars": 453,
             "topics": [
               "javascript",
               "jerico-ri",
@@ -8731,7 +8731,7 @@
             "open_issues": 3,
             "owner": "springmeyer",
             "repo": "arc.js",
-            "stars": 387,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -8752,7 +8752,7 @@
             "open_issues": 28,
             "owner": "ngageoint",
             "repo": "geopackage-js",
-            "stars": 338,
+            "stars": 337,
             "topics": [
               "demo",
               "geopackage",
@@ -8787,7 +8787,7 @@
             "open_issues": 9,
             "owner": "riatelab",
             "repo": "bertin",
-            "stars": 319,
+            "stars": 318,
             "topics": [
               "cartography",
               "d3js",
@@ -9155,7 +9155,7 @@
             "id": 307425374,
             "language": "JavaScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-18T11:12:04Z",
+            "last_commit": "2026-11-19T21:47:34Z",
             "open_issues": 4,
             "owner": "eurostat",
             "repo": "eurostat-map",
@@ -9385,7 +9385,7 @@
             "open_issues": 1,
             "owner": "a-r-d",
             "repo": "PureJsImage",
-            "stars": 45,
+            "stars": 43,
             "topics": [
               "avif-decoder",
               "aws-lambda",
@@ -9820,7 +9820,7 @@
             "open_issues": 156,
             "owner": "JuliaData",
             "repo": "DataFrames.jl",
-            "stars": 1845,
+            "stars": 1844,
             "topics": [
               "data",
               "data-frame",
@@ -9979,7 +9979,7 @@
             "id": 17719833,
             "language": "Julia",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T00:00:44Z",
+            "last_commit": "2026-11-20T00:28:31Z",
             "open_issues": 28,
             "owner": "GenericMappingTools",
             "repo": "GMT.jl",
@@ -10091,7 +10091,7 @@
             "open_issues": 33,
             "owner": "JuliaGeo",
             "repo": "GeoInterface.jl",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "geo",
               "geospatial",
@@ -10669,7 +10669,7 @@
             "id": 417006348,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-18T16:00:07Z",
+            "last_commit": "2026-11-19T16:56:40Z",
             "open_issues": 7,
             "owner": "JuliaClimate",
             "repo": "STAC.jl",
@@ -10720,7 +10720,7 @@
             "id": 310303023,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-08T11:06:17Z",
+            "last_commit": "2026-11-20T01:09:21Z",
             "open_issues": 21,
             "owner": "EcoJulia",
             "repo": "RasterDataSources.jl",
@@ -11391,11 +11391,11 @@
             "id": 72523920,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T19:56:23Z",
-            "open_issues": 708,
+            "last_commit": "2026-11-19T20:56:02Z",
+            "open_issues": 712,
             "owner": "cupy",
             "repo": "cupy",
-            "stars": 12414,
+            "stars": 12413,
             "topics": [
               "cublas",
               "cuda",
@@ -11435,7 +11435,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx",
-            "stars": 5907,
+            "stars": 5906,
             "topics": [
               "geography",
               "geospatial",
@@ -11473,11 +11473,11 @@
             "id": 11002815,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-14T16:15:46Z",
-            "open_issues": 437,
+            "last_commit": "2026-11-19T20:04:07Z",
+            "open_issues": 433,
             "owner": "geopandas",
             "repo": "geopandas",
-            "stars": 5305,
+            "stars": 5304,
             "topics": [
               "geoparquet",
               "geospatial",
@@ -11529,7 +11529,7 @@
             "open_issues": 57,
             "owner": "gee-community",
             "repo": "geemap",
-            "stars": 4072,
+            "stars": 4071,
             "topics": [
               "colab",
               "data-science",
@@ -11599,7 +11599,7 @@
             "open_issues": 4,
             "owner": "opengeos",
             "repo": "leafmap",
-            "stars": 3802,
+            "stars": 3801,
             "topics": [
               "data-science",
               "dataviz",
@@ -11637,10 +11637,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T18:18:52Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3480,
+            "stars": 3479,
             "topics": [
               "ai",
               "data-science",
@@ -11671,10 +11671,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T21:06:07Z",
-            "open_issues": 157,
+            "open_issues": 158,
             "owner": "rasterio",
             "repo": "rasterio",
-            "stars": 2595,
+            "stars": 2593,
             "topics": [
               "cli",
               "cython",
@@ -11699,11 +11699,11 @@
             "id": 918287261,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T18:59:22Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-20T01:02:59Z",
+            "open_issues": 26,
             "owner": "c2g-dev",
             "repo": "city2graph",
-            "stars": 2018,
+            "stars": 2029,
             "topics": [
               "city2graph",
               "geoai",
@@ -11745,7 +11745,7 @@
             "open_issues": 122,
             "owner": "DenisCarriere",
             "repo": "geocoder",
-            "stars": 1656,
+            "stars": 1655,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -11794,7 +11794,7 @@
             "open_issues": 59,
             "owner": "pyproj4",
             "repo": "pyproj",
-            "stars": 1241,
+            "stars": 1239,
             "topics": [
               "cartographic-projection",
               "coordinate-systems",
@@ -11850,7 +11850,7 @@
             "open_issues": 16,
             "owner": "kvos",
             "repo": "CoastSat",
-            "stars": 914,
+            "stars": 913,
             "topics": [
               "coastal-engineering",
               "earth-engine",
@@ -11886,7 +11886,7 @@
             "open_issues": 19,
             "owner": "luispedro",
             "repo": "mahotas",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -11911,10 +11911,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-16T17:13:59Z",
-            "open_issues": 61,
+            "open_issues": 63,
             "owner": "networkit",
             "repo": "networkit",
-            "stars": 886,
+            "stars": 885,
             "topics": [
               "complex-networks",
               "cpp",
@@ -11941,11 +11941,11 @@
             "id": 85352251,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T14:27:59Z",
-            "open_issues": 187,
+            "last_commit": "2026-11-19T12:19:32Z",
+            "open_issues": 186,
             "owner": "GenericMappingTools",
             "repo": "pygmt",
-            "stars": 882,
+            "stars": 881,
             "topics": [
               "earth-science",
               "geophysics",
@@ -11974,7 +11974,7 @@
             "open_issues": 44,
             "owner": "openvenues",
             "repo": "pypostal",
-            "stars": 881,
+            "stars": 880,
             "topics": [
               "address",
               "address-parser",
@@ -12001,7 +12001,7 @@
             "open_issues": 46,
             "owner": "GeoStat-Framework",
             "repo": "PyKrige",
-            "stars": 869,
+            "stars": 868,
             "topics": [
               "gaussian-processes",
               "geostatistics",
@@ -12050,7 +12050,7 @@
             "open_issues": 70,
             "owner": "scikit-mobility",
             "repo": "scikit-mobility",
-            "stars": 812,
+            "stars": 811,
             "topics": [
               "complex-systems",
               "data-analysis",
@@ -12083,7 +12083,7 @@
             "open_issues": 48,
             "owner": "Jorl17",
             "repo": "open-elevation",
-            "stars": 806,
+            "stars": 805,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -12104,7 +12104,7 @@
             "open_issues": 119,
             "owner": "rapidsai",
             "repo": "cuspatial",
-            "stars": 703,
+            "stars": 704,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -12132,36 +12132,6 @@
         },
         {
           "node_type": "item",
-          "title": "Spectral Python",
-          "description": "Python module for hyperspectral image processing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Python module for hyperspectral image processing",
-            "homepage": null,
-            "id": 16567502,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-15T19:36:56Z",
-            "open_issues": 20,
-            "owner": "spectralpython",
-            "repo": "spectral",
-            "stars": 690,
-            "topics": [
-              "anomaly-detection",
-              "hyperspectral",
-              "hyperspectral-image-classification",
-              "image-processing",
-              "python",
-              "remote-sensing",
-              "target-detection",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-29T02:23:38.628Z"
-        },
-        {
-          "node_type": "item",
           "title": "GeoSQL",
           "description": "Claude/Codex skill (Python package) for cost-safe geospatial SQL on BigQuery and Snowflake. Validates results, prunes partitions, renders interactive maps.",
           "children": [],
@@ -12176,8 +12146,38 @@
             "open_issues": 1,
             "owner": "dekart-xyz",
             "repo": "geosql",
-            "stars": 688,
+            "stars": 689,
             "topics": []
+          },
+          "first_seen": "2026-08-29T02:23:38.628Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Spectral Python",
+          "description": "Python module for hyperspectral image processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python module for hyperspectral image processing",
+            "homepage": null,
+            "id": 16567502,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-15T19:36:56Z",
+            "open_issues": 20,
+            "owner": "spectralpython",
+            "repo": "spectral",
+            "stars": 689,
+            "topics": [
+              "anomaly-detection",
+              "hyperspectral",
+              "hyperspectral-image-classification",
+              "image-processing",
+              "python",
+              "remote-sensing",
+              "target-detection",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
         },
@@ -12197,7 +12197,7 @@
             "open_issues": 43,
             "owner": "mapbox",
             "repo": "mapboxgl-jupyter",
-            "stars": 681,
+            "stars": 680,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -12218,7 +12218,7 @@
             "open_issues": 42,
             "owner": "fatiando",
             "repo": "verde",
-            "stars": 677,
+            "stars": 676,
             "topics": [
               "earth-science",
               "fatiando-a-terra",
@@ -12251,7 +12251,7 @@
             "open_issues": 39,
             "owner": "GeoStat-Framework",
             "repo": "GSTools",
-            "stars": 664,
+            "stars": 662,
             "topics": [
               "covariance-model",
               "geospatial",
@@ -12280,11 +12280,11 @@
             "id": 181693881,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T01:30:34Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-19T17:25:21Z",
+            "open_issues": 80,
             "owner": "vylor",
             "repo": "rioxarray",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "gdal",
               "geospatial",
@@ -12315,7 +12315,7 @@
             "open_issues": 47,
             "owner": "johntruckenbrodt",
             "repo": "pyroSAR",
-            "stars": 617,
+            "stars": 616,
             "topics": [
               "earth-observation",
               "gdal",
@@ -12327,39 +12327,6 @@
               "satellite-data",
               "snap",
               "spatialite"
-            ]
-          },
-          "first_seen": "2026-08-29T02:23:38.628Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rio-tiler",
-          "description": "Get mercator tile from landsat, sentinel or other AWS hosted raster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "User friendly Rasterio plugin to read raster datasets.",
-            "homepage": "https://cogeotiff.github.io/rio-tiler/",
-            "id": 106053062,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T16:41:16Z",
-            "open_issues": 27,
-            "owner": "cogeotiff",
-            "repo": "rio-tiler",
-            "stars": 594,
-            "topics": [
-              "cog",
-              "cogeotiff",
-              "gdal",
-              "maptile",
-              "mercator",
-              "raster",
-              "raster-processing",
-              "rasterio",
-              "satellite",
-              "slippy-map",
-              "tile"
             ]
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -12387,6 +12354,39 @@
         },
         {
           "node_type": "item",
+          "title": "rio-tiler",
+          "description": "Get mercator tile from landsat, sentinel or other AWS hosted raster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "User friendly Rasterio plugin to read raster datasets.",
+            "homepage": "https://cogeotiff.github.io/rio-tiler/",
+            "id": 106053062,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-19T13:42:07Z",
+            "open_issues": 28,
+            "owner": "cogeotiff",
+            "repo": "rio-tiler",
+            "stars": 593,
+            "topics": [
+              "cog",
+              "cogeotiff",
+              "gdal",
+              "maptile",
+              "mercator",
+              "raster",
+              "raster-processing",
+              "rasterio",
+              "satellite",
+              "slippy-map",
+              "tile"
+            ]
+          },
+          "first_seen": "2026-08-29T02:23:38.628Z"
+        },
+        {
+          "node_type": "item",
           "title": "GeostatsPy",
           "description": "GSLIB reimplimented in Python",
           "children": [],
@@ -12401,7 +12401,7 @@
             "open_issues": 23,
             "owner": "GeostatsGuy",
             "repo": "GeostatsPy",
-            "stars": 589,
+            "stars": 588,
             "topics": [
               "dataanalytics",
               "geostatistics",
@@ -12428,7 +12428,7 @@
             "open_issues": 41,
             "owner": "perrygeo",
             "repo": "python-rasterstats",
-            "stars": 565,
+            "stars": 564,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -12470,7 +12470,7 @@
             "open_issues": 45,
             "owner": "earthlab",
             "repo": "earthpy",
-            "stars": 539,
+            "stars": 538,
             "topics": [
               "education",
               "python",
@@ -12493,11 +12493,11 @@
             "id": 109979598,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T21:23:24Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-19T18:46:06Z",
+            "open_issues": 69,
             "owner": "stac-utils",
             "repo": "pystac",
-            "stars": 470,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -12518,7 +12518,7 @@
             "open_issues": 17,
             "owner": "GIScience",
             "repo": "openrouteservice-py",
-            "stars": 459,
+            "stars": 458,
             "topics": [
               "api",
               "directions-api",
@@ -12546,7 +12546,7 @@
             "open_issues": 8,
             "owner": "geospace-code",
             "repo": "pymap3d",
-            "stars": 452,
+            "stars": 451,
             "topics": [
               "coordinate-conversion",
               "coordinate-transformation",
@@ -12571,7 +12571,7 @@
             "open_issues": 4,
             "owner": "pyrosm",
             "repo": "pyrosm",
-            "stars": 446,
+            "stars": 444,
             "topics": [
               "geopandas",
               "openstreetmap",
@@ -12596,7 +12596,7 @@
             "open_issues": 21,
             "owner": "opengeos",
             "repo": "geospatial",
-            "stars": 441,
+            "stars": 440,
             "topics": [
               "geemap",
               "geopandas",
@@ -12625,7 +12625,7 @@
             "id": 13553879,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T01:04:08Z",
+            "last_commit": "2026-11-19T19:53:13Z",
             "open_issues": 32,
             "owner": "UDST",
             "repo": "pandana",
@@ -12650,7 +12650,7 @@
             "open_issues": 1,
             "owner": "opengeos",
             "repo": "whitebox-python",
-            "stars": 430,
+            "stars": 429,
             "topics": [
               "geomorphology",
               "geomorphometry",
@@ -12706,7 +12706,7 @@
             "open_issues": 13,
             "owner": "cogeotiff",
             "repo": "rio-cogeo",
-            "stars": 399,
+            "stars": 398,
             "topics": [
               "cog",
               "cogeotiff",
@@ -12714,27 +12714,6 @@
               "rasterio",
               "satellite"
             ]
-          },
-          "first_seen": "2026-08-29T02:23:38.628Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pyKriging",
-          "description": "N-dimensional kriging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Welcome to the User Friendly Python Kriging Toolbox!",
-            "homepage": "http://www.pykriging.com",
-            "id": 29468994,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-25T16:47:38Z",
-            "open_issues": 20,
-            "owner": "capaulson",
-            "repo": "pyKriging",
-            "stars": 394,
-            "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
         },
@@ -12754,7 +12733,7 @@
             "open_issues": 105,
             "owner": "kraina-ai",
             "repo": "srai",
-            "stars": 394,
+            "stars": 393,
             "topics": [
               "artificial-intelligence",
               "data-science",
@@ -12792,6 +12771,27 @@
         },
         {
           "node_type": "item",
+          "title": "pyKriging",
+          "description": "N-dimensional kriging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Welcome to the User Friendly Python Kriging Toolbox!",
+            "homepage": "http://www.pykriging.com",
+            "id": 29468994,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-25T16:47:38Z",
+            "open_issues": 20,
+            "owner": "capaulson",
+            "repo": "pyKriging",
+            "stars": 389,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:23:38.628Z"
+        },
+        {
+          "node_type": "item",
           "title": "geocube",
           "description": "Tool to convert geopandas vector data into rasterized xarray data.",
           "children": [],
@@ -12806,7 +12806,7 @@
             "open_issues": 7,
             "owner": "vylor",
             "repo": "geocube",
-            "stars": 383,
+            "stars": 382,
             "topics": [
               "fiona",
               "gdal",
@@ -12837,11 +12837,11 @@
             "id": 736611501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T19:12:40Z",
+            "last_commit": "2026-11-19T15:43:17Z",
             "open_issues": 24,
             "owner": "kraina-ai",
             "repo": "quackosm",
-            "stars": 383,
+            "stars": 382,
             "topics": [
               "duckdb",
               "geo",
@@ -12894,7 +12894,7 @@
             "open_issues": 20,
             "owner": "raphaelquast",
             "repo": "EOmaps",
-            "stars": 364,
+            "stars": 363,
             "topics": [
               "cartopy",
               "earth-observation",
@@ -12959,7 +12959,7 @@
             "open_issues": 66,
             "owner": "sertit",
             "repo": "eoreader",
-            "stars": 356,
+            "stars": 355,
             "topics": [
               "cosmo-skymed",
               "earth-observation",
@@ -12987,41 +12987,6 @@
         },
         {
           "node_type": "item",
-          "title": "routing-py",
-          "description": "Python library to access all public routing, isochrones and matrix APIs in a consistent manner.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner.",
-            "homepage": "https://routingpy.readthedocs.io/en/latest/?badge=latest",
-            "id": 181201790,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-01T21:44:57Z",
-            "open_issues": 13,
-            "owner": "routingpy",
-            "repo": "routingpy",
-            "stars": 353,
-            "topics": [
-              "api",
-              "distance-matrix",
-              "graphhopper",
-              "isochrones",
-              "mapbox",
-              "navigation",
-              "openrouteservice",
-              "osrm",
-              "osrm-backend",
-              "python3",
-              "routing",
-              "spatial-analysis",
-              "valhalla"
-            ]
-          },
-          "first_seen": "2026-08-29T02:23:38.628Z"
-        },
-        {
-          "node_type": "item",
           "title": "localtileserver",
           "description": "A Python package for serving tiles from large raster files in the Slippy Maps standard (i.e., ) for visualization in Jupyter with or .",
           "children": [],
@@ -13036,7 +13001,7 @@
             "open_issues": 4,
             "owner": "banesullivan",
             "repo": "localtileserver",
-            "stars": 352,
+            "stars": 351,
             "topics": [
               "dynamic-tiling",
               "folium",
@@ -13051,6 +13016,41 @@
               "raster",
               "satellite-imagery",
               "visualization"
+            ]
+          },
+          "first_seen": "2026-08-29T02:23:38.628Z"
+        },
+        {
+          "node_type": "item",
+          "title": "routing-py",
+          "description": "Python library to access all public routing, isochrones and matrix APIs in a consistent manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner.",
+            "homepage": "https://routingpy.readthedocs.io/en/latest/?badge=latest",
+            "id": 181201790,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-01T21:44:57Z",
+            "open_issues": 13,
+            "owner": "routingpy",
+            "repo": "routingpy",
+            "stars": 351,
+            "topics": [
+              "api",
+              "distance-matrix",
+              "graphhopper",
+              "isochrones",
+              "mapbox",
+              "navigation",
+              "openrouteservice",
+              "osrm",
+              "osrm-backend",
+              "python3",
+              "routing",
+              "spatial-analysis",
+              "valhalla"
             ]
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -13116,43 +13116,12 @@
             "id": 166260757,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-03-12T15:46:42Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-19T16:23:20Z",
+            "open_issues": 48,
             "owner": "ecmwf",
             "repo": "cdsapi",
-            "stars": 323,
+            "stars": 322,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:23:38.628Z"
-        },
-        {
-          "node_type": "item",
-          "title": "WhiteboxTools-ArcGIS",
-          "description": "ArcGIS Python Toolbox for WhiteboxTools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ArcGIS Python Toolbox for WhiteboxTools",
-            "homepage": "https://www.whiteboxgeo.com/manual/wbt_book/intro.html",
-            "id": 169582583,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-08-12T19:12:04Z",
-            "open_issues": 3,
-            "owner": "opengeos",
-            "repo": "WhiteboxTools-ArcGIS",
-            "stars": 318,
-            "topics": [
-              "arcgis",
-              "geomorphometry",
-              "geoprocessing",
-              "geospatial",
-              "gis",
-              "hydrology",
-              "lidar",
-              "python",
-              "remote-sensing"
-            ]
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
         },
@@ -13179,6 +13148,37 @@
         },
         {
           "node_type": "item",
+          "title": "WhiteboxTools-ArcGIS",
+          "description": "ArcGIS Python Toolbox for WhiteboxTools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ArcGIS Python Toolbox for WhiteboxTools",
+            "homepage": "https://www.whiteboxgeo.com/manual/wbt_book/intro.html",
+            "id": 169582583,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-08-12T19:12:04Z",
+            "open_issues": 3,
+            "owner": "opengeos",
+            "repo": "WhiteboxTools-ArcGIS",
+            "stars": 317,
+            "topics": [
+              "arcgis",
+              "geomorphometry",
+              "geoprocessing",
+              "geospatial",
+              "gis",
+              "hydrology",
+              "lidar",
+              "python",
+              "remote-sensing"
+            ]
+          },
+          "first_seen": "2026-08-29T02:23:38.628Z"
+        },
+        {
+          "node_type": "item",
           "title": "lidar",
           "description": "Terrain and hydrological analysis using digital elevation models (DEMs).",
           "children": [],
@@ -13193,7 +13193,7 @@
             "open_issues": 9,
             "owner": "opengeos",
             "repo": "lidar",
-            "stars": 315,
+            "stars": 314,
             "topics": [
               "digital-elevation-model",
               "gis",
@@ -13244,7 +13244,7 @@
             "open_issues": 24,
             "owner": "cgre-aachen",
             "repo": "gemgis",
-            "stars": 302,
+            "stars": 301,
             "topics": [
               "geographic",
               "geographic-data",
@@ -13280,7 +13280,7 @@
             "open_issues": 2,
             "owner": "opengeos",
             "repo": "HyperCoast",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "aviris",
               "coastal",
@@ -13343,7 +13343,7 @@
             "open_issues": 19,
             "owner": "oturns",
             "repo": "geosnap",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "geodemographics",
               "neighborhood-dynamics",
@@ -13373,7 +13373,7 @@
             "open_issues": 26,
             "owner": "nasa-jpl",
             "repo": "autoRIFT",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -13692,7 +13692,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T11:12:37Z",
-            "open_issues": 171,
+            "open_issues": 170,
             "owner": "xcube-dev",
             "repo": "xcube",
             "stars": 230,
@@ -13776,7 +13776,7 @@
             "id": 39515694,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T14:50:51Z",
+            "last_commit": "2026-11-19T17:12:52Z",
             "open_issues": 48,
             "owner": "mapchete",
             "repo": "mapchete",
@@ -13900,8 +13900,8 @@
             "id": 202220824,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T00:15:39Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-19T04:52:10Z",
+            "open_issues": 23,
             "owner": "pysal",
             "repo": "tobler",
             "stars": 172,
@@ -14904,8 +14904,8 @@
             "id": 83722557,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T11:55:11Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T23:46:29Z",
+            "open_issues": 0,
             "owner": "UDST",
             "repo": "osmnet",
             "stars": 66,
@@ -15223,7 +15223,7 @@
             "id": 935482223,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T15:54:12Z",
+            "last_commit": "2026-11-19T22:59:39Z",
             "open_issues": 4,
             "owner": "unicef",
             "repo": "giga-spatial",
@@ -15610,7 +15610,7 @@
             "open_issues": 2,
             "owner": "delight-im",
             "repo": "FreeGeoDB",
-            "stars": 1575,
+            "stars": 1574,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -15631,7 +15631,7 @@
             "open_issues": 10,
             "owner": "jmikola",
             "repo": "geojson",
-            "stars": 307,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -15696,7 +15696,7 @@
             "id": 61102481,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-19T01:21:25Z",
+            "last_commit": "2026-11-19T01:29:12Z",
             "open_issues": 4,
             "owner": "phpmyadmin",
             "repo": "shapefile",
@@ -15801,7 +15801,7 @@
             "open_issues": 51,
             "owner": "tylermorganwall",
             "repo": "rayshader",
-            "stars": 2190,
+            "stars": 2189,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -15818,8 +15818,8 @@
             "id": 45709704,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T13:32:04Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-19T22:13:34Z",
+            "open_issues": 67,
             "owner": "r-spatial",
             "repo": "sf",
             "stars": 1458,
@@ -15851,7 +15851,7 @@
             "open_issues": 18,
             "owner": "ipea",
             "repo": "geobr",
-            "stars": 975,
+            "stars": 973,
             "topics": [
               "brazil",
               "datasets",
@@ -15906,7 +15906,7 @@
             "open_issues": 64,
             "owner": "r-spatial",
             "repo": "rgee",
-            "stars": 778,
+            "stars": 777,
             "topics": [
               "earth-engine",
               "earthengine",
@@ -15935,7 +15935,7 @@
             "open_issues": 14,
             "owner": "r-lidar",
             "repo": "lidR",
-            "stars": 715,
+            "stars": 716,
             "topics": [
               "als",
               "forestry",
@@ -15961,8 +15961,8 @@
             "id": 148741225,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T22:10:51Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-19T18:20:23Z",
+            "open_issues": 25,
             "owner": "rspatial",
             "repo": "terra",
             "stars": 623,
@@ -16016,7 +16016,7 @@
             "language": "R",
             "license": "GPL-2.0",
             "last_commit": "2026-11-18T21:06:30Z",
-            "open_issues": 19,
+            "open_issues": 23,
             "owner": "e-sensing",
             "repo": "sits",
             "stars": 550,
@@ -16097,7 +16097,7 @@
             "open_issues": 49,
             "owner": "Lchiffon",
             "repo": "wordcloud2",
-            "stars": 416,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -16226,7 +16226,7 @@
             "open_issues": 21,
             "owner": "ropensci",
             "repo": "osmdata",
-            "stars": 344,
+            "stars": 342,
             "topics": [
               "cpp",
               "openstreetmap",
@@ -16371,7 +16371,7 @@
             "open_issues": 13,
             "owner": "r-spatialecology",
             "repo": "landscapemetrics",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "landscape-ecology",
               "landscape-metrics",
@@ -16782,7 +16782,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-09T22:08:02Z",
-            "open_issues": 37,
+            "open_issues": 35,
             "owner": "appelmar",
             "repo": "gdalcubes",
             "stars": 133,
@@ -16928,7 +16928,7 @@
             "id": 54595470,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T15:45:10Z",
+            "last_commit": "2026-11-19T01:41:36Z",
             "open_issues": 29,
             "owner": "ncss-tech",
             "repo": "soilDB",
@@ -18718,7 +18718,7 @@
             "open_issues": 51,
             "owner": "rgeo",
             "repo": "rgeo",
-            "stars": 1062,
+            "stars": 1061,
             "topics": [
               "geolocation",
               "proj4-library",
@@ -18744,7 +18744,7 @@
             "open_issues": 16,
             "owner": "rgeo",
             "repo": "activerecord-postgis-adapter",
-            "stars": 936,
+            "stars": 934,
             "topics": [
               "activerecord",
               "postgis",
@@ -18936,10 +18936,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T00:48:05Z",
-            "open_issues": 70,
+            "open_issues": 72,
             "owner": "louis-e",
             "repo": "arnis",
-            "stars": 18715,
+            "stars": 18743,
             "topics": [
               "minecraft",
               "minecraft-world-generator",
@@ -18969,7 +18969,7 @@
             "open_issues": 235,
             "owner": "a-b-street",
             "repo": "abstreet",
-            "stars": 8197,
+            "stars": 8198,
             "topics": [
               "game",
               "openstreetmap",
@@ -18992,11 +18992,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T01:15:51Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-19T14:05:14Z",
+            "open_issues": 44,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 4085,
+            "stars": 4087,
             "topics": [
               "leaflet",
               "mapbox-gl",
@@ -19032,7 +19032,7 @@
             "open_issues": 136,
             "owner": "georust",
             "repo": "geo",
-            "stars": 1969,
+            "stars": 1968,
             "topics": [
               "geography",
               "geometry",
@@ -19086,7 +19086,7 @@
             "open_issues": 70,
             "owner": "maplibre",
             "repo": "maplibre-rs",
-            "stars": 1592,
+            "stars": 1591,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -19107,7 +19107,7 @@
             "open_issues": 175,
             "owner": "jblindsay",
             "repo": "whitebox-tools",
-            "stars": 1227,
+            "stars": 1226,
             "topics": [
               "geomorphology",
               "geomorphometry",
@@ -19133,10 +19133,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T17:54:38Z",
-            "open_issues": 40,
+            "open_issues": 43,
             "owner": "pola-rs",
             "repo": "geopolars",
-            "stars": 959,
+            "stars": 958,
             "topics": [
               "apache-arrow",
               "geospatial",
@@ -19185,7 +19185,7 @@
             "open_issues": 42,
             "owner": "galileo-map",
             "repo": "galileo",
-            "stars": 656,
+            "stars": 657,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -19206,7 +19206,7 @@
             "open_issues": 0,
             "owner": "BladeTransformerLLC",
             "repo": "gauzilla",
-            "stars": 652,
+            "stars": 651,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -19278,10 +19278,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T17:57:14Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "georust",
             "repo": "rstar",
-            "stars": 565,
+            "stars": 564,
             "topics": [
               "geometry",
               "rust",
@@ -19324,10 +19324,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T04:19:08Z",
-            "open_issues": 142,
+            "open_issues": 144,
             "owner": "apache",
             "repo": "sedona-db",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "c",
               "database",
@@ -19357,7 +19357,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-15T14:09:48Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "helsing-ai",
             "repo": "sguaba",
             "stars": 524,
@@ -19381,7 +19381,7 @@
             "open_issues": 68,
             "owner": "georust",
             "repo": "geozero",
-            "stars": 480,
+            "stars": 481,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -19402,7 +19402,7 @@
             "open_issues": 155,
             "owner": "stadiamaps",
             "repo": "ferrostar",
-            "stars": 461,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -19423,7 +19423,7 @@
             "open_issues": 70,
             "owner": "georust",
             "repo": "gdal",
-            "stars": 459,
+            "stars": 458,
             "topics": [
               "gdal",
               "geospatial",
@@ -19449,7 +19449,7 @@
             "open_issues": 85,
             "owner": "geoarrow",
             "repo": "geoarrow-rs",
-            "stars": 432,
+            "stars": 431,
             "topics": [
               "apache-arrow",
               "geoarrow",
@@ -19482,7 +19482,7 @@
             "open_issues": 17,
             "owner": "ellenhp",
             "repo": "airmail",
-            "stars": 387,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -19503,7 +19503,7 @@
             "open_issues": 23,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "geojson",
               "geospatial",
@@ -19528,7 +19528,7 @@
             "open_issues": 57,
             "owner": "aldanor",
             "repo": "hdf5-rust",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "hdf5",
               "rust"
@@ -19552,7 +19552,7 @@
             "open_issues": 23,
             "owner": "Stoeoef",
             "repo": "spade",
-            "stars": 342,
+            "stars": 341,
             "topics": [
               "data-structures",
               "delaunay",
@@ -19577,7 +19577,7 @@
             "open_issues": 48,
             "owner": "rgis-app",
             "repo": "rgis",
-            "stars": 340,
+            "stars": 339,
             "topics": [
               "bevy",
               "egui",
@@ -19619,34 +19619,6 @@
         },
         {
           "node_type": "item",
-          "title": "zarrs",
-          "description": "A rust library for the Zarr V3 storage format for multidimensional arrays and metadata.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Rust library for the Zarr storage format for multidimensional arrays and metadata",
-            "homepage": "https://zarrs.dev",
-            "id": 695021547,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-19T00:31:25Z",
-            "open_issues": 22,
-            "owner": "zarrs",
-            "repo": "zarrs",
-            "stars": 287,
-            "topics": [
-              "library",
-              "rust",
-              "zarr",
-              "zarr-v2",
-              "zarr-v3",
-              "zarrs"
-            ]
-          },
-          "first_seen": "2026-08-29T02:23:38.628Z"
-        },
-        {
-          "node_type": "item",
           "title": "kdtree",
           "description": "K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup",
           "children": [],
@@ -19661,7 +19633,7 @@
             "open_issues": 2,
             "owner": "mrhooray",
             "repo": "kdtree-rs",
-            "stars": 286,
+            "stars": 287,
             "topics": [
               "geo-spatial",
               "index",
@@ -19690,7 +19662,7 @@
             "open_issues": 2,
             "owner": "mrhooray",
             "repo": "kdtree-rs",
-            "stars": 286,
+            "stars": 287,
             "topics": [
               "geo-spatial",
               "index",
@@ -19699,6 +19671,34 @@
               "rust",
               "search",
               "tree"
+            ]
+          },
+          "first_seen": "2026-08-29T02:23:38.628Z"
+        },
+        {
+          "node_type": "item",
+          "title": "zarrs",
+          "description": "A rust library for the Zarr V3 storage format for multidimensional arrays and metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Rust library for the Zarr storage format for multidimensional arrays and metadata",
+            "homepage": "https://zarrs.dev",
+            "id": 695021547,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-19T22:16:36Z",
+            "open_issues": 20,
+            "owner": "zarrs",
+            "repo": "zarrs",
+            "stars": 287,
+            "topics": [
+              "library",
+              "rust",
+              "zarr",
+              "zarr-v2",
+              "zarr-v3",
+              "zarrs"
             ]
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -20085,7 +20085,7 @@
             "id": 352722524,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T12:28:08Z",
+            "last_commit": "2026-11-19T20:36:04Z",
             "open_issues": 34,
             "owner": "stac-utils",
             "repo": "rustac",
@@ -20186,8 +20186,8 @@
             "id": 439256131,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T22:24:07Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-19T22:30:09Z",
+            "open_issues": 30,
             "owner": "nav-solutions",
             "repo": "rinex",
             "stars": 132,
@@ -20851,7 +20851,7 @@
             "id": 242136607,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T18:21:24Z",
+            "last_commit": "2026-11-20T01:18:02Z",
             "open_issues": 49,
             "owner": "geo-engine",
             "repo": "geoengine",
@@ -21181,8 +21181,8 @@
             "id": 899598230,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-04T15:33:16Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-19T09:44:04Z",
+            "open_issues": 3,
             "owner": "OvertureMaps",
             "repo": "osm-pbf-parquet",
             "stars": 35,
@@ -21741,7 +21741,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T09:51:50Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "georust",
             "repo": "tilejson",
             "stars": 16,
@@ -22255,7 +22255,7 @@
             "id": 1164518052,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T18:33:50Z",
+            "last_commit": "2026-11-19T15:41:53Z",
             "open_issues": 0,
             "owner": "folknor",
             "repo": "pbfhogg",
@@ -22636,11 +22636,11 @@
             "id": 3040675,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T13:37:52Z",
+            "last_commit": "2026-11-19T14:48:40Z",
             "open_issues": 242,
             "owner": "locationtech",
             "repo": "geotrellis",
-            "stars": 1379,
+            "stars": 1378,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -22658,7 +22658,7 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T07:24:27Z",
-            "open_issues": 13,
+            "open_issues": 17,
             "owner": "plokhotnyuk",
             "repo": "rtree2d",
             "stars": 145,
@@ -22845,7 +22845,7 @@
             "id": 73870932,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T17:37:01Z",
+            "last_commit": "2026-11-19T17:33:48Z",
             "open_issues": 213,
             "owner": "mapbox",
             "repo": "mapbox-navigation-ios",
@@ -22943,11 +22943,11 @@
             "id": 324829379,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T23:47:17Z",
-            "open_issues": 3709,
+            "last_commit": "2026-11-20T00:21:41Z",
+            "open_issues": 3719,
             "owner": "organicmaps",
             "repo": "organicmaps",
-            "stars": 16031,
+            "stars": 16045,
             "topics": [
               "android",
               "app",
@@ -22989,7 +22989,7 @@
             "open_issues": 999,
             "owner": "mapsme",
             "repo": "omim",
-            "stars": 4604,
+            "stars": 4603,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -23010,7 +23010,7 @@
             "open_issues": 69,
             "owner": "fleaflet",
             "repo": "flutter_map",
-            "stars": 3029,
+            "stars": 3028,
             "topics": [
               "flutter",
               "flutter-map",
@@ -23032,11 +23032,11 @@
             "id": 314553426,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T17:49:47Z",
-            "open_issues": 646,
+            "last_commit": "2026-11-19T23:22:19Z",
+            "open_issues": 652,
             "owner": "maplibre",
             "repo": "maplibre-native",
-            "stars": 2324,
+            "stars": 2328,
             "topics": [
               "maplibre",
               "maps",
@@ -23057,7 +23057,7 @@
             "id": 87455763,
             "language": "Kotlin",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T16:58:01Z",
+            "last_commit": "2026-11-19T17:58:31Z",
             "open_issues": 519,
             "owner": "mapbox",
             "repo": "mapbox-navigation-android",
@@ -23082,7 +23082,7 @@
             "language": "Kotlin",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-14T20:24:25Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "maplibre",
             "repo": "maplibre-compose",
             "stars": 595,
@@ -23143,8 +23143,8 @@
             "id": 13226069,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:29:48Z",
-            "open_issues": 181,
+            "last_commit": "2026-11-19T21:39:15Z",
+            "open_issues": 180,
             "owner": "locationtech",
             "repo": "geomesa",
             "stars": 1499,
@@ -23164,11 +23164,11 @@
             "id": 3040675,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T13:37:52Z",
+            "last_commit": "2026-11-19T14:48:40Z",
             "open_issues": 242,
             "owner": "locationtech",
             "repo": "geotrellis",
-            "stars": 1379,
+            "stars": 1378,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -23189,7 +23189,7 @@
             "open_issues": 78,
             "owner": "locationtech",
             "repo": "geowave",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "accumulo",
               "cassandra",
@@ -23245,11 +23245,11 @@
             "id": 1173152133,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T12:09:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T07:29:44Z",
+            "open_issues": 2,
             "owner": "BigBodyCobain",
             "repo": "Shadowbroker",
-            "stars": 11605,
+            "stars": 11608,
             "topics": [
               "ads-b",
               "adsb",
@@ -23291,7 +23291,7 @@
             "open_issues": 336,
             "owner": "domlysz",
             "repo": "BlenderGIS",
-            "stars": 9653,
+            "stars": 9656,
             "topics": [
               "3d",
               "3d-map",
@@ -23328,11 +23328,11 @@
             "id": 9952134,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T21:11:34Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-19T21:17:13Z",
+            "open_issues": 72,
             "owner": "python-visualization",
             "repo": "folium",
-            "stars": 7422,
+            "stars": 7421,
             "topics": [
               "data-science",
               "data-visualization",
@@ -23355,11 +23355,11 @@
             "id": 52909975,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T23:33:14Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-20T01:10:15Z",
+            "open_issues": 17,
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6326,
+            "stars": 6330,
             "topics": [
               "chart",
               "csv",
@@ -23394,7 +23394,7 @@
             "open_issues": 217,
             "owner": "mapbox",
             "repo": "tippecanoe",
-            "stars": 3147,
+            "stars": 3146,
             "topics": [
               "c-plus-plus",
               "geojson",
@@ -23419,7 +23419,7 @@
             "open_issues": 22,
             "owner": "felixpalmer",
             "repo": "procedural-gl-js",
-            "stars": 1348,
+            "stars": 1347,
             "topics": [
               "3d-maps",
               "javascript",
@@ -23446,7 +23446,7 @@
             "open_issues": 33,
             "owner": "ResidentMario",
             "repo": "geoplot",
-            "stars": 1214,
+            "stars": 1213,
             "topics": [
               "geopandas",
               "geospatial-data",
@@ -23494,7 +23494,7 @@
             "open_issues": 102,
             "owner": "developmentseed",
             "repo": "lonboard",
-            "stars": 979,
+            "stars": 978,
             "topics": [
               "anywidget",
               "apache-arrow",
@@ -23535,7 +23535,7 @@
             "open_issues": 112,
             "owner": "kosmtik",
             "repo": "kosmtik",
-            "stars": 751,
+            "stars": 750,
             "topics": [
               "cartocss",
               "javascript",
@@ -23584,7 +23584,7 @@
             "open_issues": 116,
             "owner": "holoviz",
             "repo": "geoviews",
-            "stars": 639,
+            "stars": 638,
             "topics": [
               "cartopy",
               "geographic-visualizations",
@@ -23635,7 +23635,7 @@
             "open_issues": 48,
             "owner": "jwass",
             "repo": "mplleaflet",
-            "stars": 520,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -23656,7 +23656,7 @@
             "open_issues": 46,
             "owner": "OpenGeoscience",
             "repo": "geojs",
-            "stars": 472,
+            "stars": 471,
             "topics": [
               "canvas2d",
               "geojs",
@@ -23900,7 +23900,7 @@
             "open_issues": 57,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4374,
+            "stars": 4373,
             "topics": [
               "c",
               "cplusplus",
@@ -23938,7 +23938,7 @@
             "open_issues": 10,
             "owner": "alyssaxuu",
             "repo": "mapus",
-            "stars": 3542,
+            "stars": 3541,
             "topics": [
               "annotation",
               "collaboration",
@@ -23970,11 +23970,11 @@
             "id": 419152443,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T00:27:27Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-19T01:58:04Z",
+            "open_issues": 108,
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2263,
+            "stars": 2264,
             "topics": [
               "maps",
               "openstreetmap",
@@ -24001,7 +24001,7 @@
             "open_issues": 39,
             "owner": "osm2pgsql-dev",
             "repo": "osm2pgsql",
-            "stars": 1686,
+            "stars": 1685,
             "topics": [
               "nominatim",
               "openstreetmap",
@@ -24024,7 +24024,7 @@
             "id": 144496157,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T19:12:22Z",
+            "last_commit": "2026-11-19T22:25:41Z",
             "open_issues": 230,
             "owner": "GenericMappingTools",
             "repo": "gmt",
@@ -24052,7 +24052,7 @@
             "id": 203819248,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:58:20Z",
+            "last_commit": "2026-11-19T15:44:27Z",
             "open_issues": 163,
             "owner": "CS-SI",
             "repo": "eodag",
@@ -24095,7 +24095,7 @@
             "open_issues": 7,
             "owner": "sommer",
             "repo": "veins",
-            "stars": 332,
+            "stars": 331,
             "topics": [
               "car2x",
               "omnet",
@@ -24148,7 +24148,7 @@
             "id": 12622745,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T14:56:19Z",
+            "last_commit": "2026-11-19T18:38:28Z",
             "open_issues": 3,
             "owner": "nextgis",
             "repo": "nextgisweb",
@@ -24246,7 +24246,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T15:08:16Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "riatelab",
             "repo": "magrit",
             "stars": 164,
@@ -24655,7 +24655,7 @@
             "open_issues": 3,
             "owner": "teamookla",
             "repo": "ookla-open-data",
-            "stars": 326,
+            "stars": 325,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -24789,7 +24789,7 @@
             "open_issues": 52,
             "owner": "opengeospatial",
             "repo": "geoparquet",
-            "stars": 1111,
+            "stars": 1110,
             "topics": [
               "apache-parquet",
               "cloud-native",
@@ -24816,7 +24816,7 @@
             "open_issues": 2,
             "owner": "urschrei",
             "repo": "Geopython",
-            "stars": 385,
+            "stars": 382,
             "topics": [
               "basemap",
               "choropleth",
@@ -25024,10 +25024,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T10:02:01Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 335708,
+            "stars": 335914,
             "topics": [
               "awesome",
               "awesome-list",
@@ -25055,7 +25055,7 @@
             "open_issues": 99,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23656,
+            "stars": 23657,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -25097,7 +25097,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10852,
+            "stars": 10851,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -25161,7 +25161,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7518,
+            "stars": 7517,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -25185,7 +25185,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 140,
+            "open_issues": 143,
             "owner": "sshuair",
             "repo": "awesome-gis",
             "stars": 5632,
@@ -25218,7 +25218,7 @@
             "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3923,
+            "stars": 3922,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -25248,7 +25248,7 @@
             "open_issues": 0,
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2636,
+            "stars": 2635,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -25269,7 +25269,7 @@
             "open_issues": 1,
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2558,
+            "stars": 2557,
             "topics": [
               "awesome",
               "awesome-list",
@@ -25295,7 +25295,7 @@
             "open_issues": 15,
             "owner": "acgeospatial",
             "repo": "awesome-earthobservation-code",
-            "stars": 1391,
+            "stars": 1390,
             "topics": [
               "awesome",
               "awesome-list",
@@ -25343,7 +25343,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-15T05:37:06Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "awesome-spectral-indices",
             "repo": "awesome-spectral-indices",
             "stars": 1207,
@@ -25384,11 +25384,11 @@
             "id": 209321064,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-29T10:33:17Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-19T19:38:53Z",
+            "open_issues": 2,
             "owner": "joewdavies",
             "repo": "awesome-frontend-gis",
-            "stars": 885,
+            "stars": 882,
             "topics": [
               "arcgis",
               "awesome",
@@ -25430,7 +25430,7 @@
             "open_issues": 5,
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
-            "stars": 587,
+            "stars": 586,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -25459,7 +25459,7 @@
             "open_issues": 47,
             "owner": "GeoscienceAustralia",
             "repo": "dea-notebooks",
-            "stars": 543,
+            "stars": 542,
             "topics": [
               "digitalearthaustralia",
               "documentation",
@@ -25523,7 +25523,7 @@
             "open_issues": 2,
             "owner": "pka",
             "repo": "awesome-georust",
-            "stars": 419,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:38.628Z"
@@ -25544,7 +25544,7 @@
             "open_issues": 37,
             "owner": "planetopendata",
             "repo": "awesome-sqlite",
-            "stars": 409,
+            "stars": 408,
             "topics": [
               "database",
               "sql",
@@ -25666,7 +25666,7 @@
             "open_issues": 0,
             "owner": "XploraHub",
             "repo": "awesome-mineral-exploration",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "awesome",
               "awesome-list",
@@ -25806,7 +25806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:22:04.246Z",
+    "last_updated": "2026-11-20T01:23:38.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Long list of geospatial tools and resources",
@@ -25815,10 +25815,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-18T20:03:15Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "sacridini",
       "repo": "Awesome-Geospatial",
-      "stars": 5380,
+      "stars": 5379,
       "topics": [
         "awesome",
         "awesome-list",
